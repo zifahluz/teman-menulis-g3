@@ -2013,6 +2013,37 @@
         "Saya mempertimbangkan sudut pandangan lain apabila sesuai.",
         "Kesimpulan saya selaras dengan hujah."
       ]
+    },
+    "detailed": {
+      "intro": "Dalam era digital ini, kursus dalam talian semakin mendapat sambutan dalam kalangan masyarakat yang ingin meningkatkan pengetahuan dan menguasai kemahiran baharu. Kemajuan teknologi membolehkan seseorang mengikuti pelbagai kursus tanpa perlu menghadiri kelas secara fizikal. Walaupun kaedah pembelajaran ini menawarkan pelbagai kemudahan, terdapat juga beberapa cabaran yang boleh menjejaskan keberkesanannya. Oleh itu, kelebihan dan kekurangan kursus dalam talian wajar diteliti bagi memahami peranannya dalam membantu seseorang mempelajari kemahiran baharu.",
+      "conclusion": "Kesimpulannya, kursus dalam talian mempunyai kelebihan dan kekurangan dalam membantu seseorang mempelajari kemahiran baharu. Walaupun kaedah ini menawarkan fleksibiliti dan akses kepada pelbagai sumber pembelajaran, kekurangan bimbingan secara langsung serta cabaran mengekalkan disiplin kendiri tidak boleh dipandang ringan. Oleh itu, keberkesanan kursus dalam talian bergantung pada kesesuaian kemahiran yang dipelajari, pendekatan pengajaran dan komitmen individu. Dengan penggunaan yang bijak, kursus dalam talian dapat menjadi salah satu pilihan pembelajaran yang bermanfaat.",
+      "focus": "memudahkan seseorang mempelajari kemahiran baharu",
+      "points": [
+        {
+          "side": "Menyokong",
+          "title": "Fleksibiliti masa dan tempat",
+          "explain": "Individu boleh mengikuti kursus mengikut jadual sendiri tanpa perlu hadir ke pusat latihan.",
+          "example": "Pekerja boleh mempelajari kemahiran menyunting video selepas waktu bekerja."
+        },
+        {
+          "side": "Menyokong",
+          "title": "Akses kepada pelbagai kursus dan sumber",
+          "explain": "Pelbagai kursus dan bahan boleh diikuti melalui platform pembelajaran dalam talian.",
+          "example": "Seseorang boleh mempelajari bahasa asing atau pengaturcaraan melalui Coursera atau YouTube."
+        },
+        {
+          "side": "Menentang",
+          "title": "Kekurangan bimbingan secara langsung",
+          "explain": "Sesetengah kemahiran memerlukan tunjuk ajar dan pembetulan segera daripada tenaga pengajar.",
+          "example": "Kemahiran membaiki peralatan elektrik sukar dikuasai melalui video semata-mata."
+        },
+        {
+          "side": "Menentang",
+          "title": "Memerlukan disiplin dan motivasi kendiri",
+          "explain": "Tanpa pemantauan, peserta mungkin bertangguh atau hilang tumpuan.",
+          "example": "Seseorang mungkin tidak menamatkan kursus kerana terganggu oleh media sosial."
+        }
+      ]
     }
   },
   {
