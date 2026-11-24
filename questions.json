@@ -920,6 +920,11 @@
           "title": "Ganjaran kemahiran",
           "explain": "Gaji mencerminkan tanggungjawab",
           "example": "Pekerja mahir memilih tawaran setimpal"
+        },
+        {
+          "title": "Faedah pekerjaan",
+          "explain": "Gaji tinggi membantu mencapai matlamat kewangan",
+          "example": "Menyimpan untuk rumah"
         }
       ],
       [
@@ -937,6 +942,11 @@
           "title": "Perkembangan kerjaya",
           "explain": "Latihan membuka peluang",
           "example": "Graduan memilih program bimbingan"
+        },
+        {
+          "title": "Budaya kerja",
+          "explain": "Suasana kerja sihat mengurangkan tekanan",
+          "example": "Memilih majikan yang menghormati pekerja"
         }
       ]
     ]
@@ -987,6 +997,11 @@
           "title": "Penguatkuasaan",
           "explain": "Pemeriksaan memastikan pematuhan",
           "example": "Pemeriksaan kebersihan"
+        },
+        {
+          "title": "Peraturan pembangunan",
+          "explain": "Keperluan landskap menggalakkan kehijauan",
+          "example": "Penanaman pokok di kawasan pembangunan"
         }
       ],
       [
@@ -1004,6 +1019,11 @@
           "title": "Kerjasama masyarakat",
           "explain": "Penduduk menjaga ruang bersama",
           "example": "Gotong-royong"
+        },
+        {
+          "title": "Penyelenggaraan",
+          "explain": "Penjagaan taman secara berterusan memastikan kehijauan",
+          "example": "Pemangkasan dan penyiraman"
         }
       ]
     ]
@@ -1054,6 +1074,11 @@
           "title": "Perkhidmatan",
           "explain": "Kemahiran digital memudahkan urusan",
           "example": "Tempahan perkhidmatan awam"
+        },
+        {
+          "title": "Komunikasi",
+          "explain": "Teknologi memudahkan kerjasama jarak jauh",
+          "example": "Mesyuarat video"
         }
       ],
       [
@@ -1071,6 +1096,11 @@
           "title": "Akses tidak sama",
           "explain": "Alternatif bukan digital masih diperlukan",
           "example": "Warga emas menggunakan kaunter"
+        },
+        {
+          "title": "Privasi",
+          "explain": "Penggunaan teknologi tidak semestinya sesuai bagi semua urusan",
+          "example": "Perbincangan sulit secara bersemuka"
         }
       ]
     ]
@@ -1121,6 +1151,11 @@
           "title": "Kepercayaan dalam tugasan",
           "explain": "Kemahiran akademik membantu kumpulan",
           "example": "Projek kelas"
+        },
+        {
+          "title": "Pengiktirafan",
+          "explain": "Prestasi boleh menarik perhatian positif",
+          "example": "Rakan mengucapkan tahniah selepas ujian"
         }
       ],
       [
@@ -1138,6 +1173,11 @@
           "title": "Sikap rendah hati",
           "explain": "Markah tidak menjamin sikap baik",
           "example": "Pelajar cemerlang yang angkuh"
+        },
+        {
+          "title": "Kepercayaan",
+          "explain": "Menepati janji lebih penting daripada markah",
+          "example": "Rakan menjaga rahsia"
         }
       ]
     ]
@@ -1182,6 +1222,11 @@
           "title": "Usaha terarah",
           "explain": "Latihan khusus memperbaiki kelemahan",
           "example": "Latihan lisan berkala"
+        },
+        {
+          "title": "Keyakinan",
+          "explain": "Kemajuan kecil menggalakkan usaha berterusan",
+          "example": "Pelajar mencatat peningkatan markah"
         }
       ],
       [
@@ -1194,6 +1239,11 @@
           "title": "Strategi tidak sesuai",
           "explain": "Usaha tanpa maklum balas mungkin tidak berkesan",
           "example": "Menghafal tanpa memahami"
+        },
+        {
+          "title": "Kesihatan",
+          "explain": "Keadaan kesihatan boleh menghalang pencapaian walaupun berusaha",
+          "example": "Atlet terpaksa berehat kerana sakit"
         }
       ]
     ]
@@ -1269,6 +1319,11 @@
           "title": "Akses sumber",
           "explain": "Pelbagai kursus tersedia",
           "example": "Video bahasa asing"
+        },
+        {
+          "title": "Ulangan pembelajaran",
+          "explain": "Rakaman membolehkan pelajar mengulang bahagian sukar",
+          "example": "Mengulang tutorial suntingan video"
         }
       ],
       [
@@ -1281,6 +1336,11 @@
           "title": "Disiplin kendiri",
           "explain": "Gangguan menjejaskan konsistensi",
           "example": "Kursus tidak diselesaikan"
+        },
+        {
+          "title": "Jurang digital",
+          "explain": "Internet atau peranti yang tidak memadai mengganggu pembelajaran",
+          "example": "Video latihan terputus-putus"
         }
       ]
     ]
@@ -1331,6 +1391,11 @@
           "title": "Promosi sosial",
           "explain": "Perkongsian meningkatkan minat",
           "example": "Ulasan rakan"
+        },
+        {
+          "title": "Bakat tempatan",
+          "explain": "Sokongan terhadap pelakon tempatan menarik penonton muda",
+          "example": "Mengikuti karya pelakon kegemaran"
         }
       ],
       [
@@ -1348,6 +1413,11 @@
           "title": "Pendedahan terhad",
           "explain": "Belia mungkin tidak mengetahui judul tempatan",
           "example": "Promosi kecil"
+        },
+        {
+          "title": "Kos hiburan",
+          "explain": "Belia mungkin memilih hiburan percuma berbanding filem tempatan",
+          "example": "Menonton video pendek"
         }
       ]
     ]
@@ -1398,6 +1468,11 @@
           "title": "Ciri interaktif",
           "explain": "Carian dan saiz teks membantu",
           "example": "Kamus terbina"
+        },
+        {
+          "title": "Penjimatan ruang",
+          "explain": "Koleksi digital tidak memerlukan rak",
+          "example": "Pelajar menyimpan banyak buku dalam tablet"
         }
       ],
       [
@@ -1415,6 +1490,11 @@
           "title": "Akses peranti",
           "explain": "Bacaan digital bergantung pada peranti",
           "example": "Bateri habis"
+        },
+        {
+          "title": "Keperluan pendidikan",
+          "explain": "Buku bercetak memudahkan catatan fizikal",
+          "example": "Menanda halaman buku latihan"
         }
       ]
     ]
@@ -1465,6 +1545,11 @@
           "title": "Takut mengecewakan keluarga",
           "explain": "Belia mengelak risiko",
           "example": "Pemilihan kursus"
+        },
+        {
+          "title": "Risiko reputasi",
+          "explain": "Kegagalan terbuka boleh menimbulkan rasa malu",
+          "example": "Takut mencuba persembahan"
         }
       ],
       [
@@ -1482,6 +1567,11 @@
           "title": "Ketahanan",
           "explain": "Belia bangkit selepas kegagalan",
           "example": "Latihan sukan"
+        },
+        {
+          "title": "Keusahawanan",
+          "explain": "Sebahagian belia berani mencuba idea tanpa jaminan kejayaan",
+          "example": "Menjalankan projek jualan sekolah"
         }
       ]
     ]
@@ -1532,6 +1622,11 @@
           "title": "Pilihan luas",
           "explain": "Barang khusus mudah dicari",
           "example": "Buku khusus"
+        },
+        {
+          "title": "Ulasan pengguna",
+          "explain": "Maklum balas membantu menilai pilihan",
+          "example": "Membandingkan ulasan peralatan"
         }
       ],
       [
@@ -1549,6 +1644,11 @@
           "title": "Keperluan segera",
           "explain": "Kedai fizikal memberi barang terus",
           "example": "Alat tulis sebelum kelas"
+        },
+        {
+          "title": "Kos penghantaran",
+          "explain": "Caj tambahan boleh menghapuskan penjimatan",
+          "example": "Pembelian barang murah"
         }
       ]
     ]
@@ -1599,6 +1699,11 @@
           "title": "Hubungan",
           "explain": "Kerjasama membina persahabatan",
           "example": "Pasukan sukan"
+        },
+        {
+          "title": "Kesejahteraan",
+          "explain": "Kesihatan tidak wajar dikorbankan demi kemenangan",
+          "example": "Atlet berehat apabila cedera"
         }
       ],
       [
@@ -1616,6 +1721,11 @@
           "title": "Motivasi",
           "explain": "Sasaran menang mendorong latihan",
           "example": "Atlet berlatih"
+        },
+        {
+          "title": "Pengiktirafan",
+          "explain": "Kemenangan boleh mengiktiraf usaha yang lama",
+          "example": "Anugerah pertandingan"
         }
       ]
     ]
@@ -1666,6 +1776,11 @@
           "title": "Peluang",
           "explain": "Fleksibiliti membuka pilihan",
           "example": "Kerjaya baharu"
+        },
+        {
+          "title": "Kerjasama",
+          "explain": "Penyesuaian membantu bekerja dengan pelbagai orang",
+          "example": "Menukar peranan dalam pasukan"
         }
       ],
       [
@@ -1683,6 +1798,11 @@
           "title": "Kepakaran",
           "explain": "Kejayaan juga memerlukan penguasaan mendalam",
           "example": "Pakar berlatih lama"
+        },
+        {
+          "title": "Nasib dan keadaan",
+          "explain": "Faktor luar turut menentukan hasil",
+          "example": "Peluang pekerjaan terhad"
         }
       ]
     ]
@@ -1733,6 +1853,11 @@
           "title": "Perbelanjaan impulsif",
           "explain": "Promosi menggalakkan pembelian",
           "example": "Belia membeli tanpa rancangan"
+        },
+        {
+          "title": "Persaingan kedai kecil",
+          "explain": "Perniagaan kecil mungkin kehilangan pelanggan",
+          "example": "Kedai kejiranan bersaing dengan rangkaian besar"
         }
       ],
       [
@@ -1750,6 +1875,11 @@
           "title": "Ruang sosial",
           "explain": "Kemudahan menjadi tempat berkumpul",
           "example": "Perpustakaan dalam pusat beli-belah"
+        },
+        {
+          "title": "Akses perkhidmatan",
+          "explain": "Kemudahan berdekatan membantu warga emas",
+          "example": "Farmasi di estet"
         }
       ]
     ]
@@ -1800,6 +1930,11 @@
           "title": "Kejujuran",
           "explain": "Sahabat menegur ketika bermasalah",
           "example": "Nasihat tentang kesilapan"
+        },
+        {
+          "title": "Sokongan emosi",
+          "explain": "Kesusahan menguji kesanggupan mendengar",
+          "example": "Menemani sahabat yang kecewa"
         }
       ],
       [
@@ -1817,6 +1952,11 @@
           "title": "Menghormati batas",
           "explain": "Persahabatan terlihat dalam pilihan biasa",
           "example": "Menghormati pendapat"
+        },
+        {
+          "title": "Kejujuran harian",
+          "explain": "Sahabat menunjukkan integriti tanpa krisis",
+          "example": "Memulangkan barang pinjaman"
         }
       ]
     ]
@@ -1867,6 +2007,11 @@
           "title": "Bimbingan guru",
           "explain": "Maklum balas membetulkan tingkah laku",
           "example": "Guru membimbing konflik"
+        },
+        {
+          "title": "Amalan berstruktur",
+          "explain": "Rutin sekolah melatih disiplin",
+          "example": "Menepati masa setiap hari"
         }
       ],
       [
@@ -1884,6 +2029,11 @@
           "title": "Masyarakat",
           "explain": "Pengalaman luar sekolah mengajar empati",
           "example": "Khidmat masyarakat"
+        },
+        {
+          "title": "Media",
+          "explain": "Kandungan digital turut mempengaruhi sikap",
+          "example": "Menilai teladan dalam video"
         }
       ]
     ]
@@ -1934,6 +2084,11 @@
           "title": "Rendah hati",
           "explain": "Sikap baik mengekalkan hubungan",
           "example": "Pemimpin mendengar"
+        },
+        {
+          "title": "Keadilan",
+          "explain": "Layanan adil menimbulkan rasa hormat",
+          "example": "Ketua membahagikan tugas saksama"
         }
       ],
       [
@@ -1951,6 +2106,11 @@
           "title": "Penggunaan kekayaan",
           "explain": "Sumber boleh membawa manfaat",
           "example": "Derma untuk pendidikan"
+        },
+        {
+          "title": "Pencapaian",
+          "explain": "Usaha menguasai bakat juga dihormati",
+          "example": "Pemuzik berlatih bertahun-tahun"
         }
       ]
     ]
@@ -1995,6 +2155,11 @@
           "title": "Pengurusan sumber",
           "explain": "Perancangan mengelakkan pembaziran",
           "example": "Bajet projek"
+        },
+        {
+          "title": "Pemantauan",
+          "explain": "Rancangan membolehkan kemajuan dinilai",
+          "example": "Semakan sasaran mingguan"
         }
       ],
       [
@@ -2007,6 +2172,11 @@
           "title": "Penyesuaian",
           "explain": "Rancangan boleh gagal apabila keadaan berubah",
           "example": "Tukar strategi selepas maklum balas"
+        },
+        {
+          "title": "Tindakan awal",
+          "explain": "Percubaan boleh membantu membentuk rancangan kemudian",
+          "example": "Menguji prototaip mudah"
         }
       ]
     ]
@@ -2057,6 +2227,11 @@
           "title": "Perbincangan",
           "explain": "Tema filem mencetuskan refleksi",
           "example": "Perbincangan kelas"
+        },
+        {
+          "title": "Akibat tindakan",
+          "explain": "Jalan cerita memperlihatkan kesan pilihan moral",
+          "example": "Watak menghadapi akibat penipuan"
         }
       ],
       [
@@ -2074,6 +2249,11 @@
           "title": "Pengalaman sebenar",
           "explain": "Tindakan harian membentuk nilai",
           "example": "Khidmat masyarakat"
+        },
+        {
+          "title": "Rakan sebaya",
+          "explain": "Pergaulan harian boleh lebih berpengaruh",
+          "example": "Rakan menggalakkan amalan baik"
         }
       ]
     ]
@@ -2118,6 +2298,11 @@
           "title": "Motivasi dalaman",
           "explain": "Empati membantu perubahan",
           "example": "Bimbingan selepas gagal"
+        },
+        {
+          "title": "Keselamatan emosi",
+          "explain": "Kasih sayang mengurangkan rasa takut untuk belajar daripada kesilapan",
+          "example": "Anak meminta bantuan"
         }
       ],
       [
@@ -2130,6 +2315,11 @@
           "title": "Akibat konsisten",
           "explain": "Tindakan mendidik menghalang pengulangan",
           "example": "Membaiki kerosakan"
+        },
+        {
+          "title": "Pembentukan tabiat",
+          "explain": "Rutin disiplin melatih kawalan diri",
+          "example": "Menyiapkan tugasan mengikut jadual"
         }
       ]
     ]
@@ -2174,6 +2364,11 @@
           "title": "Interaksi cetek",
           "explain": "Hubungan digital boleh mengurangkan empati",
           "example": "Mengabaikan mesej bantuan"
+        },
+        {
+          "title": "Kebergantungan algoritma",
+          "explain": "Tumpuan pada kandungan sendiri boleh mengecilkan perhatian terhadap isu masyarakat",
+          "example": "Mengabaikan berita komuniti"
         }
       ],
       [
@@ -2186,6 +2381,11 @@
           "title": "Hubungan jarak jauh",
           "explain": "Komunikasi memudahkan sokongan",
           "example": "Panggilan keluarga"
+        },
+        {
+          "title": "Kesedaran awam",
+          "explain": "Maklumat digital meningkatkan empati terhadap isu sosial",
+          "example": "Kisah sukarelawan"
         }
       ]
     ]
@@ -2230,6 +2430,11 @@
           "title": "Platform awam",
           "explain": "Selebriti boleh mempromosi nilai",
           "example": "Kempen amal"
+        },
+        {
+          "title": "Kepercayaan peminat",
+          "explain": "Teladan baik menghormati kepercayaan pengikut",
+          "example": "Mempromosi penggunaan media secara bertanggungjawab"
         }
       ],
       [
@@ -2242,6 +2447,11 @@
           "title": "Tanggungjawab bersama",
           "explain": "Remaja perlu menilai sendiri",
           "example": "Bimbingan keluarga"
+        },
+        {
+          "title": "Batas kepakaran",
+          "explain": "Populariti tidak menjadikan selebriti pakar dalam semua perkara",
+          "example": "Nasihat kesihatan perlu dinilai"
         }
       ]
     ]
@@ -2286,6 +2496,11 @@
           "title": "Tanggungjawab",
           "explain": "Anak belajar akibat keputusan",
           "example": "Mengurus wang saku"
+        },
+        {
+          "title": "Kemahiran menyelesaikan masalah",
+          "explain": "Pilihan sendiri melatih pertimbangan",
+          "example": "Merancang projek sekolah"
         }
       ],
       [
@@ -2298,6 +2513,11 @@
           "title": "Keselamatan",
           "explain": "Ibu bapa perlu membimbing keputusan berisiko",
           "example": "Aktiviti berbahaya"
+        },
+        {
+          "title": "Kesan terhadap keluarga",
+          "explain": "Keputusan tertentu melibatkan sumber bersama",
+          "example": "Memilih pembelian mahal"
         }
       ]
     ]
@@ -2348,6 +2568,11 @@
           "title": "Ketidakpastian masa depan",
           "explain": "Perubahan pekerjaan memerlukan kemahiran",
           "example": "Pemilihan laluan pendidikan"
+        },
+        {
+          "title": "Kos sara hidup",
+          "explain": "Belia perlu belajar mengurus wang dalam keadaan harga meningkat",
+          "example": "Membuat bajet wang saku"
         }
       ]
     ]
@@ -2398,6 +2623,11 @@
           "title": "Persekitaran sekolah",
           "explain": "Amalan bersama meningkatkan kebersihan",
           "example": "Kempen pengurangan sisa"
+        },
+        {
+          "title": "Penyertaan pelajar",
+          "explain": "Aktiviti pelbagai minat menggalakkan keterlibatan",
+          "example": "Kelab mencuba kemahiran baharu"
         }
       ]
     ]
@@ -2448,6 +2678,11 @@
           "title": "Bantuan masyarakat",
           "explain": "Inisiatif menghubungkan bantuan",
           "example": "Program komuniti"
+        },
+        {
+          "title": "Budaya membantu",
+          "explain": "Amalan derma menunjukkan keprihatinan",
+          "example": "Sumbangan barangan keperluan"
         }
       ],
       [
@@ -2465,6 +2700,11 @@
           "title": "Bantuan tidak konsisten",
           "explain": "Keprihatinan kadangkala bermusim",
           "example": "Sumbangan hanya ketika kempen"
+        },
+        {
+          "title": "Kurang empati dalam talian",
+          "explain": "Komen kasar boleh menjejaskan orang lain",
+          "example": "Ejekan di media sosial"
         }
       ]
     ]
