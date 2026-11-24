@@ -32,6 +32,42 @@
         "Saya telah menunjukkan manfaat yang tetap diperoleh.",
         "Saya telah menunjukkan perasaan sebelum dan selepas."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Jahitan di Hari Amal",
+        "plot": [
+          "Aku baru belajar menggunakan mesin jahit lalu menawarkan diri menjahit beg kain di hari amal.",
+          "Jahitan pemegang terbuka ketika seorang pengunjung mengangkat beg contoh; mukaku terasa panas.",
+          "Ketika barisan semakin panjang, aku mengaku semua beg daripada kumpulan itu perlu diperiksa.",
+          "Aku menggantikan beg yang rosak dan belajar menguji jahitan dengan beban sebelum menyerahkannya.",
+          "Aku masih terkilan, tetapi kini tahu mengapa jahitan yang kelihatan kemas belum tentu kukuh."
+        ]
+      },
+      {
+        "title": "Skrin Gelap di Dewan",
+        "plot": [
+          "Selepas bengkel suntingan video, aku menyiapkan klip perpisahan untuk tayangan sekolah.",
+          "Skrin menjadi hitam di tengah tayangan kerana klip masih merujuk fail dalam komputerku.",
+          "Dalam dewan yang sunyi, aku memilih menghentikan tayangan daripada berulang kali menekan butang main.",
+          "Dengan bantuan guru, aku menayangkan gambar pegun dahulu lalu mengeksport semula video untuk dikongsi kemudian.",
+          "Aku malu mengenang dewan itu, tetapi teknik menyemak salinan akhir berguna dalam projek seterusnya."
+        ]
+      },
+      {
+        "title": "Roti yang Tidak Mengembang",
+        "plot": [
+          "Aku baru belajar membuat roti dan menawarkan diri menyediakan roti untuk sarapan keluarga di rumah nenek.",
+          "Doh yang kuuli tidak mengembang; bau hangit memenuhi dapur apabila aku cuba membakarnya juga.",
+          "Apabila nenek hendak menghidangkan roti itu, aku mengaku telah menggunakan air terlalu panas dan meminta dia menangguhkan hidangan.",
+          "Kami menghidangkan makanan lain, kemudian aku menguji yis dalam air suam dengan bimbingan nenek.",
+          "Walaupun kecewa, aku gembira dapat memahami kesilapanku dan mengulang kemahiran itu dengan lebih yakin."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah bunyi, bau atau reaksi orang sekeliling yang menajamkan rasa kecewa?",
+      "ending": "Apakah perubahan pada cara kamu menggunakan kemahiran itu selepas pengalaman tersebut?"
     }
   },
   {
@@ -67,6 +103,42 @@
         "Saya telah menunjukkan usaha menjejaki pemilik.",
         "Saya telah menunjukkan proses pemulangan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Nama pada Kad Lama",
+        "plot": [
+          "Semasa mengemas rak, aku menjumpai novel kegemaran yang pernah dipinjamkan oleh sahabat sekolah rendah; tandatangan penulis masih jelas.",
+          "Nombornya tidak lagi aktif, tetapi kad hari jadinya mencatat nama kelab tempat kami pernah bertemu.",
+          "Kelab itu sudah berpindah dan aku hampir berputus asa sebelum bekas jurulatih menawarkan diri menyampaikan pesanku.",
+          "Dengan persetujuannya, sahabatku menghubungiku dan kami bertemu di perpustakaan untuk memulangkan novel itu.",
+          "Aku lega melihatnya menyentuh tandatangan yang pernah ditunjukkannya dengan bangga."
+        ]
+      },
+      {
+        "title": "Pesanan Melalui Guru",
+        "plot": [
+          "Ketika mengemas rak, aku menemui buku kegemaran bertandatangan penulis milik rakan lama yang pernah meminjamkannya kepadaku.",
+          "Aku tidak tahu sekolah baharunya dan tiada lagi kenalan yang boleh menghubunginya.",
+          "Aku meminta bekas guru kami menyampaikan pesanan kepada keluarganya tanpa memberikan nombor mereka kepadaku.",
+          "Rakan itu bersetuju menerima buku melalui guru kerana sedang berada di luar negara, lalu menghantar gambar selepas mengambilnya.",
+          "Melihat buku itu kembali ke rak pemiliknya melegakan aku, walaupun kami belum sempat bertemu."
+        ]
+      },
+      {
+        "title": "Jejak Pesta Buku",
+        "plot": [
+          "Di celah buku pada rak yang kukemas, aku menemui komik kegemaran bertandatangan penulis yang dipinjamkan oleh teman lama sebelum kami terputus hubungan.",
+          "Gambar acara tandatangan membantu aku mengingati seorang lagi peserta yang mungkin mengenalinya.",
+          "Peserta itu cuba menyampaikan pesananku, tetapi temanku menyangka aku tersalah orang sehingga aku menghantar gambar halaman pertama.",
+          "Kami bertemu di pesta buku berikutnya; aku membawa komik dalam sampul pelindung dan dia menyemak tandatangannya.",
+          "Kami berbual semula tentang buku selepas bertahun-tahun tanpa khabar."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Butiran manakah pada buku membantu kamu memastikan identiti pemiliknya?",
+      "ending": "Apakah gerak tubuh atau ekspresi sahabat ketika menerima kembali buku itu?"
     }
   },
   {
@@ -102,6 +174,42 @@
         "Saya telah menunjukkan pertengkaran.",
         "Saya telah menunjukkan penyelesaian bersama."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Jadual di Peti Sejuk",
+        "plot": [
+          "Setiap malam aku membasuh pinggan dan menyapu lantai, sedangkan adik sering meninggalkan tugasnya.",
+          "Pertengkaran berulang apabila kami saling menyalahkan di dapur yang masih berselerak.",
+          "Aku meletakkan senarai tugas di hadapan keluarga dan adik mengaku tidak tahu cara mencuci kuali yang sering ditinggalkannya.",
+          "Aku menunjukkannya sekali, lalu kami menggilir tugas berat mengikut hari dan menyemak jadual selepas seminggu.",
+          "Aku berasa lebih dihargai apabila adik mula menanda tugasan yang sudah diselesaikannya."
+        ]
+      },
+      {
+        "title": "Dua Jadual Latihan",
+        "plot": [
+          "Aku menjemur pakaian dan mengemas rumah hampir setiap petang ketika adik menghadiri latihan bola.",
+          "Aku meminta adik membantu pada hari pertandingan, lalu pertengkaran lama berulang apabila dia enggan.",
+          "Ibu mendengar kami membandingkan jadual dan aku sedar petang yang lapang bagi aku ialah petang paling sibuk bagi adik.",
+          "Adik mengambil alih kerja pagi hujung minggu dan kami menukar tugas apabila salah seorang ada pertandingan.",
+          "Aku lebih tenang kerana sumbangan kami kini seimbang sepanjang minggu."
+        ]
+      },
+      {
+        "title": "Kuali Hari Ahad",
+        "plot": [
+          "Adik selalu memasak sarapan keluarga, tetapi dia meninggalkan kuali dan lantai berminyak untuk aku bersihkan.",
+          "Selepas beberapa kali bertengkar, aku enggan mengemas dan dapur tidak dapat digunakan untuk menyiapkan makan tengah hari.",
+          "Apabila ibu terpaksa menangguhkan masakannya, aku dan adik mengukur masa yang diperlukan untuk memasak serta mengemas.",
+          "Kami menggilir peranan memasak dan mencuci, dengan peraturan membersihkan tumpahan sendiri.",
+          "Aku lega melihat adik mula mengambil berat tentang kerja yang selama ini tidak disedarinya."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Bagaimanakah dapur atau ruang keluarga mencerminkan pertengkaran kamu?",
+      "ending": "Apakah perubahan pada pembahagian tugas yang membuktikan persetujuan itu adil?"
     }
   },
   {
@@ -137,6 +245,42 @@
         "Saya telah menunjukkan campur tangan kamu.",
         "Saya telah menunjukkan penyelesaian."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Ruang untuk Kerusi Roda",
+        "plot": [
+          "Di pusat penjaja yang sesak, sekumpulan remaja duduk di meja khas ketika seorang warga emas tiba bersama isterinya yang berkerusi roda.",
+          "Warga emas itu meminta ruang, tetapi suara kedua-dua pihak meninggi kerana remaja menyangka tanda pada meja sudah tidak digunakan.",
+          "Aku menunjukkan tanda pada tiang yang terlindung di belakang dulang dan menawarkan untuk mencari meja lain bersama mereka.",
+          "Seorang remaja mengalihkan kerusi, sementara aku membantu yang lain membawa dulang ke meja yang baru kosong.",
+          "Aku lega melihat laluan ke meja khas kembali lapang."
+        ]
+      },
+      {
+        "title": "Dulang dalam Barisan",
+        "plot": [
+          "Aku sedang membawa makanan ketika warga emas bertongkat bertengkar dengan sekumpulan remaja yang menggunakan meja khas di pusat penjaja.",
+          "Remaja itu takut kehilangan tempat kerana seorang lagi sedang beratur; warga emas pula tidak boleh berdiri lama.",
+          "Apabila suara mereka makin kuat, aku menawarkan kerusiku buat sementara dan meminta pembantu pusat penjaja membantu mencari ruang.",
+          "Pembantu menemui meja berkongsi untuk remaja itu, sementara aku memastikan tongkat warga emas tidak menghalang laluan.",
+          "Aku sedar keperluan mendesak boleh diterangkan tanpa menenggelamkan suara sesiapa."
+        ]
+      },
+      {
+        "title": "Isyarat di Meja Hujung",
+        "plot": [
+          "Di pusat penjaja, aku melihat sekumpulan remaja menggunakan meja khas dan seorang warga emas menegur mereka bagi pihak cucunya yang berkerusi roda.",
+          "Remaja ketawa sesama sendiri kerana tidak mendengar teguran di tengah bunyi kipas; warga emas menganggap mereka mempermainkannya lalu bertengkar.",
+          "Aku berdiri di sisi meja dan meminta kedua-dua pihak mendengar sebab teguran itu satu persatu.",
+          "Remaja meminta maaf, mengalihkan beg, lalu berpindah ke tempat duduk yang ditunjukkan oleh seorang peniaga.",
+          "Aku lega apabila salah faham itu reda dan warga emas dapat menemani cucunya makan."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang kamu lihat atau dengar sebelum mencelah, dan siapa paling memerlukan ruang?",
+      "ending": "Bagaimanakah keadaan meja dan laluan menunjukkan bahawa pertengkaran sudah reda?"
     }
   },
   {
@@ -172,6 +316,42 @@
         "Saya telah menunjukkan pertengkaran.",
         "Saya telah menunjukkan pengajaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Barisan Ketiga",
+        "plot": [
+          "Dalam persembahan tari, sekumpulan remaja mengulas gerak penari dengan suara kuat; dua penonton sebaris menegur mereka.",
+          "Remaja membalas dengan sindiran dan pertengkaran meletus ketika muzik menjadi perlahan.",
+          "Aku melihat salah seorang penonton mula berdiri lalu meminta petugas dewan masuk melalui lorong sisi.",
+          "Petugas mengiringi remaja keluar untuk berbincang dan persembahan diteruskan selepas bunyi di barisan itu reda.",
+          "Aku belajar bahawa masa dan cara menegur boleh melindungi tumpuan seluruh dewan."
+        ]
+      },
+      {
+        "title": "Detik Paling Sunyi",
+        "plot": [
+          "Ketika menonton drama, aku mendengar sekumpulan remaja mengejek pelakon; dua penonton sebaris meminta mereka senyap.",
+          "Salah seorang remaja membalas dengan kuat dan kedua-dua penonton bertengkar dengannya sehingga beberapa baris turut berpaling.",
+          "Seorang pelakon terhenti ketika dialog penting; seorang guru pengiring mengajak remaja dan dua penonton keluar sebentar.",
+          "Guru dan petugas menyelesaikan pertikaian di luar, sementara pelakon menyambung daripada baris terakhirnya.",
+          "Aku sedar komen yang dilontarkan sekejap boleh menggugat keberanian orang yang sudah lama berlatih."
+        ]
+      },
+      {
+        "title": "Lorong di Tepi Pentas",
+        "plot": [
+          "Ketika persembahan muzik, sekumpulan remaja mengeluarkan komen kuat tentang penyanyi dan dua penonton sebaris menegur mereka.",
+          "Remaja mempersoalkan hak penonton itu untuk menegur, lalu pertengkaran mengatasi bunyi alat muzik.",
+          "Sewaktu jeda, salah seorang remaja melihat penonton di sebelahnya terkejut lalu mengakui mereka sudah melampaui batas.",
+          "Dia meminta maaf kepada kedua-dua penonton dan memujuk rakannya menangguhkan perbincangan hingga persembahan tamat.",
+          "Aku belajar membezakan hak memberi pendapat dengan tanggungjawab memilih masa dan tempat."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang kamu dengar ketika komen bertukar menjadi pertengkaran?",
+      "ending": "Bagaimanakah reaksi penonton atau penghibur membantu kamu merumuskan pengajaran?"
     }
   },
   {
@@ -207,6 +387,42 @@
         "Saya telah menunjukkan usaha gagal.",
         "Saya telah menunjukkan pengajaran amanah."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Sampul di Celah Fail",
+        "plot": [
+          "Guru menugaskan aku menyerahkan borang penyertaan asal kepada petugas pertandingan; aku membawa sampul itu menaiki bas.",
+          "Selepas berhimpit di pintu bas, aku mendapati sampul tidak lagi terselit pada failku.",
+          "Di pusat pertukaran, aku terpaksa menelefon guru apabila kakitangan tidak menemui sampul dalam bas atau laporan barang hilang.",
+          "Sampul itu tidak ditemui dan sekolah terpaksa memohon tempoh untuk menyiapkan borang gantian.",
+          "Aku malu kerana menyembunyikan kehilangan itu pada mulanya dan sejak itu memeriksa ruang berzip sebelum turun."
+        ]
+      },
+      {
+        "title": "Sampul di Tempat Duduk",
+        "plot": [
+          "Ibu meminta aku menghantar sampul berisi dokumen pendaftaran kepada mak cik; aku meletakkannya di sebelah beg dalam bas.",
+          "Sewaktu turun dengan tergesa-gesa, aku mengangkat beg sahaja dan menyedari kehilangan itu beberapa hentian kemudian.",
+          "Setelah pejabat barang hilang mengesahkan tiada sampul ditemui, aku memberitahu mak cik bahawa dia perlu menunda urusannya.",
+          "Aku menemaninya mendapatkan salinan dokumen, tetapi sampul asal tetap tidak ditemui.",
+          "Aku menyesal kerana terburu-buru turun dan mula menyemak tempat duduk sebelum meninggalkan bas."
+        ]
+      },
+      {
+        "title": "Sampul Berpelekat Merah",
+        "plot": [
+          "Aku diberi sampul berisi surat pengesahan penting untuk dihantar kepada jurulatih di gelanggang.",
+          "Dalam bas yang sesak, sampul terkeluar dari poket luar beg tanpa kusadari.",
+          "Aku menjejak semula perjalanan dan menyerahkan butiran kepada petugas tetapi terpaksa mengaku kepada jurulatih apabila usaha itu gagal.",
+          "Jurulatih meminta salinan rasmi daripada sekolah; aku tidak dapat memulangkan sampul asal.",
+          "Aku belajar melaporkan masalah lebih awal, walaupun masih berharap dapat menyelesaikannya sendiri."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Pada saat bilakah kamu pasti sampul itu hilang, dan bagaimanakah tubuh kamu bertindak balas?",
+      "ending": "Apakah yang kamu lakukan selepas pencarian gagal, dan apakah tabiat yang kamu ubah?"
     }
   },
   {
@@ -242,6 +458,42 @@
         "Saya telah menunjukkan kehilangan pelanggan.",
         "Saya telah menunjukkan bantuan kamu dan pengajaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Gerai Selepas Waktu Sibuk",
+        "plot": [
+          "Pak cik didenda kerana kebersihan gerainya; pelanggan turut mengadu tentang layanan kasar dan ramai berhenti datang.",
+          "Aku melihat pak cik mudah naik suara ketika mengendalikan pesanan dan pembersihan serentak.",
+          "Seorang pelanggan tetap menolak pelawaannya untuk kembali sehingga pak cik bersetuju mengubah cara kerja.",
+          "Aku membantunya menyediakan jadual pembersihan dan sistem nombor pesanan; selepas beberapa minggu, pelanggan mula datang kembali.",
+          "Aku belajar bahawa kepercayaan tumbuh daripada kebersihan dan layanan yang konsisten."
+        ]
+      },
+      {
+        "title": "Tanda Harga yang Jelas",
+        "plot": [
+          "Gerai pak cik lengang selepas denda kebersihan dan aduan bahawa pesanan pelanggan sering tersilap.",
+          "Aku membantu menyemak ruang kerja dan mendapati senarai pesanan ditulis di tempat penyediaan makanan yang sama.",
+          "Apabila pelanggan lama menerima pesanan salah sekali lagi, aku meminta pak cik menyemak pesanan di hadapannya dan membetulkannya.",
+          "Pak cik mengasingkan ruang penyediaan dan kaunter; aku membantunya membuat papan menu serta mengajak jiran mencuba setelah perubahan berjalan.",
+          "Aku sedar promosi hanya meyakinkan apabila pengalaman pelanggan menyokongnya."
+        ]
+      },
+      {
+        "title": "Kaunter Ambil Sendiri",
+        "plot": [
+          "Pak cik kehilangan pelanggan selepas menerima denda kebersihan dan teguran tentang barisan lambat serta balasan yang kasar.",
+          "Dia mahu menawarkan diskaun, tetapi aku melihat dulang kotor bertimbun semasa waktu puncak.",
+          "Apabila seorang pelanggan membatalkan pesanan, aku mengajak pak cik mengehadkan menu sementara supaya dapur sempat dibersihkan.",
+          "Aku mereka label pesanan untuk kaunter ambil sendiri dan membantu pak cik meminta maklum balas; pelanggan kembali secara beransur-ansur.",
+          "Aku belajar menerima teguran dan menilai sejauh mana perubahan benar-benar membantu."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah butiran pada kaunter atau barisan yang menunjukkan masalah kebersihan atau layanan?",
+      "ending": "Apakah tanda pelanggan mula kembali, dan perubahan manakah yang membantu mendapat kepercayaan mereka?"
     }
   },
   {
@@ -277,6 +529,42 @@
         "Saya telah menunjukkan kesusahan dan penyesalan.",
         "Saya telah menunjukkan bantuan serta pengajaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Tempat di Meja Kantin",
+        "plot": [
+          "Sepupuku yang lebih muda mengadu rakan menyisihkannya ketika makan; aku menyangka dia terlalu sensitif.",
+          "Dia mula mengelak kantin dan pulang dalam keadaan lapar, lalu aku menyesal kerana tidak mendengar.",
+          "Apabila dia mahu terus berdiam diri, aku meminta maaf dan menemaninya menemui guru yang dipercayainya.",
+          "Guru membantu menetapkan ruang makan yang selamat dan aku menyemak keadaannya selepas beberapa hari.",
+          "Aku belajar bahawa perasaan orang lain patut didengar sebelum aku membuat penilaian."
+        ]
+      },
+      {
+        "title": "Brek di Cerun",
+        "plot": [
+          "Sepupu kecilku mengadu brek basikalnya longgar; aku mengetepikan kebimbangannya kerana sedang bermain permainan video.",
+          "Dia terjatuh ketika menolak basikal menuruni cerun kecil kerana tidak dapat memperlahankannya.",
+          "Melihat tangannya menggigil selepas dirawat, aku mengaku telah mengabaikan aduannya dan meminta bantuannya menerangkan kerosakan kepada ayahnya.",
+          "Aku menemaninya ke kedai pembaikan dan berlatih semula dengannya di tempat rata selepas basikal dibaiki.",
+          "Aku belajar bahawa mendengar dengan teliti boleh mencegah kesusahan yang sebenar."
+        ]
+      },
+      {
+        "title": "Bahan Pameran yang Lenyap",
+        "plot": [
+          "Sepupuku yang lebih muda memberitahu bahawa fail projeknya sering gagal disimpan; aku menganggapnya masalah kecil.",
+          "Apabila fail itu hilang sebelum pameran, dia menangis dan mahu menarik diri.",
+          "Aku menyesal lalu menghubungi gurunya bersama sepupuku untuk menjelaskan keadaan sebelum waktu penyerahan.",
+          "Guru membenarkan draf ringkas dipamerkan; aku membantunya mencari gambar lama sambil dia sendiri membina semula bahan.",
+          "Aku belajar mengambil masalah orang lain dengan serius dan membantu tanpa mengambil alih tugasnya."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah reaksi sepupu yang membuat kamu akhirnya memahami kesusahannya?",
+      "ending": "Apakah tindakan kamu yang membantu sepupu mengatasi kesusahan itu?"
     }
   },
   {
@@ -312,6 +600,42 @@
         "Saya telah menunjukkan kamu mengetahui perkara itu.",
         "Saya telah menunjukkan tindakan dan pengajaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Nama pada Poster",
+        "plot": [
+          "Rakan mendapat pujian guru selepas mendakwa poster yang kulukis ialah hasilnya; aku mengetahuinya apabila kelas bertepuk tangan.",
+          "Aku berasa marah tetapi bimbang pertikaian terbuka akan mengganggu pembentangan kelas.",
+          "Selepas kelas, aku menunjukkan lakaran bertarikh kepada guru dan meminta rakan itu menerangkan bagaimana namanya tertera.",
+          "Dia membetulkan kredit pada poster dan guru menjelaskan pembetulan kepada kelas.",
+          "Aku belajar menyimpan bukti proses dan mempertahankan hak dengan tenang."
+        ]
+      },
+      {
+        "title": "Gambar dari Bawah Blok",
+        "plot": [
+          "Di pameran kejiranan, aku terdengar seorang peserta menerima pujian selepas mengaku foto yang kuambil ialah fotonya.",
+          "Dia pernah meminjam salinan foto dan meletakkan namanya dalam borang penyertaan.",
+          "Aku menahan diri daripada mengoyakkan label lalu meminta penganjur menyemak fail asal serta gambar lain dalam siri itu.",
+          "Penganjur membetulkan label selepas peserta mengaku, lalu menyemak cara peserta menyerahkan gambar.",
+          "Aku belajar menuntut pembetulan melalui saluran yang adil dan menetapkan syarat apabila berkongsi hasil."
+        ]
+      },
+      {
+        "title": "Alat Pengukur Air",
+        "plot": [
+          "Seorang ahli kelab dipuji selepas dia mengaku membina sendiri alat yang telah kusiapkan; seorang junior memberitahuku selepas demonstrasi.",
+          "Aku mahu mendapatkan pengiktirafan tanpa menafikan kerja ahli lain pada bahagian berbeza.",
+          "Aku meminta untuk menunjukkan cara alat berfungsi dan membawa jurnal pembinaan bagi menyokong penjelasanku.",
+          "Penyelia menyemak sumbangan setiap ahli, membetulkan kredit dan menetapkan rekod kerja untuk projek seterusnya.",
+          "Aku sedar bahawa pengiktirafan yang adil memerlukan bukti dan kejelasan tentang bahagian masing-masing."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang kamu nampak atau dengar ketika mengetahui orang lain dipuji atas hasil kerja kamu?",
+      "ending": "Bagaimanakah cara kamu menuntut pembetulan mempengaruhi orang yang terlibat?"
     }
   },
   {
@@ -347,6 +671,42 @@
         "Saya telah menunjukkan ibu bersemuka.",
         "Saya telah menunjukkan pandangan dan perasaan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Air di Laluan Perpustakaan",
+        "plot": [
+          "Di perpustakaan, dua kanak-kanak memercik air ke laluan hingga terkena kasutku.",
+          "Aku mendekati mereka dan meminta mereka berhenti; ibu mereka bersemuka denganku kerana menyangka aku menengking.",
+          "Apabila seorang pengunjung hampir tergelincir, aku menunjukkan lantai basah sambil menjelaskan sebab teguranku dengan tenang.",
+          "Ibu mereka mengalihkan anak-anak dan aku mendapatkan petugas untuk mengeringkan lantai.",
+          "Aku masih gugup mengingati teguran ibu itu, tetapi berpendapat bahaya di ruang awam perlu ditangani dengan sopan."
+        ]
+      },
+      {
+        "title": "Bola di Laluan Menunggu",
+        "plot": [
+          "Di stesen, dua kanak-kanak menendang bola berdekatan barisan hingga bola melanggar kakiku.",
+          "Aku mendekati mereka untuk meminta bola disimpan; ibu mereka datang dengan wajah tegang dan mempersoalkan arahanku.",
+          "Bola bergolek lagi ke arah orang ramai, jadi aku mengajak ibu melihat betapa sempitnya laluan.",
+          "Ibu menyimpan bola dan aku menerangkan bahawa aku juga terkejut ketika terkena tendangan.",
+          "Aku berasa lega dan fikir penjelasan yang khusus membantu apabila niat teguran disalah fahami."
+        ]
+      },
+      {
+        "title": "Kerusi yang Ditolak",
+        "plot": [
+          "Di klinik, dua kanak-kanak menolak kerusi kosong berulang kali sehingga kerusi terlanggar begku.",
+          "Aku menghampiri mereka untuk menghentikannya; ibu mereka tersinggung dan menegurku di hadapan orang lain.",
+          "Aku menunjukkan roda beg yang tersepit, sambil mengakui bahawa nada suaraku kedengaran keras.",
+          "Petugas mengalihkan kerusi dan ibu meminta anak-anak duduk di sisinya.",
+          "Aku malu kerana cepat meninggikan suara dan sedar bahawa keadaan tenang lebih mudah dicapai dengan penerangan."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang dilakukan oleh kedua-dua kanak-kanak, dan bagaimanakah nada ibu mereka berubah ketika bersemuka?",
+      "ending": "Bagaimanakah pengalaman itu membezakan perasaan kamu ketika ditegur daripada pandangan kamu selepas itu?"
     }
   },
   {
@@ -382,6 +742,42 @@
         "Saya telah menunjukkan kejadian yang mengubah sikap.",
         "Saya telah menunjukkan reaksi selepas kejadian."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Tiang yang Bergoyang",
+        "plot": [
+          "Aku mengetuai pembinaan gerai dan mengarahkan semua ahli mengikut lakaranku.",
+          "Seorang ahli mencadangkan sokongan tambahan, tetapi aku menolaknya agar kerja cepat siap.",
+          "Tiang bergoyang ketika tudung gerai dipasang; aku menghentikan kerja dan meminta ahli itu menunjukkan puncanya.",
+          "Kami merendahkan gerai dan memasang sokongan mengikut cadangannya sebelum menguji kestabilan.",
+          "Aku malu dengan sikapku dan mula menyediakan masa untuk menyemak pandangan ahli."
+        ]
+      },
+      {
+        "title": "Suara di Belakang Dewan",
+        "plot": [
+          "Aku mengarahkan kumpulan berlatih dengan susunan pentas pilihanku.",
+          "Seorang ahli di bahagian belakang mengadu tidak dapat mendengar petunjuk masuk, tetapi aku berkeras.",
+          "Dalam raptai, dua pelakon masuk serentak; aku berdiri di tempat mereka dan mendengar sendiri bunyi kipas menenggelamkan petunjuk.",
+          "Kami menggunakan isyarat tangan yang dicadangkan ahli tersebut dan mengulang babak.",
+          "Aku lega kerana arahan menjadi lebih baik apabila orang yang melaksanakannya turut bersuara."
+        ]
+      },
+      {
+        "title": "Laluan di Peta",
+        "plot": [
+          "Aku mengetuai kumpulan orientasi dan meminta semua ahli mengikut laluanku.",
+          "Aku menolak amaran seorang ahli tentang laluan berbumbung yang ditutup, lalu kami terperangkap di hujung pagar ketika hujan.",
+          "Apabila masa hampir tamat, aku menyerahkan peta kepadanya dan meminta kumpulan menilai pilihan bersama.",
+          "Kami mengambil laluan yang lebih panjang tetapi selamat dan selesai sebelum stesen ditutup.",
+          "Aku sedar ketua perlu mendengar maklumat yang belum dimilikinya."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang berlaku apabila arahan awal kamu tidak lagi dapat diikuti dengan baik?",
+      "ending": "Bagaimanakah reaksi kamu menunjukkan kesediaan untuk menerima pandangan ahli?"
     }
   },
   {
@@ -417,6 +813,42 @@
         "Saya telah menunjukkan perubahan pandangan.",
         "Saya telah menunjukkan pengajaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Pam Sebelum Wisel",
+        "plot": [
+          "Aku menyangka pertandingan bola hanya membuat pemain menjaga kepentingan pasukan sendiri.",
+          "Bola latihan kami kempis sebelum perlawanan dan kami tiada pam.",
+          "Kapten lawan melihat kami hampir terlepas pemanasan lalu membawa pam pasukannya walaupun masanya sendiri terhad.",
+          "Kami sempat memanaskan badan dan tetap bertanding bersungguh-sungguh.",
+          "Aku sedar lawan boleh menginginkan perlawanan yang adil sambil mengejar kemenangan."
+        ]
+      },
+      {
+        "title": "Resipi di Sebelah Dapur",
+        "plot": [
+          "Aku menyangka peserta pertandingan memasak akan merahsiakan segala pengetahuan untuk menang.",
+          "Penimbang kumpulan kami rosak ketika bahan sedang disukat.",
+          "Peserta di meja sebelah berkongsi alat sukatan dan menunjukkan cara membahagikan bahan tanpa memberikan resipinya.",
+          "Kami menyiapkan hidangan dengan sukatan yang disemak, walaupun tidak menang.",
+          "Aku belajar bahawa berkongsi kemudahan tidak mengurangkan nilai usaha sendiri."
+        ]
+      },
+      {
+        "title": "Giliran yang Tersalah",
+        "plot": [
+          "Aku menyangka peserta pertandingan pidato akan mengambil kesempatan atas kesilapan pesaing.",
+          "Nama seorang peserta hampir dipotong kerana perubahan jadual yang tidak dimaklumkan kepadanya.",
+          "Pesaing yang mendapat giliran tambahan menunjukkan notis lama kepada urus setia walaupun peluangnya sendiri mungkin berkurang.",
+          "Urus setia memulihkan giliran asal, dan kami mendengar pidato peserta yang hampir tersisih.",
+          "Sejak itu, aku melihat keadilan sebagai sebahagian daripada persaingan."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah tindakan pesaing yang secara langsung mencabar tanggapan awal kamu?",
+      "ending": "Bagaimanakah pengalaman itu mengubah cara kamu sendiri mahu bertanding?"
     }
   },
   {
@@ -431,7 +863,7 @@
         "pujukan jurujual",
         "barang mahal kurang bermanfaat",
         "pembelian terburu-buru",
-        "penyesalan"
+        "penyesalan dan pengalaman yang diperoleh"
       ],
       "plan": [],
       "prompts": [
@@ -452,6 +884,42 @@
         "Saya telah menunjukkan pembelian terburu-buru.",
         "Saya telah menunjukkan penyesalan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Lampu untuk Sebuah Meja",
+        "plot": [
+          "Jurujual memujukku membeli lampu meja mahal dengan pelbagai warna menggunakan wang simpananku.",
+          "Di rumah, cahaya terlalu malap untuk membaca dan ciri warna jarang kugunakan.",
+          "Aku cuba memulangkannya, tetapi syarat pada resit mengehadkan pemulangan kepada barang rosak.",
+          "Aku terus menggunakan lampu lama untuk belajar dan menjual lampu baharu pada harga lebih rendah.",
+          "Aku kesal kerana tertarik kepada demonstrasi dan kini menyemak fungsi yang benar-benar diperlukan."
+        ]
+      },
+      {
+        "title": "Beg Besar di Dalam Bas",
+        "plot": [
+          "Jurujual mendakwa beg mahal dengan banyak ruang paling sesuai untuk pelajar sepertiku; aku segera membelinya.",
+          "Di dalam bas, beg kosong itu sendiri sudah berat dan sukar diselitkan di pangkuanku.",
+          "Apabila tali beg menyangkut pada kerusi, aku terpaksa meminta bantuan dan mula mengakui pembelian itu menyusahkan.",
+          "Aku menggunakan semula beg lama dan menyimpan beg baharu untuk perjalanan tertentu.",
+          "Aku menyesal kerana tidak mencubanya dengan beban biasa sebelum membayar."
+        ]
+      },
+      {
+        "title": "Pen yang Jarang Digunakan",
+        "plot": [
+          "Seorang jurujual menunjukkan pen digital mahal yang kononnya akan mempercepat catatanku dan aku membelinya tanpa menyemak peranti sendiri.",
+          "Pen itu hanya berfungsi dengan aplikasi yang tidak serasi dengan tabletku.",
+          "Di kaunter, demonstrasi dengan tablet kedai mengesahkan pen berfungsi tetapi masalah keserasian tidak boleh dibaiki.",
+          "Kedai menolak pemulangan barang yang dibuka, jadi aku menanggung susut harga apabila menjualnya.",
+          "Aku kesal dan kini membawa senarai model peranti sebelum membeli aksesori."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah gerak atau kata pujukan jurujual yang membuat kamu cepat membeli?",
+      "ending": "Apakah yang kamu akan semak jika berhadapan dengan pujukan serupa?"
     }
   },
   {
@@ -487,6 +955,42 @@
         "Saya telah menunjukkan pelayan menangani situasi dengan baik.",
         "Saya telah menunjukkan kekaguman dan pengajaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Pesanan Meja Tujuh",
+        "plot": [
+          "Di restoran, aku melihat pelanggan cerewet berulang kali mengubah tahap kepedasan makanannya.",
+          "Apabila hidangan tiba, dia menolaknya dengan suara yang menarik perhatian meja lain.",
+          "Pelayan merujuk catatan pesanan dan menawarkan dua pilihan yang benar-benar dapat disediakan dapur.",
+          "Pelanggan memilih lauk dengan sos berasingan dan pelayan kembali menyemak kepuasannya.",
+          "Aku kagum kerana pelayan menetapkan had dengan sopan di tengah suasana tegang."
+        ]
+      },
+      {
+        "title": "Kerusi di Tepi Tingkap",
+        "plot": [
+          "Di restoran, pelanggan meminta pelayan menukar mejanya beberapa kali kerana cahaya dan bunyi.",
+          "Akhirnya dia mahu meja tepi tingkap yang sudah ditempah sambil mengetuk menu dengan tidak sabar.",
+          "Pelayan menerangkan tempahan dan menunjukkan meja paling redup serta menawarkan untuk mengecilkan bunyi pembesar suara berhampiran.",
+          "Pelanggan menerima tempat itu dan pesanan dapat diambil tanpa mengganggu tempahan orang lain.",
+          "Aku kagum kerana pelayan mengenal pasti keperluan di sebalik tuntutan pelanggan."
+        ]
+      },
+      {
+        "title": "Hidangan yang Diperiksa",
+        "plot": [
+          "Di restoran, aku melihat pelanggan cerewet mempersoalkan satu persatu bahan makanan dan cara ia dihidangkan.",
+          "Nada pelanggan meninggi apabila pelayan tidak dapat menjamin satu bahan yang ingin dielakkannya.",
+          "Pelayan menahan pesanan untuk menyemak dengan dapur dan menawarkan hidangan lain dengan bahan yang dapat disahkan.",
+          "Pelanggan menerima pilihan baharu dan pelayan mengulang pesanan bagi memastikan persetujuannya.",
+          "Aku kagum kerana dia kekal sabar dan memilih ketepatan walaupun didesak."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah perubahan pada nada, gerak tubuh atau suasana apabila pelayan bertindak?",
+      "ending": "Apakah tindakan pelayan yang paling kamu kagumi, dan mengapa?"
     }
   },
   {
@@ -501,7 +1005,7 @@
         "kesilapan kamu",
         "jangkaan dimarahi",
         "berterus terang",
-        "ibu bapa tidak marah"
+        "reaksi ibu bapa dan pengalaman yang diperoleh"
       ],
       "plan": [],
       "prompts": [
@@ -522,6 +1026,42 @@
         "Saya telah menunjukkan berterus terang.",
         "Saya telah menunjukkan ibu bapa tidak marah."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Retak pada Bingkai",
+        "plot": [
+          "Aku menjatuhkan bingkai gambar keluarga ketika mengalihkannya untuk membersihkan rak.",
+          "Aku menyembunyikan serpihan kerana menjangka ibu bapa akan marah.",
+          "Ketika ayah mencari gambar itu, aku menunjukkan bingkai retak dan menerangkan perbuatanku dari awal.",
+          "Mereka memeriksa tanganku dan mengajakku mengganti bingkai tanpa memarahiku.",
+          "Aku lega dan belajar meminta bantuan sebaik berlaku kemalangan."
+        ]
+      },
+      {
+        "title": "Tambang yang Tersalah",
+        "plot": [
+          "Aku menggunakan wang yang diamanahkan ibu bapa untuk membayar tambang kerana membawa dompet yang salah.",
+          "Setibanya di rumah, aku takut disangka sengaja membelanjakan wang untuk perkara lain.",
+          "Aku menunjukkan rekod perjalanan dan memberitahu mereka mengapa wang itu terpaksa digunakan.",
+          "Mereka mendengar tanpa memarahi aku dan membantu aku mengasingkan wang tambang daripada wang amanah.",
+          "Aku berasa dipercayai kerana berani menerangkan perkara sebenar."
+        ]
+      },
+      {
+        "title": "Surat yang Terlewat",
+        "plot": [
+          "Aku terlupa menyerahkan surat sekolah sehingga tempoh jawapan tamat.",
+          "Aku takut ibu bapa marah kerana mereka sudah merancang untuk menghadiri acara itu.",
+          "Aku menyerahkan surat berkedut itu dan mengaku bahawa aku menyimpannya di dalam fail yang salah.",
+          "Ibu bapa tidak memarahiku; kami bersama-sama bertanya kepada sekolah tentang tempat yang masih tersedia.",
+          "Aku mula membuka fail sekolah setiap petang kerana tindakan jujur perlu disusuli perubahan."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang kamu lakukan ketika bersedia memberitahu ibu bapa perkara sebenar?",
+      "ending": "Apakah reaksi mereka yang paling berbeza daripada jangkaan kamu?"
     }
   },
   {
@@ -557,6 +1097,42 @@
         "Saya telah menunjukkan perubahan diri.",
         "Saya telah menunjukkan reaksi orang lain."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Gurauan yang Membisu",
+        "plot": [
+          "Aku yakin aku ramah kerana selalu membuat orang ketawa.",
+          "Aku meniru cara seorang rakan bercakap di hadapan kumpulan dan tidak menyedari dia menjauh.",
+          "Apabila dia enggan membentang kerana takut ditiru lagi, aku sedar gurauanku merosakkan keyakinannya.",
+          "Aku meminta maaf dan menghentikan gurauan peribadi; rakan itu beransur-ansur menyertai latihan semula.",
+          "Ahli lain mula berkongsi idea tanpa risau dipersenda dan aku belajar membaca reaksi mereka."
+        ]
+      },
+      {
+        "title": "Giliran Memberi Arahan",
+        "plot": [
+          "Aku menganggap diriku yakin dan suka membantu kerana cepat mengambil alih latihan.",
+          "Seorang junior mula menyerahkan semua keputusan kepadaku walaupun tugas itu diberi kepadanya.",
+          "Apabila aku tidak hadir dan dia tidak berani memulakan sesi, aku sedar aku telah mengecilkan ruangnya mencuba.",
+          "Aku mula menunggu junior memimpin dan hanya membantu apabila diminta.",
+          "Jurulatih memuji kemajuan junior dan rakan mula mempercayaiku sebagai pembimbing."
+        ]
+      },
+      {
+        "title": "Papan Catatan yang Kosong",
+        "plot": [
+          "Aku yakin aku ahli yang teliti kerana selalu cepat menyemak kerja orang lain.",
+          "Aku membetulkan draf di hadapan semua orang tanpa bertanya dan rakan berhenti memasukkan idea ke papan catatan.",
+          "Seorang rakan menjelaskan bahawa dia takut dimalukan; aku terpaksa menilai cara aku memberi teguran.",
+          "Aku memberi maklum balas secara peribadi dan bertanya dahulu sebelum mengubah draf.",
+          "Rakan kembali berkongsi draf awal dan guru melihat perbincangan kumpulan semakin terbuka."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah reaksi orang lain yang membuat kamu menilai semula keyakinan terhadap tingkah laku sendiri?",
+      "ending": "Apakah perubahan yang dapat dilihat oleh orang sekeliling dan bagaimanakah mereka menyambutnya?"
     }
   },
   {
@@ -592,6 +1168,42 @@
         "Saya telah menunjukkan cara sekolah menang.",
         "Saya telah menunjukkan pengajaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Servis ke Ruang Kosong",
+        "plot": [
+          "Sekolahku bertemu pasukan pilihan ramai yang lebih kuat dalam final bola tampar kebangsaan.",
+          "Kami tewas set pertama kerana servis lawan memecahkan formasi penerimaan.",
+          "Ketika ketinggalan pada set penentuan, jurulatih mengubah posisi penerima dan kami menyasarkan ruang antara dua pemain lawan.",
+          "Kami mengekalkan formasi baharu, memanjangkan rali dan memenangi mata terakhir apabila lawan gagal mengembalikan bola.",
+          "Aku belajar bahawa keberanian mengubah strategi lahir daripada pemerhatian yang teliti."
+        ]
+      },
+      {
+        "title": "Jeda di Podium",
+        "plot": [
+          "Di final bahas kebangsaan, sekolah kami bertemu pasukan pilihan ramai yang lebih berpengalaman.",
+          "Hujah pembukaan lawan mematahkan contoh utama kami dan dewan bersorak.",
+          "Dalam masa persediaan singkat, pembahas ketiga mengetepikan skrip dan membina sanggahan daripada percanggahan yang dicatat oleh rakan.",
+          "Kami menutup debat dengan rumusan yang mengaitkan sanggahan kepada usul, lalu hakim memberikan kemenangan tipis.",
+          "Aku belajar bahawa mendengar secara aktif boleh mengatasi hafalan yang sempurna."
+        ]
+      },
+      {
+        "title": "Satu Pusingan Tambahan",
+        "plot": [
+          "Dalam final robotik kebangsaan, sekolah kami bertemu pasukan pilihan yang mencatat masa terbaik sepanjang kejohanan.",
+          "Robot kami tersasar dalam percubaan awal kerana cahaya gelanggang menjejaskan penderia.",
+          "Kami menggunakan rehat untuk menentukur penderia dan memilih laluan lebih perlahan sebelum cubaan terakhir.",
+          "Robot kami menyelesaikan semua tugasan dan meraih mata lebih tinggi daripada pasukan lawan yang gagal pada halangan akhir.",
+          "Aku belajar membezakan kelajuan dengan ketepatan apabila memilih strategi."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah tindakan pasukan kamu pada saat genting yang mula mengubah kedudukan dalam final?",
+      "ending": "Bagaimanakah kamu menggambarkan perubahan suasana selepas kemenangan dan mengaitkannya dengan usaha pasukan?"
     }
   },
   {
@@ -627,6 +1239,42 @@
         "Saya telah menunjukkan perubahan persepsi.",
         "Saya telah menunjukkan pengajaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Pelan Kebun Dua Generasi",
+        "plot": [
+          "Aku menyangka jawatankuasa warga emas di kejirananku akan menolak cadangan belia untuk kebun komuniti.",
+          "Dalam mesyuarat yang hangat, aku menawarkan jadual penyiraman digital sambil menjangka mereka membantah.",
+          "Seorang warga emas meminta aku menunjukkan cara jadual itu berfungsi dan mencadangkan paparan bercetak untuk penduduk lain.",
+          "Kami mencuba kedua-dua cara pada satu petak dan penyiraman menjadi lebih teratur.",
+          "Aku belajar bahawa pengalaman dan idea baharu boleh saling melengkapi."
+        ]
+      },
+      {
+        "title": "Rakaman Suara Nenek",
+        "plot": [
+          "Aku menyangka nenek dan rakan sebayanya hanya mahu resipi warisan dicatat dalam buku.",
+          "Aku mencadangkan rakaman audio dan teragak-agak mengeluarkan telefon di dapur.",
+          "Nenek sendiri mengulang sukatan dalam rakaman dan meminta belia menambah gambar bagi langkah yang sukar dibayangkan.",
+          "Kami menghasilkan panduan yang digunakan sepupuku ketika memasak sendiri.",
+          "Aku sedar tanggapanku berubah sebaik aku memberi ruang kepada mereka mencuba."
+        ]
+      },
+      {
+        "title": "Kerusi di Bawah Blok",
+        "plot": [
+          "Aku menjangka penduduk lebih tua akan menolak idea belia untuk menyusun semula ruang permainan bawah blok.",
+          "Aku menunjukkan pelan yang menyempitkan laluan dan menyangka bantahan mereka pasti menamatkan perbincangan.",
+          "Seorang warga emas meminta kami menguji susun atur dengan pita penanda, lalu menawarkan penempatan alternatif bagi kerusi.",
+          "Percubaan bersama menghasilkan laluan selesa dan ruang permainan yang masih luas.",
+          "Aku belajar bahawa soalan kritis boleh menjadi tanda kesediaan memperbaiki idea."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah tindakan orang yang lebih tua yang benar-benar bercanggah dengan andaian kamu?",
+      "ending": "Bagaimanakah pengalaman itu akan mengubah cara kamu menyuarakan idea kepada mereka?"
     }
   },
   {
@@ -662,6 +1310,42 @@
         "Saya telah menunjukkan dia mengabaikan kamu.",
         "Saya telah menunjukkan perasaan kamu."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Solo yang Kuberi",
+        "plot": [
+          "Guru menawarkan solo nyanyian kepadaku, tetapi aku menyerahkan peluang itu kepada sahabat yang lama ingin menyanyi.",
+          "Persembahannya menerima tepukan; selepas itu dia tidak lagi menyapaku atau membalas pesanan.",
+          "Aku cuba mengucapkan tahniah secara bersemuka, namun dia terus berlalu bersama kumpulan baharunya.",
+          "Aku berhenti mengejarnya dan meneruskan latihan dengan rakan lain.",
+          "Aku bangga melihatnya berjaya, tetapi dinginnya layanan itu membuatku berasa kehilangan."
+        ]
+      },
+      {
+        "title": "Dinding Galeri",
+        "plot": [
+          "Penganjur memberi aku ruang mempamerkan lukisan dan aku menawarkannya kepada sahabat baik yang mempunyai karya siap.",
+          "Lukisannya menarik perhatian pengunjung, tetapi selepas acara dia mula mengabaikan ajakanku untuk melukis bersama.",
+          "Di galeri, aku mendekatinya ketika dia membuat demonstrasi; dia melihatku lalu memilih berpaling.",
+          "Aku mengemas alat yang kupinjamkan dan mencari ruang lain untuk mempamerkan hasilku.",
+          "Aku terkilan kerana hubungan kami berubah, walaupun aku tidak menyesal menghargai bakatnya."
+        ]
+      },
+      {
+        "title": "Lampu Sorot Pembukaan",
+        "plot": [
+          "Aku dipilih menunjukkan bakat mengacara tetapi menyerahkan giliran pembukaan kepada kawan baik yang ingin mencuba.",
+          "Dia mengendalikan acara dengan lancar, kemudian tidak menghiraukan aku apabila dipanggil untuk acara lain.",
+          "Aku menunggunya selepas latihan untuk bertanya tentang perubahan itu, namun dia keluar tanpa menyahut.",
+          "Aku memilih memberi ruang sambil kembali mencari peluang mengacara sendiri.",
+          "Aku sukar menerima sikapnya dan perlahan-lahan mengetahui bahawa kemurahan hati tidak menjamin hubungan kekal rapat."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah perbezaan antara reaksi sahabat ketika menerima peluang dan sikapnya kepada kamu selepas itu?",
+      "ending": "Bagaimanakah kamu menunjukkan perasaan yang bercampur terhadap kejayaannya dan perubahan hubungan kamu?"
     }
   },
   {
@@ -697,6 +1381,42 @@
         "Saya telah menunjukkan akibat dan penyesalan.",
         "Saya telah menunjukkan pengajaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Uji Bakat Senyap",
+        "plot": [
+          "Sahabat memberitahuku secara rahsia bahawa dia mahu mencuba uji bakat tarian.",
+          "Aku berkongsi berita itu dengan seorang rakan dan beberapa orang mula mengusiknya di koridor.",
+          "Apabila sahabat hampir menarik diri, aku mengaku di hadapannya bahawa aku yang membocorkan rahsia itu.",
+          "Aku meminta mereka berhenti menyebarkannya dan menunggu sehingga sahabat sendiri memutuskan sama ada mahu hadir.",
+          "Aku menyesal dan belajar meminta izin sebelum berkongsi rancangan orang lain."
+        ]
+      },
+      {
+        "title": "Sampul Bantuan",
+        "plot": [
+          "Sepupu berbisik bahawa keluarganya menerima bantuan dan meminta aku merahsiakannya.",
+          "Aku memberitahu seorang rakan ketika cuba menjelaskan mengapa sepupu tidak ikut keluar, lalu berita itu tersebar.",
+          "Sepupu berdepan soalan di kantin dan meminta aku menjelaskan bagaimana orang lain tahu.",
+          "Aku mengaku kepada sepupu, meminta maaf dan menghentikan perbualan lanjut tanpa membuka butiran lain.",
+          "Aku sedar niat menerangkan keadaan tidak menghapuskan kesan pendedahan."
+        ]
+      },
+      {
+        "title": "Hadiah yang Didahului",
+        "plot": [
+          "Adik memberitahuku secara rahsia bahawa dia sedang membuat hadiah untuk ayah.",
+          "Aku membocorkannya kepada ibu di meja makan dan ayah terdengar.",
+          "Apabila adik melihat ayah sudah tahu, dia menyimpan projek itu dan enggan meneruskannya.",
+          "Aku meminta maaf dan menawarkan bahan untuk mengubah bahagian hadiah yang masih boleh dirahsiakan; adik memilih sendiri sama ada mahu menyambung.",
+          "Aku belajar bahawa merahsiakan sesuatu juga boleh bermakna menjaga kegembiraan orang lain."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah reaksi pemilik rahsia ketika menyedari maklumat itu tersebar?",
+      "ending": "Apakah yang masih boleh kamu perbaiki setelah rahsia itu tidak lagi dapat ditarik kembali?"
     }
   },
   {
@@ -732,6 +1452,42 @@
         "Saya telah menunjukkan kesedaran.",
         "Saya telah menunjukkan pengajaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Mesej yang Terlalu Cepat",
+        "plot": [
+          "Aku kecewa kerana nama kami tidak terpilih untuk pameran dan terus menghantar tuduhan ke kumpulan keluarga.",
+          "Kakak yang membantuku menghantar borang dipersalahkan, sementara ibu bapa mula bertengkar.",
+          "Apabila aku menyemak notis dan mendapati keputusan dibuat berdasarkan ruang, aku terpaksa mengakui tuduhan itu salah kepada semua.",
+          "Aku membetulkan mesej dalam kumpulan yang sama dan memberi kakak masa sebelum bercakap dengannya.",
+          "Aku belajar menunggu fakta dan meredakan emosi sebelum menulis sesuatu yang boleh tersebar."
+        ]
+      },
+      {
+        "title": "Pintu yang Kuhentak",
+        "plot": [
+          "Selepas kalah perlawanan, aku marah lalu menghentak pintu bilik dan membentak adik yang bertanya khabar.",
+          "Adik takut mengetuk pintu lagi, manakala ibu terpaksa meninggalkan kerjanya untuk menenangkannya.",
+          "Ketika kudengar adik menyangka dia punca kekalahanku, aku keluar dan mengaku dialah yang terkena tempias kemarahanku.",
+          "Aku membantu ibu membaiki selak yang longgar dan berjanji memberitahu mereka apabila memerlukan masa untuk bertenang.",
+          "Aku sedar kesunyian selepas marah boleh menyembunyikan kesan yang panjang."
+        ]
+      },
+      {
+        "title": "Rakaman Hari Jadi",
+        "plot": [
+          "Aku kecil hati apabila sahabat lambat tiba, lalu memadam rakaman ucapan hari jadinya dalam keadaan marah.",
+          "Rakan rapat yang mengumpulkan ucapan panik kerana tayangan itu ialah kejutan utama.",
+          "Aku mendapat tahu sahabat sedang membantu seorang ahli keluarga dan mengaku perbuatanku kepada kumpulan sebelum sambutan bermula.",
+          "Kami meminta semula rakaman daripada penyumbang, tetapi sebahagiannya terpaksa diganti dengan ucapan langsung.",
+          "Aku belajar menyatakan kekecewaan tanpa merosakkan hasil kerja orang yang rapat denganku."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah perbuatan atau reaksi orang rapat yang menunjukkan tempias tindakan kamu?",
+      "ending": "Apakah cara yang boleh kamu gunakan untuk menghadapi emosi serupa pada masa depan?"
     }
   },
   {
@@ -767,6 +1523,42 @@
         "Saya telah menunjukkan cara mengatasi.",
         "Saya telah menunjukkan pengalaman."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Pelakon di Sayap Pentas",
+        "plot": [
+          "Kami mewakili sekolah dalam pertandingan drama; pelakon utama menarik diri pada saat akhir kerana demam.",
+          "Pelakon simpanan tahu dialognya tetapi keliru dengan kedudukan di pentas pertandingan.",
+          "Semasa raptai terakhir, kami menggugurkan satu pertukaran tempat supaya pelakon simpanan dapat masuk dengan yakin.",
+          "Kami menggunakan isyarat cahaya yang dipersetujui dan menghabiskan persembahan tanpa gangguan.",
+          "Aku mengalami sendiri bagaimana latihan pelakon simpanan membantu pasukan pulih di bawah tekanan."
+        ]
+      },
+      {
+        "title": "Suara dari Belakang Tabir",
+        "plot": [
+          "Dalam pertandingan drama, rakan kami menarik diri tidak lama sebelum giliran sekolah kerana suaranya hilang.",
+          "Wataknya penting sebagai penyampai berita yang menjelaskan babak terakhir.",
+          "Selepas mendapat persetujuan guru, kami memindahkan berita itu kepada suara latar seorang ahli yang sudah menghafal teks.",
+          "Pelakon di pentas menyesuaikan gerak balas kepada rakaman dan kami menguji masa petunjuk sebelum naik pentas.",
+          "Aku belajar memelihara fungsi sesuatu watak apabila bentuk penyampaiannya perlu diubah."
+        ]
+      },
+      {
+        "title": "Surat di Atas Meja",
+        "plot": [
+          "Ketika kami bersedia mewakili sekolah dalam pertandingan drama, seorang pelakon terpaksa pulang kerana kecemasan keluarga.",
+          "Tiada sesiapa sempat mempelajari wataknya dan ketiadaannya menghilangkan sebab pertelingkahan dalam cerita.",
+          "Kami menjadikan mesej watak itu sepucuk surat yang dibaca dalam babak sedia ada dan menguji perubahan di hadapan guru.",
+          "Seorang ahli mengubah kedudukan prop, lalu kumpulan mementaskan babak baharu selepas latihan ringkas.",
+          "Aku belajar memilih perubahan kecil yang mengekalkan jalan cerita ketika masa suntuk."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah perkara yang paling sukar digantikan apabila pelakon itu menarik diri?",
+      "ending": "Bagaimanakah suasana di belakang pentas berubah apabila rancangan baharu mula berhasil?"
     }
   },
   {
@@ -802,6 +1594,42 @@
         "Saya telah menunjukkan kesedaran tentang persahabatan.",
         "Saya telah menunjukkan perasaan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Payung di Tangga Dewan",
+        "plot": [
+          "Hujan lebat membasahkan bahan pameranku sebelum kami dibenarkan masuk ke dewan.",
+          "Aku cuba menyelamatkan kertas seorang diri dan hampir menarik diri.",
+          "Beberapa teman tiba membawa payung, tuala dan salinan gambar, lalu meminta aku memilih bahan yang mesti diselamatkan dahulu.",
+          "Mereka membantu mengeringkan papan dan mencetak semula gambar sehingga pameran dapat dibuka dengan susunan ringkas.",
+          "Aku terharu apabila menyedari pertolongan datang daripada lebih ramai teman daripada yang kusangka."
+        ]
+      },
+      {
+        "title": "Menunggu di Hentian",
+        "plot": [
+          "Tongkatku longgar sepulang latihan dan aku bimbang tidak dapat menaiki bas dengan selamat.",
+          "Hujan menjadikan lantai licin dan telefonku hampir kehabisan bateri.",
+          "Seorang teman menghubungi keluargaku sementara teman lain menjaga beg dan meminta bantuan petugas.",
+          "Mereka bergilir menemaniku sehingga keluargaku tiba, walaupun latihan mereka sudah lama tamat.",
+          "Aku malu kerana mula-mula enggan meminta pertolongan, kemudian berasa sangat dihargai."
+        ]
+      },
+      {
+        "title": "Meja Panjang di Perpustakaan",
+        "plot": [
+          "Selepas lama sakit, aku kembali ke sekolah dan panik melihat tugasan yang tertinggal.",
+          "Aku menyangka hanya seorang teman sanggup membantu kerana peperiksaan mereka juga semakin dekat.",
+          "Di perpustakaan, beberapa teman mengeluarkan catatan mereka dan membahagi topik apabila melihat aku tidak tahu hendak bermula di mana.",
+          "Mereka menerangkan satu topik setiap hari sehingga aku dapat menyiapkan latihan sendiri.",
+          "Aku terharu kerana mereka memberikan masa secara konsisten pada minggu yang sibuk."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah bantuan berbeza yang diberikan oleh beberapa teman pada saat kamu paling memerlukannya?",
+      "ending": "Bagaimanakah kamu dapat menggambarkan perubahan daripada perasaan awal kepada perasaan selepas menerima bantuan?"
     }
   },
   {
@@ -837,6 +1665,42 @@
         "Saya telah menunjukkan hati jiran dimenangi.",
         "Saya telah menunjukkan pengajaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Laluan Sebelum Subuh",
+        "plot": [
+          "Jiran menyangka keluargaku sombong dan tidak bertimbang rasa kerana kami jarang bertegur dan kasut kami memenuhi laluan.",
+          "Suatu pagi, dia menyebut ibunya yang berkerusi roda sukar melalui koridor.",
+          "Keluargaku melihat sendiri kesukaran itu lalu mengalihkan rak kasut dan menawarkan diri mengosongkan ruang ketika ibunya pulang.",
+          "Kami menjaga laluan setiap hari dan mula menyapa; jiran akhirnya berhenti untuk berbual dan berterima kasih.",
+          "Aku belajar menunjukkan timbang rasa melalui tabiat yang boleh dilihat."
+        ]
+      },
+      {
+        "title": "Baldi di Hadapan Pintu",
+        "plot": [
+          "Jiran menganggap keluarga kami tidak ramah dan tidak peduli kerana selalu berlalu tanpa menyapa.",
+          "Paip di rumahnya bocor dan air mula meresap ke koridor ketika dia menunggu bantuan.",
+          "Ayah menghubungi penyelenggaraan sementara kami membawa baldi dan membantu mengalihkan kotak dengan izinnya.",
+          "Kami kembali selepas pembaikan untuk membantu mengeringkan ruang; sejak itu jiran mula menegur kami dengan mesra.",
+          "Aku belajar bahawa menyapa dan menawarkan bantuan dapat membuka semula hubungan yang renggang."
+        ]
+      },
+      {
+        "title": "Bunyi di Sebelah Dinding",
+        "plot": [
+          "Jiran menganggap kami suka menyendiri dan tidak bertimbang rasa kerana latihan muzik adikku kedengaran pada waktu rehatnya.",
+          "Kami jarang bertemu dengannya dan pada mulanya hanya membaca notis yang ditinggalkannya.",
+          "Keluargaku mengetuk pintunya, mendengar waktu rehat yang diperlukannya dan mencuba alas yang mengurangkan bunyi getaran.",
+          "Kami mengubah waktu latihan dan menyemak kesannya selepas seminggu; jiran kemudian menjemput kami berbual di luar.",
+          "Aku belajar bahawa permohonan maaf menjadi bermakna apabila diikuti perubahan yang dirasai orang lain."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah tindakan keluarga yang menyentuh hati jiran secara langsung?",
+      "ending": "Apakah yang dilakukan oleh jiran selepas itu yang menunjukkan tanggapannya berubah?"
     }
   },
   {
@@ -872,6 +1736,42 @@
         "Saya telah menunjukkan perasaan.",
         "Saya telah menunjukkan cara mengatasinya."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Pesanan di Muka Pertama",
+        "plot": [
+          "Guru sekolah rendah pernah menghadiahkan buku cerita yang amat kusayangi kerana pesanan peribadi di muka pertama.",
+          "Ibu memberikan buku itu kepada sepupu tanpa mengetahui maknanya dan aku hampir memarahinya.",
+          "Selepas bertenang, aku menunjukkan gambar pesanan guru kepada ibu dan menjelaskan sebab aku terkilan.",
+          "Ibu menemaniku meminta sepupu memulangkan buku selepas membacanya dan kami menawarkan buku lain.",
+          "Perasaanku reda kerana dapat menerangkan nilai buku itu tanpa menyalahkan sesiapa."
+        ]
+      },
+      {
+        "title": "Kulit Buku yang Lusuh",
+        "plot": [
+          "Aku menyimpan buku hadiah guru sekolah rendah walaupun kulitnya lusuh; ibu menyangka ia buku lama biasa lalu memberinya kepada sepupu.",
+          "Aku berasa kehilangan apabila rak kecil tempat buku itu disimpan kosong.",
+          "Ketika sepupu menunjukkan bahagian cerita kegemarannya, aku memutuskan untuk memberitahu ibu dan sepupu tentang kenangan yang dikaitkan dengan buku itu.",
+          "Dengan izinnya aku menyalin pesanan guru dan merakam kulit buku, kemudian membenarkannya menyimpan buku itu.",
+          "Aku masih rindu akan buku itu, tetapi kini gembira kenanganku mempunyai tempat sendiri."
+        ]
+      },
+      {
+        "title": "Buku dalam Kotak Pindah",
+        "plot": [
+          "Guru sekolah rendah memberi aku sebuah buku puisi yang membantu aku berani membaca di hadapan kelas.",
+          "Semasa mengemas untuk berpindah, ibu tidak mengetahui nilainya dan memberikan buku itu kepada sepupu.",
+          "Aku menulis sebab buku itu penting sebelum berbual dengan ibu kerana terlalu sedih untuk menjelaskan secara spontan.",
+          "Kami menghubungi sepupu dan bersetuju menukar buku itu dengan buku puisi lain pilihannya; aku melabel buku-buku yang mahu kusimpan.",
+          "Aku lega setelah menyatakan perasaanku dengan jelas dan memahami bagaimana salah faham itu berlaku."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah butiran pada buku atau rak yang menyampaikan rasa kehilangan kamu?",
+      "ending": "Apakah langkah yang membantu kamu mengurus perasaan terhadap ibu dan sepupu?"
     }
   },
   {
@@ -2742,6 +3642,42 @@
         "Saya telah menunjukkan peluang lebih baik.",
         "Saya telah menunjukkan kesedaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Bangku Simpanan",
+        "plot": [
+          "Aku gagal mendapat tempat dalam pasukan utama walaupun berlatih sepanjang cuti.",
+          "Aku hampir berhenti apabila hanya ditawarkan peranan mencatat prestasi.",
+          "Semasa meneliti catatan, aku mengenal pasti kelemahan formasi dan memilih membentangkannya kepada jurulatih.",
+          "Jurulatih mengujinya dan kemudian membimbingku menjadi pembantu analisis untuk kejohanan.",
+          "Aku menemui minat yang lebih sesuai dengan kebolehanku memerhati permainan."
+        ]
+      },
+      {
+        "title": "Bengkel Petang Khamis",
+        "plot": [
+          "Aku gagal mendapat tempat dalam kursus fotografi yang kuingini.",
+          "Aku menyertai bengkel percetakan sebagai pilihan terakhir tetapi terasa kecewa setiap kali menghidu bau dakwat.",
+          "Apabila sebuah poster fotoku gagal dicetak dengan jelas, aku mencuba teknik cetakan yang diajar oleh seorang peserta.",
+          "Aku menghasilkan siri cetakan yang menggabungkan fotografi dan reka bentuk.",
+          "Kegagalan itu membuka cara berkarya yang lebih memuaskan daripada rancangan awalku."
+        ]
+      },
+      {
+        "title": "Watak Tanpa Pentas",
+        "plot": [
+          "Aku tidak mendapat watak utama yang kuingini dalam drama sekolah.",
+          "Aku menerima tugas menjaga prop dan berasa tersisih apabila pelakon mendapat pujian.",
+          "Satu babak berulang kali gagal kerana prop sukar dialih, lalu aku membina susun atur yang lebih mudah digunakan.",
+          "Guru memberi aku tanggungjawab menyelaras prop dan aku membimbing junior pada produksi berikutnya.",
+          "Aku mendapat ruang memimpin yang lebih sesuai daripada watak yang mula-mula kuingini."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Bilakah kegagalan itu memaksa kamu membuat pilihan baharu?",
+      "ending": "Apakah yang membuat hasil akhirnya lebih baik untuk kamu secara peribadi?"
     }
   },
   {
@@ -2777,6 +3713,42 @@
         "Saya telah menunjukkan akibat tuduhan.",
         "Saya telah menunjukkan usul periksa."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Kunci Makmal",
+        "plot": [
+          "Aku menuduh rakan mengambil kunci makmal selepas melihatnya dekat pintu.",
+          "Dia kehilangan kepercayaan kumpulan walaupun menafikan tuduhan itu.",
+          "Aku memeriksa rekod serahan dan melihat namaku sendiri sebagai peminjam terakhir; kunci masih dalam failku.",
+          "Aku membetulkan tuduhan di hadapan kumpulan dan memberikan masa kepada rakan itu untuk menerima permohonan maaf.",
+          "Aku mulai memeriksa rekod sebelum mengaitkan orang dengan kesalahan."
+        ]
+      },
+      {
+        "title": "Fail yang Tertindih",
+        "plot": [
+          "Aku menuduh rakan memadam tugasan kumpulan selepas namanya muncul pada fail.",
+          "Rakan itu enggan menyertai mesyuarat selepas aku mempersalahkannya di dalam kumpulan sembang.",
+          "Sejarah versi menunjukkan bahawa aku menyimpan salinan lama dengan nama yang sama.",
+          "Aku memulihkan versi terkini dan menarik balik tuduhan di tempat aku membuatnya.",
+          "Aku belajar bahawa nama pengguna pada fail tidak cukup untuk membuktikan apa yang berlaku."
+        ]
+      },
+      {
+        "title": "Lencana dalam Kotak",
+        "plot": [
+          "Aku menuduh adik merosakkan lencanaku kerana menjumpainya berhampiran kotak barangannya.",
+          "Adik kecewa dan tidak mahu lagi membantu aku mengemas.",
+          "Ketika memeriksa gambar lama, aku nampak bahagian lencana itu sudah patah sebelum kotak dipindahkan.",
+          "Aku menunjukkan gambar kepada adik, meminta maaf dan membetulkan sangkaan ibu yang telah mendengar tuduhan itu.",
+          "Aku belajar mencari urutan kejadian sebelum membuat kesimpulan."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah bukti yang mematahkan sangkaan kamu dan bagaimana kamu menemuinya?",
+      "ending": "Apakah tindakan kamu untuk membaiki kesan tuduhan terhadap orang itu?"
     }
   },
   {
@@ -2812,6 +3784,42 @@
         "Saya telah menunjukkan bantuan kamu.",
         "Saya telah menunjukkan kesan kepada kedua-duanya."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Hadiah Mesin Arked",
+        "plot": [
+          "Rakan membazirkan wang simpanan mengejar hadiah mesin arked sehingga tambangnya tidak mencukupi.",
+          "Dia mahu terus mencuba kerana menyangka hanya satu permainan lagi diperlukan.",
+          "Aku mengajaknya mengira jumlah yang telah hilang dan dia memilih meninggalkan arked walaupun masih mahukan hadiah itu.",
+          "Aku membantunya menghubungi keluarga dan merancang cara mengganti wang secara beransur-ansur.",
+          "Dia mula menetapkan had belanja dan aku lebih berani menegur apabila kegiatan bersama mula merugikan."
+        ]
+      },
+      {
+        "title": "Kredit Permainan",
+        "plot": [
+          "Rakan menghabiskan wang yang disimpan untuk buku dengan membeli kredit permainan berulang kali.",
+          "Dia menyembunyikan perbelanjaan dan meminta aku meminjamkannya wang sebelum kedai tutup.",
+          "Aku menawarkan diri menemaninya menjelaskan perkara itu kepada penjaga, lalu dia menunjukkan sejarah pembelian dengan jujur.",
+          "Dia mematikan pembelian dalam aplikasi dan kami mencari buku terpakai sementara dia menyimpan semula wangnya.",
+          "Dia lebih telus tentang belanjanya dan aku belajar bahawa membantu tidak semestinya melangsaikan hutang orang."
+        ]
+      },
+      {
+        "title": "Pertaruhan Selepas Latihan",
+        "plot": [
+          "Rakan kehilangan wang belanja kerana bertaruh dalam permainan selepas latihan.",
+          "Apabila dipujuk bermain lagi untuk mendapatkan semula wangnya, dia mula bergantung pada pinjaman.",
+          "Aku menemaninya keluar dari kumpulan itu dan menyokongnya ketika dia meminta bantuan orang dewasa yang dipercayai.",
+          "Dia merancang pembayaran balik dan menjauhkan diri daripada permainan berwang.",
+          "Dia belajar menerima kehilangan tanpa mengejarnya dan aku belajar menghentikan kegiatan yang disangka sekadar gurauan."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang membuat rakan akhirnya sanggup menerima bantuan atau menghentikan kegiatan itu?",
+      "ending": "Apakah kesan pengalaman itu kepada cara kamu berdua membuat keputusan?"
     }
   },
   {
@@ -2847,6 +3855,42 @@
         "Saya telah menunjukkan gangguan penduduk.",
         "Saya telah menunjukkan tindakan dan perasaan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Sayap di Rak Kasut",
+        "plot": [
+          "Jiranku kerap memberi makan burung dan kucing di koridor.",
+          "Sisa makanan menarik burung ke rak kasut dan najis menyebabkan jiran lain mengelak laluan itu.",
+          "Aku menolak cadangan untuk menengkingnya dan menunjukkan kepadanya kesan kotoran selepas sesi memberi makan.",
+          "Dengan bantuan pengurusan kawasan, makanan untuk burung dihentikan dan penjagaan kucing dirujuk kepada sukarelawan yang berpengalaman.",
+          "Aku lega apabila laluan bersih dan lebih memahami kebimbangannya terhadap haiwan."
+        ]
+      },
+      {
+        "title": "Sisa di Taman Permainan",
+        "plot": [
+          "Jiran meletakkan lebihan makanan untuk kucing dan burung berhampiran taman permainan.",
+          "Kawasan berbau dan burung berebut sisa dekat kanak-kanak yang sedang bermain.",
+          "Selepas melihat seorang kanak-kanak takut melintasi kawasan itu, aku meminta jiran berbincang bersama penjaga taman.",
+          "Jiran berhenti meninggalkan sisa dan kami menyertai usaha membersihkan kawasan, sementara dia membantu kumpulan penjagaan haiwan melalui cara lain.",
+          "Aku marah pada awalnya, kemudian lega melihat masalah diurus tanpa memutuskan hubungan."
+        ]
+      },
+      {
+        "title": "Mangkuk di Laluan Rampa",
+        "plot": [
+          "Jiran memberi makan kucing dan burung di kaki rampa setiap petang.",
+          "Cebisan makanan dan najis mengotorkan laluan yang digunakan keluargaku.",
+          "Aku mencatat waktu masalah, lalu membawa jiran melihat bagaimana adikku terpaksa memusingkan kerusi roda untuk mengelak mangkuk.",
+          "Dia mengangkat mangkuk, berhenti memberi makan burung dan mendapatkan panduan menjaga kucing; aku membantu memantau kebersihan laluan.",
+          "Aku lega kerana jiran memahami masalah setelah melihat kesannya sendiri."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah kejadian yang membuat gangguan kepada penduduk tidak lagi boleh diabaikan?",
+      "ending": "Apakah tindakan yang kamu ambil dan bagaimana perasaan kamu berubah selepas melihat kesannya?"
     }
   },
   {
@@ -2882,6 +3926,42 @@
         "Saya telah menunjukkan detik kesedaran.",
         "Saya telah menunjukkan pilihan lebih sesuai."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Borang Pilihan Kedua",
+        "plot": [
+          "Aku hampir memilih kegiatan kokurikulum mengikut kawan kerana takut dianggap pelik jika masuk kelab reka bentuk.",
+          "Aku menghabiskan sesi percubaan menyembunyikan minat dan tidak dapat membuat keputusan.",
+          "Apabila diberi tugas mereka bentuk poster, aku bekerja dengan tekun walaupun seorang kawan mengejek pilihanku.",
+          "Aku memilih kelab reka bentuk dan menerima bahawa kawan-kawanku akan memilih laluan sendiri.",
+          "Aku mula menilai keputusan berdasarkan perkara yang ingin kupelajari."
+        ]
+      },
+      {
+        "title": "Tempat di Barisan Belakang",
+        "plot": [
+          "Aku terus menerima persembahan solo kerana takut disangka pengecut walaupun mahu belajar mengiringi penyanyi.",
+          "Aku mengabaikan latihan iringan sehingga persembahan kumpulan hampir gagal diselaraskan.",
+          "Dalam raptai, aku melihat iringan yang kukerjakan secara sambilan sebenarnya menyelesaikan masalah tempo kumpulan.",
+          "Aku berbincang dengan guru untuk memilih peranan iringan bagi persembahan seterusnya.",
+          "Aku sedar pilihan yang sesuai tidak memerlukan persetujuan semua orang."
+        ]
+      },
+      {
+        "title": "Pulang Selepas Latihan",
+        "plot": [
+          "Aku mengikut rakan keluar hingga malam kerana takut mereka menganggap aku membosankan.",
+          "Aku semakin letih dan latihan pagi serta tugasan mula terjejas.",
+          "Pada hari aku tertidur semasa taklimat penting, aku sedar bahawa pandangan rakan sudah menentukan jadualku.",
+          "Aku menetapkan waktu pulang dan memilih perjumpaan yang sesuai dengan latihan serta rehatku.",
+          "Aku berasa bebas membuat keputusan yang boleh kutanggung sendiri."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Bilakah kamu sedar bahawa tanggapan orang lain sudah menguasai pilihan kamu?",
+      "ending": "Bagaimanakah keputusan akhir lebih sesuai dengan keperluan atau minat kamu?"
     }
   },
   {
@@ -2917,6 +3997,42 @@
         "Saya telah menunjukkan tindakan menangani.",
         "Saya telah menunjukkan kesan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Gambar pada Papan Skor",
+        "plot": [
+          "Aku mempertikaikan keputusan pertandingan dan menjangka sahabat menyokong bantahanku.",
+          "Dia enggan menyebelahi aku kerana tidak pasti sama ada papan skor tersalah kira.",
+          "Aku perlu memilih antara mendesaknya menyokong bantahan atau menyemak borang markah bersama pengadil.",
+          "Aku meminta semakan dan mendapati markah betul walaupun paparannya mengelirukan; aku menarik balik bantahan.",
+          "Aku faham bahawa sahabat boleh menyokongku dengan bersikap jujur tentang apa yang diketahuinya."
+        ]
+      },
+      {
+        "title": "Kerusi untuk Ahli Baharu",
+        "plot": [
+          "Aku mahu mengekalkan tempat rakanku dalam pasukan dan menjangka kawan baikku menyokong usul itu.",
+          "Kawan baikku enggan menyebelahi aku kerana pemain baharu belum diberikan peluang.",
+          "Aku perlu memilih antara menjanjikan tempat kepada rakan lama atau menerima sesi pemilihan terbuka.",
+          "Aku mencadangkan percubaan menggunakan kriteria yang dipersetujui dan menerangkan perubahan kepada rakan lama sendiri.",
+          "Aku masih kecewa, tetapi faham mengapa kesetiaan tidak boleh menentukan setiap keputusan."
+        ]
+      },
+      {
+        "title": "Ucapan untuk Ibu",
+        "plot": [
+          "Aku mahu menggunakan rakaman ibu untuk video keluarga dan menjangka kawan baik menyokongku apabila kakak membantah.",
+          "Kawan baik enggan menyebelahi aku kerana ibu tidak pernah memberikan izin, sedangkan rakaman itu bahagian kegemaranku.",
+          "Aku perlu memilih antara mengekalkan kejutan yang kuusahakan atau menghormati sempadan yang kakak bangkitkan.",
+          "Aku menggantikan rakaman dengan ucapan sendiri dan meminta izin sebelum berkongsi video dengan tetamu.",
+          "Aku masih sayang akan versi asal, tetapi memahami mengapa sahabatku tidak mahu menyebelahi aku."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah dua pilihan yang sama-sama sukar selepas kawan enggan menyebelahi kamu?",
+      "ending": "Apakah kesan pilihan kamu terhadap pertikaian dan hubungan dengan kawan?"
     }
   },
   {
@@ -2952,6 +4068,42 @@
         "Saya telah menunjukkan saksi berani bersuara.",
         "Saya telah menunjukkan kamu menyaksikan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Tempat di Dalam Gerabak",
+        "plot": [
+          "Aku melihat seorang penumpang menuduh remaja yang duduk di kerusi keutamaan berpura-pura sakit.",
+          "Remaja itu terdiam walaupun sukar berdiri dan beberapa penumpang berpaling.",
+          "Seorang penumpang lain bersuara, meminta tuduhan dihentikan dan menawarkan tempatnya tanpa memaksa remaja menerangkan keadaan diri.",
+          "Suasana reda apabila penumpang yang menuduh berhenti mendesak; aku membantu menyediakan ruang di pintu.",
+          "Aku ingat cara orang itu membela remaja sambil menjaga maruahnya."
+        ]
+      },
+      {
+        "title": "Wang Baki di Kaunter",
+        "plot": [
+          "Aku melihat pelanggan menuduh pembantu gerai mengambil baki wangnya dan memarahinya di hadapan barisan.",
+          "Pembantu itu tidak sempat menjelaskan bahawa pelanggan telah membayar dengan wang yang lebih kecil.",
+          "Seorang pelanggan lain tampil, meminta semua bertenang dan meminta transaksi disemak kerana dia melihat wang yang diserahkan.",
+          "Pemilik gerai menyemak rekod dan pelanggan menarik balik tuduhannya.",
+          "Aku sedar bersuara boleh memberi peluang kepada mangsa menjelaskan keadaan."
+        ]
+      },
+      {
+        "title": "Gelanggang Terbuka",
+        "plot": [
+          "Di gelanggang awam, aku melihat sekumpulan pemain mengusir seorang budak dengan alasan dia pasti tidak pandai bermain.",
+          "Budak itu hendak pergi apabila seorang pemain senior mula mengejeknya.",
+          "Seorang pemain lain menunjukkan giliran tempahan budak itu dan bersuara walaupun rakan sendiri cuba menyuruhnya diam.",
+          "Mereka mengosongkan gelanggang apabila petugas mengesahkan tempahan, dan budak itu akhirnya dapat bermain.",
+          "Aku melihat bagaimana satu tindakan berani mengubah pilihan orang yang menyaksikannya."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang mungkin dihadapi oleh orang yang bersuara, dan mengapa dia tetap bertindak?",
+      "ending": "Bagaimanakah tindakannya mengubah keadaan mangsa yang kamu saksikan?"
     }
   },
   {
@@ -2987,6 +4139,42 @@
         "Saya telah menunjukkan usaha berubah.",
         "Saya telah menunjukkan kejayaan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Jam Penggera Kedua",
+        "plot": [
+          "Haziq selalu menangguhkan tidur kerana bermain permainan video.",
+          "Dia terlambat ke latihan, tertidur di kelas dan gagal bangun dengan penggera tambahan.",
+          "Apabila peranannya dalam pertandingan diberikan kepada pemain lain, dia memilih menyimpan alat permainan di ruang keluarga pada waktu malam.",
+          "Dia beberapa kali tergoda tetapi membina rutin tidur bersama keluarganya dan kembali hadir tepat pada masanya.",
+          "Selepas beberapa minggu, dia mampu berhenti bermain mengikut masa tanpa perlu diingatkan."
+        ]
+      },
+      {
+        "title": "Kerja yang Selalu Esok",
+        "plot": [
+          "Mira menangguhkan tugasan sehingga malam terakhir.",
+          "Drafnya tidak sempat disemak, rakan kehilangan masa berlatih dan tugasan individu turut lewat.",
+          "Apabila ahli kumpulan meminta menukar pembentang, Mira meminta peluang membuktikan perubahan melalui satu tarikh kecil dahulu.",
+          "Dia menggunakan sesi kerja ringkas di perpustakaan dan menghantar bahagian-bahagian tugasan secara berperingkat.",
+          "Mira meninggalkan tabiat menunggu saat akhir kerana kini tahu cara memulakan tugas yang terasa berat."
+        ]
+      },
+      {
+        "title": "Tunggu Giliran Bercakap",
+        "plot": [
+          "Devi biasa menyampuk sebelum orang lain habis bercakap.",
+          "Dia salah faham arahan kelab, menyinggung rakan dan terlepas perubahan masa latihan.",
+          "Selepas seorang junior enggan memberinya pendapat, Devi meminta rakan memberi isyarat apabila dia mula menyampuk.",
+          "Dia belajar merumuskan pandangan orang sebelum menjawab dan mencatat arahan penting.",
+          "Apabila junior kembali bersuara, Devi sedar dia sudah terbiasa mendengar sampai habis."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Antara beberapa kesan tabiat itu, apakah yang akhirnya mendorong watak berubah?",
+      "ending": "Apakah bukti bahawa watak berjaya meninggalkan tabiatnya walaupun godaan masih ada?"
     }
   },
   {
@@ -3022,6 +4210,42 @@
         "Saya telah menunjukkan peranan kamu.",
         "Saya telah menunjukkan penyatuan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Pingat Kertas",
+        "plot": [
+          "Dua sahabatku bertengkar kerana masing-masing mahu menyimpan pingat kertas daripada permainan kelas.",
+          "Perselisihan kecil itu berlarutan bertahun-tahun sehingga mereka memilih perjumpaan berasingan.",
+          "Aku menemukan pingat itu semasa mengemas kenangan dan mengatur pertemuan kecil selepas mendapat persetujuan kedua-duanya.",
+          "Aku membantu mereka menyebut perkara yang lebih menyakitkan daripada soal pingat; mereka mula bertegur semula sebelum bersetuju menyertai perjumpaan kelas bersama.",
+          "Aku sedar menyatukan sahabat memerlukan ruang untuk perasaan lama didengar."
+        ]
+      },
+      {
+        "title": "Giliran Memilih Lagu",
+        "plot": [
+          "Rakan-rakanku berselisih kerana lagu yang dipilih untuk persembahan santai dan tidak bercakap selama tiga tahun.",
+          "Apabila kami diminta membuat persembahan alumni, dua orang mahu menarik diri kerana konflik itu.",
+          "Aku meminta mereka memilih satu lagu kenangan masing-masing, kemudian menggunakan latihan berasingan untuk meninjau kesediaan mereka bekerjasama.",
+          "Dalam latihan bersama, aku menyusun kedua-dua lagu dalam satu rangkaian dan memberi mereka masa menjelaskan salah faham selepas latihan.",
+          "Mereka kembali berhubung selepas persembahan dan aku lega kerana hubungan itu dibina semula secara sukarela."
+        ]
+      },
+      {
+        "title": "Gambar yang Dipotong",
+        "plot": [
+          "Dua rakan tersinggung apabila satu swafoto dipotong untuk dimuat naik; mereka tidak duduk semeja selama beberapa tahun.",
+          "Semasa menyediakan album kelas, aku mendapati setiap orang menganggap seorang lagi sengaja mengecualikannya.",
+          "Aku meminta izin berkongsi versi asal, lalu mengajak mereka bersama-sama memilih gambar untuk album.",
+          "Selepas melihat konteks dan mendengar kesan gurauan masing-masing, mereka meminta maaf dan mula berbual semula.",
+          "Aku belajar bahawa bukti membuka perbualan, sementara persahabatan pulih melalui usaha kedua-duanya."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang menyebabkan perselisihan kecil bertahan selama beberapa tahun?",
+      "ending": "Apakah peranan kamu yang membolehkan mereka mula memulihkan hubungan sendiri?"
     }
   },
   {
@@ -3057,6 +4281,42 @@
         "Saya telah menunjukkan jiran memerlukan bantuan.",
         "Saya telah menunjukkan bantuan tidak disangka."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Bangku di Kolong Blok",
+        "plot": [
+          "Aku sering melihat seseorang membawa banyak beg dan berehat di bangku; aku menyangka dia mungkin tidak mempunyai tempat tinggal.",
+          "Seorang jiran terjatuh berhampiran bangku dan aku panik melihatnya cuba bangun.",
+          "Orang itu meminta jiran kekal diam, menyuruhku mendapatkan bantuan dan menunggu bersamanya.",
+          "Selepas bantuan tiba, dia menyerahkan barang jiran yang bertaburan kepada keluarganya.",
+          "Aku mula menyapanya dan sedar betapa sedikit yang kuketahui tentang kehidupannya."
+        ]
+      },
+      {
+        "title": "Kucing di Belakang Pagar",
+        "plot": [
+          "Seseorang yang kelihatan seperti tiada tempat tinggal sering singgah di kawasan deretan kedai kejirananku.",
+          "Jiran mencari kucingnya dan hampir memasuki kawasan berpagar apabila terdengar bunyi.",
+          "Orang itu menunjukkan laluan yang biasa digunakan kucing dan menemani jiran mendapatkan bantuan penjaga bangunan.",
+          "Penjaga membuka pagar dan jiran memancing kucing keluar dengan makanannya.",
+          "Aku terkejut melihat pengetahuan orang itu tentang kawasan kami dan berhenti membuat andaian tentang dirinya."
+        ]
+      },
+      {
+        "title": "Tumpahan di Kaki Lima",
+        "plot": [
+          "Aku sering melihat seorang lelaki berehat dengan selimut di kaki lima dan menyangka dia tiada tempat tinggal.",
+          "Ketika hujan, troli barang seorang jiran terbalik dan barangan bergolek ke arah air longkang.",
+          "Lelaki itu mengajak orang menahan troli di tempat rata sambil dia mengutip barang bersama jiran.",
+          "Dia membantu membawa troli ke tempat terlindung dan jiran kembali kemudian untuk berterima kasih.",
+          "Sejak itu aku melihatnya sebagai seseorang yang mengenali kejiranan kami dan turut menjaganya."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah bantuan yang diberikan ketika jiran menghadapi kesulitan?",
+      "ending": "Apakah yang berubah pada cara kamu melihat orang itu selepas menyaksikan tindakannya?"
     }
   },
   {
@@ -3092,6 +4352,42 @@
         "Saya telah menunjukkan hikmah yang muncul.",
         "Saya telah menunjukkan kesedaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Perpisahan Tanpa Tirai",
+        "plot": [
+          "Aku kecewa apabila persembahan perpisahan dibatalkan dan latihan berbulan-bulan terasa sia-sia.",
+          "Ahli kumpulan bersurai sebelum guru yang bakal berpindah sempat melihat hasil kami.",
+          "Aku menemui nota latihan yang mengandungi komen guru lalu mengajak kumpulan merakam adegan menggunakan ruang biasa sekolah.",
+          "Rakaman itu menjadi hadiah peribadi yang turut memuatkan catatan perkembangan setiap ahli.",
+          "Aku memahami betapa banyak yang telah kami pelajari walaupun persembahan tidak berlangsung."
+        ]
+      },
+      {
+        "title": "Kasut yang Tidak Dipakai",
+        "plot": [
+          "Aku kecewa kerana tidak boleh menyertai larian selepas mengalami kecederaan semasa latihan.",
+          "Aku mahu menjauhkan diri daripada pasukan ketika mereka meneruskan persediaan.",
+          "Seorang junior meminta aku menilai corak lariannya dan aku memilih membantu walaupun sukar melihat orang lain menggantikan tempatku.",
+          "Semasa pulih, aku belajar memerhati dan membimbing; apabila kembali berlari, aku lebih sabar dengan rentak sendiri.",
+          "Aku menemui cara menyumbang yang selama ini tidak kusangka penting."
+        ]
+      },
+      {
+        "title": "Bilik yang Dikosongkan",
+        "plot": [
+          "Aku kecewa apabila keluargaku perlu berpindah dan aku kehilangan ruang belajar sendiri.",
+          "Di rumah baharu aku bertengkar dengan adik kerana kami terpaksa berkongsi meja.",
+          "Apabila melihat adik membuat kerja dalam gelap supaya aku boleh tidur, aku mengajaknya melakar waktu penggunaan meja bersama.",
+          "Kami mempunyai jadual yang adil dan mula saling membantu belajar pada waktu bertindih.",
+          "Aku masih merindui rumah lama, tetapi perpindahan itu merapatkan hubungan kami."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah tindakan selepas kekecewaan yang memungkinkan hikmah itu muncul?",
+      "ending": "Bagaimanakah hikmah itu memberi makna baharu kepada peristiwa tersebut?"
     }
   },
   {
@@ -3127,6 +4423,42 @@
         "Saya telah menunjukkan peluang muncul.",
         "Saya telah menunjukkan hasil."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Pentas Tanpa Elektrik",
+        "plot": [
+          "Pameran kelab kami hampir gagal apabila bekalan elektrik di ruang pameran terganggu.",
+          "Kami tidak dapat menggunakan tayangan atau menggerakkan model bermotor.",
+          "Melihat pelawat masih berhenti, aku mengajak ahli menjadikan model itu demonstrasi manual yang dapat dicuba sendiri.",
+          "Pengunjung menguji model dan memberi cadangan yang sukar diperoleh melalui tayangan.",
+          "Masalah itu membuka peluang untuk menguji reka bentuk bersama pengguna sebenar."
+        ]
+      },
+      {
+        "title": "Rak yang Terlalu Kecil",
+        "plot": [
+          "Pertukaran buku kejiranan kehilangan ruang simpanan sebelum hari pengumpulan.",
+          "Kami terpaksa menolak sumbangan besar walaupun ramai sudah bersedia membawa buku.",
+          "Aku mengusulkan aturan tempahan lebih awal supaya buku dibawa hanya apabila pembacanya dapat datang.",
+          "Pertukaran kecil menjadi pertemuan langsung antara penyumbang dengan pembaca, dan beberapa keluarga meminta sesi ulangan.",
+          "Kekurangan ruang membuka peluang membina hubungan antara jiran."
+        ]
+      },
+      {
+        "title": "Pasukan Sokongan Muda",
+        "plot": [
+          "Dua ahli senior tidak dapat menghadiri sesi persediaan dan tugas operasi kelab bertimbun.",
+          "Junior takut mengendalikan peralatan yang selama ini dikuasai senior.",
+          "Selepas memecahkan tugas kepada langkah kecil, aku meminta junior memilih satu bahagian dan mengujinya dengan pengawasan guru.",
+          "Sesi berlangsung dan junior yang memimpin latihan itu membantu melatih ahli lain selepasnya.",
+          "Kesulitan itu membuka peluang melatih pelapis lebih awal daripada rancangan asal."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah pilihan yang hanya muncul kerana masalah asal berlaku?",
+      "ending": "Apakah hasil yang membuktikan pilihan itu menjadi peluang sebenar?"
     }
   },
   {
@@ -3162,6 +4494,42 @@
         "Saya telah menunjukkan akibat.",
         "Saya telah menunjukkan pengalaman."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Arus di Hujung Pantai",
+        "plot": [
+          "Aku ingin berenang melampaui kawasan yang dibenarkan walaupun ayah sudah menasihatiku tentang arus.",
+          "Aku mengabaikannya kerana mahu menunjukkan ketahananku kepada sepupu.",
+          "Apabila aku semakin jauh daripada kawasan cetek, aku panik dan terpaksa mendapatkan perhatian petugas pantai.",
+          "Petugas membantuku kembali ke tempat selamat dan acara keluarga terganggu sementara keadaanku diperiksa.",
+          "Aku mengakui bahawa berani mengambil risiko tidak sama dengan mampu mengawalnya."
+        ]
+      },
+      {
+        "title": "Lompatan Selepas Hujan",
+        "plot": [
+          "Aku mahu mencuba lompatan papan selaju ketika lantai masih basah walaupun jurulatih menyuruh aku menunggu.",
+          "Aku meneruskan percubaan kerana tidak mahu mengecewakan rakan yang sedang merakam.",
+          "Papan tergelincir ketika mendarat dan aku terpaksa meminta bantuan apabila pergelangan tanganku sakit.",
+          "Aku menerima rawatan dan tidak dapat menyertai pertandingan yang sudah lama kutunggu.",
+          "Aku mula membezakan cabaran yang dirancang daripada risiko yang kuambil hanya untuk menarik perhatian."
+        ]
+      },
+      {
+        "title": "Gambar di Sebalik Pagar",
+        "plot": [
+          "Aku mahu merakam gambar dari kawasan tinggi yang dipagar walaupun sepupu menasihatiku agar tidak melintas.",
+          "Aku masuk kerana menyangka dapat keluar sebelum sesiapa ternampak.",
+          "Angin kuat membuat aku hilang keseimbangan dan aku terpaksa meminta bantuan sepupu mendapatkan petugas.",
+          "Aku keluar mengikut arahan petugas dan terpaksa menjelaskan kejadian itu kepada penjaga.",
+          "Aku malu kerana satu gambar hampir mendatangkan kecederaan yang serius."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah saat yang menunjukkan risiko lebih besar daripada yang kamu jangkakan?",
+      "ending": "Apakah akibat yang perlu kamu tanggung kerana mengabaikan nasihat?"
     }
   },
   {
@@ -3197,6 +4565,42 @@
         "Saya telah menunjukkan kesedaran.",
         "Saya telah menunjukkan perubahan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Janji Tiga Gol",
+        "plot": [
+          "Aku bermegah bahawa aku boleh menjaringkan tiga gol tanpa bantuan pasukan.",
+          "Ketika perlawanan, aku enggan menghantar bola kepada rakan sehingga kami kehilangan beberapa peluang.",
+          "Dalam serangan terakhir aku memilih menembak dari sudut sempit walaupun rakan tidak dikawal; bola tersasar dan kami kalah.",
+          "Aku meminta maaf dan jurulatih meminta aku berlatih menghantar bola sebelum kembali ke posisi asal.",
+          "Aku mula menghargai sumbangan rakan yang selama ini membuat aku kelihatan hebat."
+        ]
+      },
+      {
+        "title": "Kek untuk Semua",
+        "plot": [
+          "Aku bermegah bahawa aku boleh menyediakan kek untuk seluruh kelas seorang diri.",
+          "Aku menolak tawaran bantuan walaupun hanya mempunyai ketuhar kecil.",
+          "Pada hari sambutan aku terpaksa mengaku bahawa separuh adunan masih mentah dan tidak selamat dihidangkan.",
+          "Kami membahagikan kek yang siap kepada bahagian kecil dan aku menanggung kos bahan yang dibazirkan.",
+          "Aku belajar membuat janji berdasarkan kemampuan sebenar."
+        ]
+      },
+      {
+        "title": "Skor yang Kucanangkan",
+        "plot": [
+          "Aku menghebohkan keputusan ujian percubaan dan memperlekeh rakan yang meminta bantuan belajar.",
+          "Rakan-rakan memilih belajar bersama tanpa aku, sementara aku terus menyangka sudah menguasai topik.",
+          "Apabila gagal menjawab soalan baharu dalam ujian seterusnya, aku perlu meminta bantuan daripada rakan yang pernah kuperlekeh.",
+          "Aku meminta maaf dan mula menyumbang bahan ulang kaji sebelum meminta pandangan mereka.",
+          "Aku faham bahawa bermegah menjauhkan orang dan menghalang aku melihat kelemahan sendiri."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Bagaimanakah sikap bermegah mendorong watak membuat keputusan yang merugikannya?",
+      "ending": "Apakah kesan yang masih perlu ditangani selepas watak menyedari kesilapannya?"
     }
   },
   {
@@ -3232,6 +4636,42 @@
         "Saya telah menunjukkan usaha mengatasi tentangan.",
         "Saya telah menunjukkan kejayaan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Giliran Mengemas",
+        "plot": [
+          "Aku cuba membetulkan agihan kerja selepas kelab kerana tugas berat selalu jatuh kepada ahli yang sama.",
+          "Senior menentang giliran baharu kerana bimbang peralatan tidak diurus dengan baik.",
+          "Apabila ahli yang biasa mengemas tidak hadir, aku menunjukkan cara kerja dalam percubaan singkat dengan pasangan senior dan junior.",
+          "Peralatan lengkap disimpan mengikut masa, lalu kelab menerima giliran yang disertai latihan.",
+          "Aku sedar tentangan berkurang apabila kebimbangan yang wajar diuji secara terbuka."
+        ]
+      },
+      {
+        "title": "Ruang di Lorong",
+        "plot": [
+          "Aku mahu menghentikan amalan meletakkan kotak di laluan kedai, tetapi beberapa peniaga menentang kerana ruang stor mereka terhad.",
+          "Seorang pelanggan tersandung dan pemilik kedai mahu terus membuang semua kotak, menyebabkan bantahan semakin kuat.",
+          "Aku mencadangkan kawasan pengumpulan sementara dengan masa angkut yang dipersetujui, dan meminta penyelia mencubanya selama seminggu.",
+          "Lorong kekal lapang dan kotak masih boleh dikutip, jadi peniaga bersetuju meneruskan aturan itu.",
+          "Aku belajar bahawa perubahan tahan lama perlu menangani sebab orang menentangnya."
+        ]
+      },
+      {
+        "title": "Mikrofon Bergilir",
+        "plot": [
+          "Aku mencadangkan aturan giliran bercakap apabila seorang ahli sentiasa memotong idea orang lain.",
+          "Beberapa ahli menentang kerana fikir perbincangan akan menjadi lambat.",
+          "Apabila mesyuarat gagal membuat keputusan, aku meminta mereka menguji satu pusingan pendek yang memberi semua ahli masa bercakap.",
+          "Kumpulan memperoleh cadangan yang boleh digabungkan dan bersetuju menggunakan giliran untuk keputusan besar.",
+          "Aku melihat perubahan kecil diterima apabila orang mengalami manfaatnya sendiri."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah kebimbangan pihak yang menentang, dan bagaimana kamu menanganinya?",
+      "ending": "Apakah perubahan yang menunjukkan usaha membetulkan keadaan telah berhasil?"
     }
   },
   {
@@ -3244,7 +4684,7 @@
     "guide": {
       "demand": [
         "rancangan mengaibkan",
-        "pelaksanaan atau kesannya",
+        "detik yang menghentikan rancangan atau akibat pelaksanaannya",
         "penyesalan",
         "keinsafan"
       ],
@@ -3267,6 +4707,42 @@
         "Saya telah menunjukkan penyesalan.",
         "Saya telah menunjukkan keinsafan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Tayangan Sebelum Rehat",
+        "plot": [
+          "Aku merancang menayangkan rakaman rakan tersasul kerana mahu membalas ejekannya.",
+          "Dua rakan sudah bersedia menyebarkan rakaman itu selepas tayangan.",
+          "Sebelum menekan butang main, aku nampak rakan tersebut berhenti berlatih kerana takut ditertawakan dan sedar apa yang akan kutambah pada ketakutannya.",
+          "Aku membatalkan tayangan, meminta salinan dipadam dan mengaku rancangan itu kepadanya.",
+          "Aku menyesal pernah mencari sokongan untuk menjatuhkan orang dan memilih bercakap terus tentang ejekannya."
+        ]
+      },
+      {
+        "title": "Hadiah Palsu",
+        "plot": [
+          "Aku merancang memberi pingat olok-olok kepada seorang ahli yang selalu lewat supaya semua orang mentertawakannya.",
+          "Apabila kad hadiah sudah diedarkan, aku mendapat tahu dia lewat kerana menjaga adiknya.",
+          "Aku menghentikan acara kejutan ketika kumpulan mula berkumpul dan menjelaskan bahawa rancangan itu datang daripadaku.",
+          "Aku meminta maaf secara peribadi dan membantu kelab menyusun semula waktu latihan.",
+          "Aku insaf bahawa memalukan seseorang boleh menutup masalah yang sebenarnya boleh diselesaikan."
+        ]
+      },
+      {
+        "title": "Siaran yang Tidak Diteruskan",
+        "plot": [
+          "Aku merancang menunjukkan lakaran buruk seorang rakan dalam siaran kelab supaya dia malu selepas mengkritik hasilku.",
+          "Seorang ahli mula mengedarkan gambar sebelum waktu siaran yang kurancang.",
+          "Apabila rakan itu datang membawa cadangan membaiki hasilku, aku mengaku perbuatanku dan menghentikan siaran.",
+          "Aku meminta mereka memadam gambar dan memberikan rakan itu ruang menentukan bagaimana lakarannya akan digunakan.",
+          "Aku menyesal kerana mengubah pertikaian tentang kerja menjadi serangan terhadap maruah seseorang."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang membuat watak menghentikan rancangan atau menyedari akibatnya?",
+      "ending": "Apakah tindakan yang menunjukkan keinsafan selepas rasa kesal?"
     }
   },
   {
@@ -3302,6 +4778,42 @@
         "Saya telah menunjukkan pengajaran melalui peristiwa.",
         "Saya telah menunjukkan perubahan nilai."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Kerusi di Bilik Menunggu",
+        "plot": [
+          "Aku menganggap setiap petang mesti digunakan untuk menambah pencapaian sekolah.",
+          "Ayah meminta aku menemani nenek ke klinik pada hari aku boleh menghadiri satu lagi latihan tambahan.",
+          "Di klinik, aku melihat ayah membiarkan nenek menerangkan keadaannya pada kadar sendiri dan nenek akhirnya menyuarakan kebimbangannya.",
+          "Aku tetap menjaga komitmen sekolah sambil memperuntukkan masa menemani nenek secara berkala.",
+          "Ayah mengajar aku bahawa perhatian dan masa boleh menjadi lebih berharga daripada satu lagi sijil."
+        ]
+      },
+      {
+        "title": "Trofi di Stor",
+        "plot": [
+          "Aku mengagumi jurulatih kerana banyak trofi pasukannya.",
+          "Selepas kekalahan, aku mahu menyembunyikan diri daripada rakan yang melakukan kesilapan penentuan.",
+          "Jurulatih meninggalkan majlis penyampaian untuk menemani rakan itu dan mengajak aku mendengar kebimbangannya.",
+          "Kami kembali berlatih dengan peranan yang membantu rakan itu mendapatkan semula keyakinan.",
+          "Aku belajar daripada jurulatih bahawa menjaga orang lebih penting daripada menjaga imej sebagai pemenang."
+        ]
+      },
+      {
+        "title": "Roti Pertama Pagi",
+        "plot": [
+          "Aku menyangka membuka gerai awal hanya untuk memperoleh jualan tambahan.",
+          "Mak cik yang membenarkan aku membantunya menyimpan beberapa bungkus untuk petugas malam yang datang lewat.",
+          "Apabila bekalan menipis, dia mengekalkan janji itu walaupun pelanggan lain menawarkan bayaran lebih tinggi.",
+          "Aku melihat petugas itu pulang dengan sarapan yang diharapnya dan mula memahami hubungan yang dibina mak cik.",
+          "Daripadanya aku belajar bahawa menepati kata membina kepercayaan yang melebihi untung sehari."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah tindakan orang itu yang membuat kamu memikirkan semula keutamaan kamu?",
+      "ending": "Apakah pilihan kamu selepas kejadian yang menunjukkan nilai baharu itu?"
     }
   },
   {
@@ -3337,6 +4849,42 @@
         "Saya telah menunjukkan kesedaran.",
         "Saya telah menunjukkan kesediaan menerima pandangan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Label yang Sukar Dibaca",
+        "plot": [
+          "Aku yakin slaid pameran sudah baik sehingga seorang junior menegur saiz tulisan yang terlalu kecil.",
+          "Aku hampir mengabaikannya kerana dia tidak terlibat dalam reka bentuk.",
+          "Guru meminta aku berdiri di belakang dewan; dari situ aku sendiri gagal membaca label utama.",
+          "Aku menguji reka letak baharu dengan junior dan mengurangkan tulisan kepada maklumat penting.",
+          "Aku belajar bahawa pandangan penonton mengesan masalah yang terlepas daripada perhatian pereka."
+        ]
+      },
+      {
+        "title": "Teguran dari Bangku",
+        "plot": [
+          "Seorang pemain simpanan menegur bahawa aku selalu meninggalkan ruang pertahanan demi menyerang.",
+          "Aku menganggap dia tidak memahami tekanan di gelanggang.",
+          "Selepas pasukan bolos melalui ruang itu, aku menyemak rakaman dengannya dan melihat pola yang sama beberapa kali.",
+          "Aku berlatih mengubah kedudukan dengan bimbingannya dan pasukan menjadi lebih tersusun.",
+          "Aku sedar pandangan dari luar gelanggang boleh membantu pemain di dalamnya."
+        ]
+      },
+      {
+        "title": "Rak Dapur Bersama",
+        "plot": [
+          "Adik menegur cara aku menyusun barang dapur mengikut kategori kerana dia tidak dapat mencapai rak yang tinggi.",
+          "Aku enggan mengubah susunan yang menurutku paling kemas.",
+          "Apabila dia hampir menjatuhkan mangkuk ketika cuba mencapainya, aku meminta dia menunjukkan susunan yang boleh digunakan dengan selamat.",
+          "Kami memindahkan barang harian ke rak rendah dan mengekalkan label yang membantu kedua-dua pihak.",
+          "Aku belajar menerima pandangan pengguna lain apabila berkongsi sesuatu ruang."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang membuat kamu menyedari bahawa teguran itu berasas?",
+      "ending": "Apakah yang kamu ubah setelah menerima pandangan orang tersebut?"
     }
   },
   {
@@ -3372,6 +4920,42 @@
         "Saya telah menunjukkan akibat tidak dijangka.",
         "Saya telah menunjukkan pengajaran berhati-hati."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Lencana di Pintu Kelab",
+        "plot": [
+          "Aku mengimpikan jawatan ketua kerana mahu dikenali di sekolah.",
+          "Selepas dipilih, aku menerima setiap tugas tambahan dan mula mengabaikan pelajaran serta ahli yang sepatutnya kubimbing.",
+          "Apabila junior tidak berani memimpin tanpa arahanku, aku sedar impian itu telah mengubah cara aku melihat ahli.",
+          "Aku mengagihkan kuasa membuat keputusan dan menolak tugas yang tidak dapat dipikul dengan baik.",
+          "Aku belajar memeriksa tanggungjawab di sebalik jawatan yang kuingini."
+        ]
+      },
+      {
+        "title": "Hadiah Kamera",
+        "plot": [
+          "Aku sangat mengimpikan kamera mahal sehingga menerima kerja sambilan tambahan untuk membelinya.",
+          "Aku mula menolak masa rehat dan tidak dapat menyediakan tugasan tepat pada waktunya.",
+          "Ketika membeli kamera terpakai, aku kira baki wang dan masa yang telah hilang lalu berhenti sebelum menyerahkan deposit.",
+          "Aku menggunakan kemudahan pinjaman sekolah dan menyimpan mengikut kemampuan.",
+          "Aku sedar impian yang baik boleh merugikan jika harganya tidak dinilai dengan teliti."
+        ]
+      },
+      {
+        "title": "Sorakan di Skrin",
+        "plot": [
+          "Aku mahu menjadi pencipta kandungan terkenal dan mula mengukur setiap kegiatan mengikut jumlah tontonan.",
+          "Aku hampir memuat naik rakaman keluarga yang diambil tanpa persetujuan kerana yakin ia akan menarik perhatian.",
+          "Adik meminta rakaman dipadam dan aku melihat dia mula mengelak kameraku di rumah.",
+          "Aku memadam rakaman serta membina projek baharu dengan peserta yang bersetuju terlibat.",
+          "Aku belajar menetapkan sempadan sebelum mengejar perhatian orang ramai."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah harga atau akibat impian yang hanya kamu nampak setelah mengejarnya?",
+      "ending": "Apakah batas yang kamu tetapkan selepas memahami risikonya?"
     }
   },
   {
@@ -3407,6 +4991,42 @@
         "Saya telah menunjukkan renungan.",
         "Saya telah menunjukkan perubahan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Semakan Selepas Wisel",
+        "plot": [
+          "Aku menyalahkan rakan selepas pasukan kalah dan meneruskan latihan seperti biasa.",
+          "Kesilapan yang sama berulang walaupun rakan itu tidak hadir.",
+          "Aku menonton rakaman perlawanan dan menyedari arahanku sendiri menyebabkan dua pemain menjaga ruang yang sama.",
+          "Aku meminta maaf dan mengubah cara memberikan arahan dalam latihan seterusnya.",
+          "Aku belajar bahawa meneliti keputusan lalu dapat menunjukkan punca yang tidak kelihatan ketika emosi masih kuat."
+        ]
+      },
+      {
+        "title": "Borang Tanpa Jawapan",
+        "plot": [
+          "Aku berulang kali memilih peserta acara dengan menghantar borang hanya kepada rakan yang kukenali.",
+          "Apabila sukarelawan semakin sedikit, aku menyangka pelajar lain tidak berminat.",
+          "Seorang pelajar menunjukkan bahawa dia tidak pernah menerima borang, lalu aku menyemak cara penyampaian bagi acara terdahulu.",
+          "Aku membuka pendaftaran melalui saluran kelas dan mendapat penyertaan daripada kumpulan yang tidak pernah kami hubungi.",
+          "Aku belajar melihat tindakan lamaku sebelum menyimpulkan sikap orang lain."
+        ]
+      },
+      {
+        "title": "Kotak Pindah Ketiga",
+        "plot": [
+          "Aku selalu mengemas barang sekeluarga tanpa bertanya kerana mahu cepat.",
+          "Adik beberapa kali tidak menjumpai barangnya, tetapi aku menganggapnya cuai.",
+          "Ketika membuka kotak lama, aku menemui barang adik yang kurampas daripada meja untuk disimpan tanpa catatan.",
+          "Aku meminta maaf, menyemak semula barang yang telah kupindahkan dan melabel kotak bersama keluarga.",
+          "Aku sedar niat membantu perlu dinilai semula apabila kesan tindakan berulang kali menyusahkan orang."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah maklumat baharu yang membuat kamu meneliti semula tindakan lalu?",
+      "ending": "Bagaimanakah renungan itu mengubah keputusan kamu yang seterusnya?"
     }
   },
   {
@@ -3442,6 +5062,42 @@
         "Saya telah menunjukkan kesedaran.",
         "Saya telah menunjukkan perubahan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Bahan untuk Diriku",
+        "plot": [
+          "Aku menyimpan sebahagian besar bahan bagi projek kumpulan supaya bahagian sendiri paling mengagumkan.",
+          "Bahagian lain tidak cukup kukuh dan semuanya perlu dipasang pada tapak yang sama.",
+          "Ketika ujian, tapak runtuh dan bahagian cantikku turut rosak.",
+          "Kami membina model lebih ringkas dengan agihan yang adil, namun kehilangan masa untuk menunjukkan ciri tambahan.",
+          "Aku sedar menjaga kelebihan sendiri tidak memberi faedah apabila kejayaan bergantung pada hasil bersama."
+        ]
+      },
+      {
+        "title": "Bola Terakhir di Stor",
+        "plot": [
+          "Aku menyembunyikan bola terbaik selepas latihan supaya boleh berlatih sendirian esok.",
+          "Pasukan tidak dapat menjalankan latihan bersama kerana bola lain tidak sesuai.",
+          "Apabila stor ditutup untuk pemeriksaan inventori, aku juga kehilangan akses kepada bola yang kusorok.",
+          "Aku mengaku, memulangkan bola dan menerima jadual pinjaman yang dikongsi apabila stor dibuka semula.",
+          "Aku faham bahawa tindakanku merugikan latihan semua orang termasuk diriku."
+        ]
+      },
+      {
+        "title": "Tempat di Meja Besar",
+        "plot": [
+          "Aku meletakkan beg di beberapa kerusi perpustakaan supaya dapat menggunakan meja besar seorang diri.",
+          "Rakan yang ingin belajar bersama terpaksa berpindah dan aku kehilangan peluang menyemak latihan dengan mereka.",
+          "Apabila aku tersekat pada topik sukar, aku mendapati kumpulan itu sudah berpindah keluar dan waktu belajar hampir tamat.",
+          "Esoknya aku menawarkan ruang kepada mereka dan meminta izin menyertai ulang kaji.",
+          "Aku sedar tempat yang luas tidak banyak membantu jika aku menolak kerjasama."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Bilakah kepentingan yang dipertahankan akhirnya merugikan kamu sendiri?",
+      "ending": "Apakah tindakan yang dapat memulihkan kerjasama selepas kejadian itu?"
     }
   },
   {
@@ -3477,6 +5133,42 @@
         "Saya telah menunjukkan usaha mencari penyelesaian.",
         "Saya telah menunjukkan hasil."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Projektor yang Senyap",
+        "plot": [
+          "Skrin kelas gelap sebelum pembentangan dan kumpulan mahu menyalahkan ahli yang memasang projektor.",
+          "Aku bimbang pertengkaran akan menghabiskan masa yang diperlukan untuk membentang.",
+          "Aku mengajak mereka memeriksa sambungan dan beralih kepada bahan cetak apabila kabel gantian juga gagal.",
+          "Pembentangan diteruskan dan selepas kelas petugas mengenal pasti port yang rosak.",
+          "Kami belajar menangani masalah dahulu sebelum menentukan puncanya dengan bukti."
+        ]
+      },
+      {
+        "title": "Bungkusan Tersalah Susun",
+        "plot": [
+          "Beberapa bungkusan bantuan hilang daripada meja pengumpulan dan sukarelawan mahu menuduh kumpulan sebelumnya.",
+          "Senarai penerima perlu disiapkan sebelum penghantaran petang.",
+          "Aku meminta kami menjejak bungkusan mengikut nombor dan menemui sebahagiannya dalam troli yang dilabel untuk lokasi lain.",
+          "Kami membetulkan label dan mengimbas semula semua bungkusan sebelum dihantar.",
+          "Tumpuan pada proses membantu kami menyelesaikan masalah tanpa menjejaskan hubungan antara sukarelawan."
+        ]
+      },
+      {
+        "title": "Sumber Air di Kebun",
+        "plot": [
+          "Tanaman layu dan jiran mula menuduh seorang sukarelawan tidak menyiramnya.",
+          "Tanpa air, tanaman mungkin tidak bertahan hingga hujung minggu.",
+          "Aku mengajak mereka menyiram dengan bekas dahulu sambil memeriksa hos, lalu menemui sambungan yang bocor.",
+          "Kami menggantikan sambungan dan menambah cara menyemak aliran sebelum setiap giliran.",
+          "Aku belajar bahawa mencari punca sebenar lebih berguna daripada mencari orang untuk dipersalahkan."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah maklumat yang perlu diperiksa sebelum sesiapa dipersalahkan?",
+      "ending": "Apakah tindakan yang menyelesaikan masalah dan bagaimana kamu tahu tindakan itu berhasil?"
     }
   },
   {
@@ -3512,6 +5204,42 @@
         "Saya telah menunjukkan usaha berterusan.",
         "Saya telah menunjukkan kejayaan."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Rentak yang Kembali",
+        "plot": [
+          "Aku mahu melepasi ujian muzik tetapi berkali-kali tersangkut pada bahagian yang sama.",
+          "Berlatih lebih lama tanpa perubahan menyebabkan jari tegang dan semangatku merosot.",
+          "Selepas gagal dalam percubaan kedua, aku meminta guru memecahkan bahagian sukar kepada beberapa rentak perlahan.",
+          "Aku merekod kemajuan harian dan akhirnya bermain lancar dalam penilaian semula.",
+          "Aku belajar bahawa semangat yang bertahan perlu disertai cara berlatih yang boleh diperbaiki."
+        ]
+      },
+      {
+        "title": "Enam Percubaan di Gelanggang",
+        "plot": [
+          "Aku mahu kembali bertanding selepas kecederaan tetapi sering gagal menyelesaikan latihan penuh.",
+          "Aku mudah berasa kecewa apabila melihat rakan semakin jauh mendahului.",
+          "Ketika mahu berhenti, aku menyemak sasaran kecil bersama jurulatih dan memilih mengikuti tahap pemulihan yang sesuai.",
+          "Selepas beberapa bulan, aku menamatkan pertandingan sekolah dengan masa terbaik sejak kembali berlatih.",
+          "Aku bangga kerana bertahan tanpa memaksa diri mengejar jadual orang lain."
+        ]
+      },
+      {
+        "title": "Petak Terakhir di Kebun",
+        "plot": [
+          "Aku berusaha menanam sayur untuk projek sekolah, tetapi beberapa semaian tidak menjadi.",
+          "Rakan mahu menggugurkan projek selepas serangan perosak kedua.",
+          "Aku memilih meneliti catatan percubaan dan menguji satu petak kecil dengan bimbingan penjaga kebun.",
+          "Hasil petak itu membolehkan kami menambah tanaman secara berperingkat dan menuai pada hari pameran.",
+          "Aku sedar ketabahan juga bermakna mengubah rancangan berdasarkan hasil setiap percubaan."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang kamu lakukan secara berbeza selepas menghadapi halangan berulang?",
+      "ending": "Apakah hasil yang menghubungkan kejayaan dengan usaha kamu sepanjang cerita?"
     }
   },
   {
@@ -3547,6 +5275,42 @@
         "Saya telah menunjukkan padah.",
         "Saya telah menunjukkan kesedaran."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Bateri Tanpa Caj",
+        "plot": [
+          "Aku diamanahkan mengecas peralatan rakaman kelab setiap minggu, tetapi kerap pulang tanpa memeriksa bateri.",
+          "Pada hari temu bual penting, kamera mati setelah beberapa minit.",
+          "Aku terpaksa mengaku bahawa tugasku tidak dibuat dan meminta tetamu kembali pada masa lain.",
+          "Aku menanggung kos perjalanan tambahan sendiri dan menjalani tugas peralatan di bawah pemantauan sementara.",
+          "Aku belajar bahawa tugas yang kelihatan mudah tetap memerlukan perhatian yang tetap."
+        ]
+      },
+      {
+        "title": "Borang yang Tidak Dihantar",
+        "plot": [
+          "Aku diamanahkan mendaftarkan kumpulan untuk bengkel, tetapi menangguhkannya walaupun menerima beberapa peringatan.",
+          "Apabila cuba menghantar borang, semua tempat sudah diisi.",
+          "Aku terpaksa memberitahu kumpulan bahawa kamilah yang terlepas giliran kerana kecuaianku.",
+          "Aku mencari sesi lain dan menyusun perjalanan tambahan, tetapi seorang ahli tidak dapat hadir pada tarikh baharu.",
+          "Aku mula merancang tugas amanah mengikut batas masa, kerana orang lain turut menanggung akibat kelewatanku."
+        ]
+      },
+      {
+        "title": "Pintu Stor Terbuka",
+        "plot": [
+          "Aku ditugaskan menyemak stor selepas latihan tetapi sering menyerahkan kunci tanpa membuat pemeriksaan.",
+          "Satu petang peralatan tertinggal di luar dan sebahagiannya rosak terkena hujan.",
+          "Aku tidak dapat menjelaskan keadaan barang dalam rekod lalu mengaku telah melangkau pemeriksaan berkali-kali.",
+          "Aku membantu menyediakan inventori gantian dan kehilangan hak menjaga stor seorang diri untuk sementara waktu.",
+          "Aku belajar bahawa menerima kunci bererti menerima tanggungjawab yang datang bersamanya."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah saat yang memaksa kamu mengakui tugas yang diabaikan?",
+      "ending": "Apakah padah yang kamu sendiri tanggung dan bagaimana ia mengubah cara kamu memegang amanah?"
     }
   },
   {
@@ -3582,6 +5346,42 @@
         "Saya telah menunjukkan tolak ansur.",
         "Saya telah menunjukkan kebahagiaan bersama."
       ]
+    },
+    "storyPlots": [
+      {
+        "title": "Ahad yang Dikongsi",
+        "plot": [
+          "Keluargaku bertengkar kerana sebahagian mahu mendaki dan nenek hanya mampu berjalan dekat.",
+          "Dua pihak hampir membatalkan rancangan hujung minggu bersama.",
+          "Kami bertanya tempat yang nenek mahu kunjungi lalu memilih taman dengan laluan pendek serta laluan tambahan.",
+          "Kami bertemu semula untuk makan bersama selepas berjalan pada kadar masing-masing.",
+          "Aku menikmati masa bersama kerana semua pihak diberikan ruang untuk memilih."
+        ]
+      },
+      {
+        "title": "Dua Ritma di Sebilik",
+        "plot": [
+          "Aku suka belajar dalam suasana senyap, sementara adik berlatih muzik di bilik yang sama.",
+          "Kami mula menyimpan rasa marah apabila masing-masing menganggap keperluan sendiri lebih penting.",
+          "Apabila latihan adik dan ujianku jatuh pada minggu yang sama, kami membahagikan waktu dan mencari ruang alternatif untuk sesi tambahan.",
+          "Adik berlatih tanpa gangguan dan aku dapat belajar serta mendengar hasil latihannya selepas ujian.",
+          "Aku sedar sikap bertolak ansur memberi ruang untuk kami saling menyokong."
+        ]
+      },
+      {
+        "title": "Satu Meja untuk Berbuka",
+        "plot": [
+          "Kami mahu berbuka bersama, tetapi pilihan makanan keluarga bercanggah dengan keperluan pemakanan datuk.",
+          "Pertengkaran tentang menu membuat datuk mahu makan berasingan.",
+          "Kami bertanya kepada datuk tentang hidangan yang sesuai dan memutuskan untuk menyediakan lauk asas serta pilihan sampingan.",
+          "Semua orang membantu dan dapat duduk semeja tanpa mengetepikan keperluan datuk.",
+          "Aku sedar kegembiraan datang daripada membuat pilihan yang membolehkan semua turut serta."
+        ]
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang sanggup diubah oleh setiap pihak untuk mencapai persetujuan?",
+      "ending": "Apakah peristiwa kecil yang menunjukkan semua pihak lebih bahagia selepas berkompromi?"
     }
   }
 ]
