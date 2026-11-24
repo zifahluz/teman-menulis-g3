@@ -68,7 +68,8 @@
     "storyPrompts": {
       "turning": "Apakah bunyi, bau atau reaksi orang sekeliling yang menajamkan rasa kecewa?",
       "ending": "Apakah perubahan pada cara kamu menggunakan kemahiran itu selepas pengalaman tersebut?"
-    }
+    },
+    "practiceQuestion": "Kamu berpeluang untuk menggunakan kemahiran baharu yang kamu pelajari baru-baru ini. Sewaktu menggunakan kemahiran tersebut, kamu melalui pengalaman yang tidak menyenangkan. Meskipun demikian, kamu merasakan bahawa usaha tersebut bukanlah sesuatu yang benar-benar merugikan. Gambarkan pengalaman tersebut dan terangkan perasaan kamu."
   },
   {
     "id": "ND-02",
@@ -352,7 +353,8 @@
     "storyPrompts": {
       "turning": "Apakah yang kamu dengar ketika komen bertukar menjadi pertengkaran?",
       "ending": "Bagaimanakah reaksi penonton atau penghibur membantu kamu merumuskan pengajaran?"
-    }
+    },
+    "practiceQuestion": "Baru-baru ini, kamu menonton satu persembahan. Semasa persembahan itu, kamu terdengar sekumpulan remaja mengeluarkan komen-komen yang kurang menyenangkan dengan kuat tentang persembahan tersebut. Keadaan menjadi tegang apabila dua orang penonton yang duduk sebaris dengan remaja-remaja tersebut cuba menegur kelakuan mereka yang mengganggu orang lain. Akibatnya, tercetuslah pertengkaran. Gambarkan kejadian tersebut dan terangkan pengajaran yang diraih."
   },
   {
     "id": "ND-06",
@@ -565,7 +567,8 @@
     "storyPrompts": {
       "turning": "Apakah reaksi sepupu yang membuat kamu akhirnya memahami kesusahannya?",
       "ending": "Apakah tindakan kamu yang membantu sepupu mengatasi kesusahan itu?"
-    }
+    },
+    "practiceQuestion": "Sepupu kamu yang lebih muda daripada kamu telah menceritakan masalah yang dihadapinya kepada kamu. Kamu tidak mengendahkannya kerana menganggap masalah tersebut remeh. Akibatnya, dia ditimpa kesusahan. Kamu menyesal kerana tidak membantunya dari awal lagi. Kamu pun mengambil keputusan untuk menolong sepupu kamu mengatasi situasi ini. Gambarkan pengalaman kamu menolongnya dan pengajaran yang kamu peroleh."
   },
   {
     "id": "ND-09",
@@ -721,14 +724,14 @@
         "ketua menuntut kepatuhan",
         "menolak pandangan",
         "kejadian yang mengubah sikap",
-        "reaksi selepas kejadian"
+        "perasaan selepas kejadian"
       ],
       "plan": [],
       "prompts": [
         "Bagaimanakah kamu menunjukkan ketua menuntut kepatuhan melalui peristiwa atau tindakan watak?",
         "Bagaimanakah kamu menunjukkan menolak pandangan melalui peristiwa atau tindakan watak?",
         "Bagaimanakah kamu menunjukkan kejadian yang mengubah sikap melalui peristiwa atau tindakan watak?",
-        "Bagaimanakah kamu menunjukkan reaksi selepas kejadian melalui peristiwa atau tindakan watak?"
+        "Apakah perasaan kamu selepas kejadian? Apakah tindakan yang menunjukkan perasaan itu?"
       ],
       "vocab": [
         "keras kepala",
@@ -740,7 +743,7 @@
         "Saya telah menunjukkan ketua menuntut kepatuhan.",
         "Saya telah menunjukkan menolak pandangan.",
         "Saya telah menunjukkan kejadian yang mengubah sikap.",
-        "Saya telah menunjukkan reaksi selepas kejadian."
+        "Saya telah menjelaskan perasaan saya selepas kejadian."
       ]
     },
     "storyPlots": [
@@ -771,14 +774,15 @@
           "Aku menolak amaran seorang ahli tentang laluan berbumbung yang ditutup, lalu kami terperangkap di hujung pagar ketika hujan.",
           "Apabila masa hampir tamat, aku menyerahkan peta kepadanya dan meminta kumpulan menilai pilihan bersama.",
           "Kami mengambil laluan yang lebih panjang tetapi selamat dan selesai sebelum stesen ditutup.",
-          "Aku sedar ketua perlu mendengar maklumat yang belum dimilikinya."
+          "Aku lega kami tiba sebelum stesen ditutup. Aku juga kesal kerana menolak pandangannya tanpa memeriksa laluan terlebih dahulu."
         ]
       }
     ],
     "storyPrompts": {
       "turning": "Apakah yang berlaku apabila arahan awal kamu tidak lagi dapat diikuti dengan baik?",
-      "ending": "Bagaimanakah reaksi kamu menunjukkan kesediaan untuk menerima pandangan ahli?"
-    }
+      "ending": "Apakah perasaan kamu selepas kejadian, dan bagaimanakah perasaan itu mendorong kamu untuk mendengar pandangan ahli?"
+    },
+    "practiceQuestion": "Sebagai ketua, kamu menghendaki semua ahli kumpulan kamu mengikuti arahan yang telah diberikan oleh kamu. Namun baru-baru ini, suatu kejadian telah berlaku yang menyedarkan kamu akan kepentingan menerima pandangan orang lain. Gambarkan peristiwa itu dan jelaskan perasaan kamu selepas kejadian tersebut."
   },
   {
     "id": "ND-12",
@@ -1630,7 +1634,8 @@
     "storyPrompts": {
       "turning": "Apakah bantuan berbeza yang diberikan oleh beberapa teman pada saat kamu paling memerlukannya?",
       "ending": "Bagaimanakah kamu dapat menggambarkan perubahan daripada perasaan awal kepada perasaan selepas menerima bantuan?"
-    }
+    },
+    "practiceQuestion": "Satu peristiwa membuat kamu sedar bahawa kamu dikelilingi oleh ramai teman yang sedia menghulurkan bantuan. Gambarkan peristiwa itu dan perasaan yang kamu alami."
   },
   {
     "id": "ND-24",
@@ -1701,7 +1706,8 @@
     "storyPrompts": {
       "turning": "Apakah tindakan keluarga yang menyentuh hati jiran secara langsung?",
       "ending": "Apakah yang dilakukan oleh jiran selepas itu yang menunjukkan tanggapannya berubah?"
-    }
+    },
+    "practiceQuestion": "Jiran kamu berpendapat bahawa keluarga kamu tidak suka bertegur sapa dan tidak bertimbang rasa. Walau bagaimanapun, keluarga kamu melakukan sesuatu yang telah dapat memenangi hati jiran kamu itu. Terangkan perkara yang keluarga kamu lakukan dan pengajaran yang kamu peroleh melalui pengalaman tersebut."
   },
   {
     "id": "ND-25",
@@ -1849,7 +1855,8 @@
           "example": "Memilih majikan yang menghormati pekerja"
         }
       ]
-    ]
+    ],
+    "practiceQuestion": "Gaji merupakan faktor penentu ketika mencari pekerjaan. Bersetujukah kamu? Mengapa?"
   },
   {
     "id": "EK-02",
@@ -2146,7 +2153,8 @@
           "example": "Atlet terpaksa berehat kerana sakit"
         }
       ]
-    ]
+    ],
+    "practiceQuestion": "Jika kita mempunyai kesedaran tentang kekurangan yang ada di dalam diri kita dan seterusnya berusaha untuk meningkatkan diri, pasti kita akan berjaya. Bincangkan."
   },
   {
     "id": "EK-06",
@@ -2243,7 +2251,8 @@
           "example": "Video latihan terputus-putus"
         }
       ]
-    ]
+    ],
+    "practiceQuestion": "Mempelajari kemahiran baharu menjadi lebih mudah dengan adanya kursus yang ditawarkan secara dalam talian. Bincangkan."
   },
   {
     "id": "EK-07",
@@ -2705,7 +2714,8 @@
           "example": "Peluang pekerjaan terhad"
         }
       ]
-    ]
+    ],
+    "practiceQuestion": "Seseorang yang dapat menyesuaikan diri dengan apa-apa jua perubahan boleh berjaya dalam kehidupan. Bersetujukah kamu? Mengapa?"
   },
   {
     "id": "EK-13",
@@ -2859,7 +2869,8 @@
           "example": "Memulangkan barang pinjaman"
         }
       ]
-    ]
+    ],
+    "practiceQuestion": "Nilai sebenar persahabatan hanya dapat dilihat pada masa-masa susah. Bersetujukah kamu? Mengapa?"
   },
   {
     "id": "EK-15",
@@ -3475,7 +3486,8 @@
           "example": "Membuat bajet wang saku"
         }
       ]
-    ]
+    ],
+    "practiceQuestion": "Bincangkan cabaran-cabaran yang dihadapi oleh belia Singapura pada masa kini."
   },
   {
     "id": "EK-24",
@@ -3749,7 +3761,8 @@
     "storyPrompts": {
       "turning": "Apakah bukti yang mematahkan sangkaan kamu dan bagaimana kamu menemuinya?",
       "ending": "Apakah tindakan kamu untuk membaiki kesan tuduhan terhadap orang itu?"
-    }
+    },
+    "practiceQuestion": "Kamu telah tersilap menuduh seseorang melakukan suatu kesalahan. Apabila mengetahui perkara sebenar, kamu sedar betapa pentingnya usul periksa sebelum membuat tuduhan. Tulis sebuah cerita tentang peristiwa ini."
   },
   {
     "id": "N-03",
@@ -3962,7 +3975,8 @@
     "storyPrompts": {
       "turning": "Bilakah kamu sedar bahawa tanggapan orang lain sudah menguasai pilihan kamu?",
       "ending": "Bagaimanakah keputusan akhir lebih sesuai dengan keperluan atau minat kamu?"
-    }
+    },
+    "practiceQuestion": "Kamu sering bimbang akan persepsi orang lain terhadap keputusan yang kamu buat. Hal ini telah menjejaskan kemampuan kamu untuk menentukan perkara yang terbaik untuk kamu sendiri. Namun, pada suatu hari, kamu menyedari bahawa persepsi orang lain sebenarnya tidak harus dipedulikan. Tulis cerita tentang pengalaman kamu itu."
   },
   {
     "id": "N-06",
@@ -4033,7 +4047,8 @@
     "storyPrompts": {
       "turning": "Apakah dua pilihan yang sama-sama sukar selepas kawan enggan menyebelahi kamu?",
       "ending": "Apakah kesan pilihan kamu terhadap pertikaian dan hubungan dengan kawan?"
-    }
+    },
+    "practiceQuestion": "Kawan kamu telah membuat keputusan untuk tidak menyebelahi kamu. Ternyata, Keputusan tersebut tidak seperti yang kamu harapkan. Akibatnya, kamu berada dalam dilema. Tulis cerita tentang pengalaman kamu mengendalikan situasi tersebut."
   },
   {
     "id": "N-07",
@@ -4175,7 +4190,8 @@
     "storyPrompts": {
       "turning": "Antara beberapa kesan tabiat itu, apakah yang akhirnya mendorong watak berubah?",
       "ending": "Apakah bukti bahawa watak berjaya meninggalkan tabiatnya walaupun godaan masih ada?"
-    }
+    },
+    "practiceQuestion": "Tulis cerita tentang seseorang yang berjaya membuang tabiat buruknya setelah dia mengharungi pelbagai cabaran yang timbul akibat tabiat tersebut."
   },
   {
     "id": "N-09",
