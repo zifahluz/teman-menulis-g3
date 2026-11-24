@@ -25,7 +25,7 @@
         "terkilan",
         "berbesar hati"
       ],
-      "pitfall": "Jangan akhiri cerita dengan kegagalan semata-mata",
+      "pitfall": "Jangan akhiri cerita dengan kegagalan semata-mata.",
       "checks": [
         "Saya telah menunjukkan kemahiran baharu.",
         "Saya telah menunjukkan pengalaman tidak menyenangkan.",
@@ -37,7 +37,7 @@
       {
         "title": "Jahitan di Hari Amal",
         "plot": [
-          "Aku baru belajar menggunakan mesin jahit lalu menawarkan diri menjahit beg kain di hari amal.",
+          "Aku baru belajar menggunakan mesin jahit lalu menawarkan diri menjahit beg kain untuk dijual pada hari amal.",
           "Jahitan pemegang terbuka ketika seorang pengunjung mengangkat beg contoh; mukaku terasa panas.",
           "Ketika barisan semakin panjang, aku mengaku semua beg daripada kumpulan itu perlu diperiksa.",
           "Aku menggantikan beg yang rosak dan belajar menguji jahitan dengan beban sebelum menyerahkannya.",
@@ -49,7 +49,7 @@
         "plot": [
           "Selepas bengkel suntingan video, aku menyiapkan klip perpisahan untuk tayangan sekolah.",
           "Skrin menjadi hitam di tengah tayangan kerana klip masih merujuk fail dalam komputerku.",
-          "Dalam dewan yang sunyi, aku memilih menghentikan tayangan daripada berulang kali menekan butang main.",
+          "Dalam dewan yang sunyi, aku menghentikan tayangan selepas menyedari bahawa menekan butang main berulang kali tidak membantu.",
           "Dengan bantuan guru, aku menayangkan gambar pegun dahulu lalu mengeksport semula video untuk dikongsi kemudian.",
           "Aku malu mengenang dewan itu, tetapi teknik menyemak salinan akhir berguna dalam projek seterusnya."
         ]
@@ -61,7 +61,7 @@
           "Doh yang kuuli tidak mengembang; bau hangit memenuhi dapur apabila aku cuba membakarnya juga.",
           "Apabila nenek hendak menghidangkan roti itu, aku mengaku telah menggunakan air terlalu panas dan meminta dia menangguhkan hidangan.",
           "Kami menghidangkan makanan lain, kemudian aku menguji yis dalam air suam dengan bimbingan nenek.",
-          "Walaupun kecewa, aku gembira dapat memahami kesilapanku dan mengulang kemahiran itu dengan lebih yakin."
+          "Walaupun kecewa, aku gembira dapat memahami kesilapanku dan mencuba membuat roti sekali lagi dengan lebih yakin."
         ]
       }
     ],
@@ -96,7 +96,7 @@
         "menjejaki",
         "terharu"
       ],
-      "pitfall": "Jangan jadikan buku itu hadiah atau abaikan proses mencari",
+      "pitfall": "Jangan jadikan buku itu hadiah atau abaikan proses mencari.",
       "checks": [
         "Saya telah menunjukkan buku pinjaman bertandatangan penulis.",
         "Saya telah menunjukkan hubungan lama terputus.",
@@ -121,7 +121,7 @@
           "Ketika mengemas rak, aku menemui buku kegemaran bertandatangan penulis milik rakan lama yang pernah meminjamkannya kepadaku.",
           "Aku tidak tahu sekolah baharunya dan tiada lagi kenalan yang boleh menghubunginya.",
           "Aku meminta bekas guru kami menyampaikan pesanan kepada keluarganya tanpa memberikan nombor mereka kepadaku.",
-          "Rakan itu bersetuju menerima buku melalui guru kerana sedang berada di luar negara, lalu menghantar gambar selepas mengambilnya.",
+          "Rakanku masih di luar negara. Dengan persetujuannya, aku menyerahkan buku itu kepada bekas guru kami. Selepas pulang, dia mengambilnya daripada guru itu dan menghantar gambar sebagai tanda terima kasih.",
           "Melihat buku itu kembali ke rak pemiliknya melegakan aku, walaupun kami belum sempat bertemu."
         ]
       },
@@ -129,7 +129,7 @@
         "title": "Jejak Pesta Buku",
         "plot": [
           "Di celah buku pada rak yang kukemas, aku menemui komik kegemaran bertandatangan penulis yang dipinjamkan oleh teman lama sebelum kami terputus hubungan.",
-          "Gambar acara tandatangan membantu aku mengingati seorang lagi peserta yang mungkin mengenalinya.",
+          "Gambar sesi menandatangani buku membantu aku mengingati seorang lagi peserta yang mungkin mengenalinya.",
           "Peserta itu cuba menyampaikan pesananku, tetapi temanku menyangka aku tersalah orang sehingga aku menghantar gambar halaman pertama.",
           "Kami bertemu di pesta buku berikutnya; aku membawa komik dalam sampul pelindung dan dia menyemak tandatangannya.",
           "Kami berbual semula tentang buku selepas bertahun-tahun tanpa khabar."
@@ -167,7 +167,7 @@
         "terbeban",
         "bertolak ansur"
       ],
-      "pitfall": "Jangan selesaikan masalah tanpa pembahagian tugas baharu",
+      "pitfall": "Jangan selesaikan masalah tanpa pembahagian tugas baharu.",
       "checks": [
         "Saya telah menunjukkan pembahagian tugas tidak adil.",
         "Saya telah menunjukkan adik kurang membantu.",
@@ -182,7 +182,7 @@
           "Setiap malam aku membasuh pinggan dan menyapu lantai, sedangkan adik sering meninggalkan tugasnya.",
           "Pertengkaran berulang apabila kami saling menyalahkan di dapur yang masih berselerak.",
           "Aku meletakkan senarai tugas di hadapan keluarga dan adik mengaku tidak tahu cara mencuci kuali yang sering ditinggalkannya.",
-          "Aku menunjukkannya sekali, lalu kami menggilir tugas berat mengikut hari dan menyemak jadual selepas seminggu.",
+          "Aku menunjukkan cara mencuci kuali, lalu kami bergilir-gilir melakukan tugas berat dan menyemak jadual selepas seminggu.",
           "Aku berasa lebih dihargai apabila adik mula menanda tugasan yang sudah diselesaikannya."
         ]
       },
@@ -202,7 +202,7 @@
           "Adik selalu memasak sarapan keluarga, tetapi dia meninggalkan kuali dan lantai berminyak untuk aku bersihkan.",
           "Selepas beberapa kali bertengkar, aku enggan mengemas dan dapur tidak dapat digunakan untuk menyiapkan makan tengah hari.",
           "Apabila ibu terpaksa menangguhkan masakannya, aku dan adik mengukur masa yang diperlukan untuk memasak serta mengemas.",
-          "Kami menggilir peranan memasak dan mencuci, dengan peraturan membersihkan tumpahan sendiri.",
+          "Kami bergilir-gilir memasak dan mencuci. Kami juga bersetuju membersihkan tumpahan masing-masing.",
           "Aku lega melihat adik mula mengambil berat tentang kerja yang selama ini tidak disedarinya."
         ]
       }
@@ -221,14 +221,14 @@
     "level": "G3",
     "guide": {
       "demand": [
-        "meja khas golongan kurang upaya",
+        "meja khas untuk orang kurang upaya",
         "remaja dan warga emas bertengkar",
         "campur tangan kamu",
         "penyelesaian"
       ],
       "plan": [],
       "prompts": [
-        "Bagaimanakah kamu menunjukkan meja khas golongan kurang upaya melalui peristiwa atau tindakan watak?",
+        "Bagaimanakah kamu menunjukkan meja khas untuk orang kurang upaya melalui peristiwa atau tindakan watak?",
         "Bagaimanakah kamu menunjukkan remaja dan warga emas bertengkar melalui peristiwa atau tindakan watak?",
         "Bagaimanakah kamu menunjukkan campur tangan kamu melalui peristiwa atau tindakan watak?",
         "Bagaimanakah kamu menunjukkan penyelesaian melalui peristiwa atau tindakan watak?"
@@ -238,9 +238,9 @@
         "bertimbang rasa",
         "meredakan ketegangan"
       ],
-      "pitfall": "Jangan tukar lokasi atau abaikan peranan kamu",
+      "pitfall": "Jangan tukar lokasi atau abaikan peranan kamu.",
       "checks": [
-        "Saya telah menunjukkan meja khas golongan kurang upaya.",
+        "Saya telah menunjukkan meja khas untuk orang kurang upaya.",
         "Saya telah menunjukkan remaja dan warga emas bertengkar.",
         "Saya telah menunjukkan campur tangan kamu.",
         "Saya telah menunjukkan penyelesaian."
@@ -272,7 +272,7 @@
         "plot": [
           "Di pusat penjaja, aku melihat sekumpulan remaja menggunakan meja khas dan seorang warga emas menegur mereka bagi pihak cucunya yang berkerusi roda.",
           "Remaja ketawa sesama sendiri kerana tidak mendengar teguran di tengah bunyi kipas; warga emas menganggap mereka mempermainkannya lalu bertengkar.",
-          "Aku berdiri di sisi meja dan meminta kedua-dua pihak mendengar sebab teguran itu satu persatu.",
+          "Aku berdiri di sisi meja dan meminta kedua-dua pihak mendengar sebab teguran itu satu per satu.",
           "Remaja meminta maaf, mengalihkan beg, lalu berpindah ke tempat duduk yang ditunjukkan oleh seorang peniaga.",
           "Aku lega apabila salah faham itu reda dan warga emas dapat menemani cucunya makan."
         ]
@@ -309,7 +309,7 @@
         "menyinggung perasaan",
         "berhemah"
       ],
-      "pitfall": "Jangan hanya ceritakan persembahan",
+      "pitfall": "Jangan hanya ceritakan persembahan.",
       "checks": [
         "Saya telah menunjukkan komen kuat semasa persembahan.",
         "Saya telah menunjukkan dua penonton sebaris menegur.",
@@ -380,7 +380,7 @@
         "tercicir",
         "menanggung akibat"
       ],
-      "pitfall": "Sampul tidak boleh ditemukan semula",
+      "pitfall": "Sampul tidak boleh ditemukan semula.",
       "checks": [
         "Saya telah menunjukkan sampul penting hilang dalam perjalanan bas.",
         "Saya telah menunjukkan usaha mencari.",
@@ -415,7 +415,7 @@
           "Aku diberi sampul berisi surat pengesahan penting untuk dihantar kepada jurulatih di gelanggang.",
           "Dalam bas yang sesak, sampul terkeluar dari poket luar beg tanpa kusadari.",
           "Aku menjejak semula perjalanan dan menyerahkan butiran kepada petugas tetapi terpaksa mengaku kepada jurulatih apabila usaha itu gagal.",
-          "Jurulatih meminta salinan rasmi daripada sekolah; aku tidak dapat memulangkan sampul asal.",
+          "Jurulatih meminta salinan rasmi daripada sekolah; aku tidak dapat menyerahkan sampul asal.",
           "Aku belajar melaporkan masalah lebih awal, walaupun masih berharap dapat menyelesaikannya sendiri."
         ]
       }
@@ -451,7 +451,7 @@
         "memulihkan kepercayaan",
         "mesra pelanggan"
       ],
-      "pitfall": "Tangani kedua-dua masalah bukan promosi sahaja",
+      "pitfall": "Jelaskan langkah untuk memperbaik kebersihan dan layanan sebelum membincangkan promosi.",
       "checks": [
         "Saya telah menunjukkan denda kebersihan gerai.",
         "Saya telah menunjukkan aduan layanan.",
@@ -463,8 +463,8 @@
       {
         "title": "Gerai Selepas Waktu Sibuk",
         "plot": [
-          "Pak cik didenda kerana kebersihan gerainya; pelanggan turut mengadu tentang layanan kasar dan ramai berhenti datang.",
-          "Aku melihat pak cik mudah naik suara ketika mengendalikan pesanan dan pembersihan serentak.",
+          "Pak cik didenda kerana gerainya tidak memenuhi syarat kebersihan; pelanggan turut mengadu tentang layanan kasar dan ramai berhenti datang.",
+          "Aku melihat pak cik mudah meninggikan suara ketika mengendalikan pesanan dan pembersihan serentak.",
           "Seorang pelanggan tetap menolak pelawaannya untuk kembali sehingga pak cik bersetuju mengubah cara kerja.",
           "Aku membantunya menyediakan jadual pembersihan dan sistem nombor pesanan; selepas beberapa minggu, pelanggan mula datang kembali.",
           "Aku belajar bahawa kepercayaan tumbuh daripada kebersihan dan layanan yang konsisten."
@@ -484,7 +484,7 @@
         "title": "Kaunter Ambil Sendiri",
         "plot": [
           "Pak cik kehilangan pelanggan selepas menerima denda kebersihan dan teguran tentang barisan lambat serta balasan yang kasar.",
-          "Dia mahu menawarkan diskaun, tetapi aku melihat dulang kotor bertimbun semasa waktu puncak.",
+          "Dia mahu menawarkan diskaun, tetapi aku melihat dulang kotor bertimbun pada waktu puncak.",
           "Apabila seorang pelanggan membatalkan pesanan, aku mengajak pak cik mengehadkan menu sementara supaya dapur sempat dibersihkan.",
           "Aku mereka label pesanan untuk kaunter ambil sendiri dan membantu pak cik meminta maklum balas; pelanggan kembali secara beransur-ansur.",
           "Aku belajar menerima teguran dan menilai sejauh mana perubahan benar-benar membantu."
@@ -522,7 +522,7 @@
         "terkilan",
         "menyelami perasaan"
       ],
-      "pitfall": "Jangan abaikan akibat sikap awal kamu",
+      "pitfall": "Jangan abaikan akibat sikap awal kamu.",
       "checks": [
         "Saya telah menunjukkan sepupu lebih muda mengadu.",
         "Saya telah menunjukkan masalah dipandang remeh.",
@@ -537,7 +537,7 @@
           "Sepupuku yang lebih muda mengadu rakan menyisihkannya ketika makan; aku menyangka dia terlalu sensitif.",
           "Dia mula mengelak kantin dan pulang dalam keadaan lapar, lalu aku menyesal kerana tidak mendengar.",
           "Apabila dia mahu terus berdiam diri, aku meminta maaf dan menemaninya menemui guru yang dipercayainya.",
-          "Guru membantu menetapkan ruang makan yang selamat dan aku menyemak keadaannya selepas beberapa hari.",
+          "Guru bertanya kepada sepupuku tentang sokongan yang diingininya, kemudian menangani perbuatan menyisihkannya dan menemuinya semula beberapa hari kemudian. Aku juga bertanya khabar.",
           "Aku belajar bahawa perasaan orang lain patut didengar sebelum aku membuat penilaian."
         ]
       },
@@ -546,7 +546,7 @@
         "plot": [
           "Sepupu kecilku mengadu brek basikalnya longgar; aku mengetepikan kebimbangannya kerana sedang bermain permainan video.",
           "Dia terjatuh ketika menolak basikal menuruni cerun kecil kerana tidak dapat memperlahankannya.",
-          "Melihat tangannya menggigil selepas dirawat, aku mengaku telah mengabaikan aduannya dan meminta bantuannya menerangkan kerosakan kepada ayahnya.",
+          "Melihat tangannya menggigil selepas dirawat, aku mengaku telah mengabaikan aduannya dan menemaninya memberitahu ayahnya tentang brek yang rosak.",
           "Aku menemaninya ke kedai pembaikan dan berlatih semula dengannya di tempat rata selepas basikal dibaiki.",
           "Aku belajar bahawa mendengar dengan teliti boleh mencegah kesusahan yang sebenar."
         ]
@@ -593,7 +593,7 @@
         "teraniaya",
         "menegakkan kebenaran"
       ],
-      "pitfall": "Jangan bergantung pada balas dendam",
+      "pitfall": "Jangan bergantung pada balas dendam.",
       "checks": [
         "Saya telah menunjukkan hasil kerja diakui orang lain.",
         "Saya telah menunjukkan dia mendapat pujian.",
@@ -664,7 +664,7 @@
         "bersemuka",
         "menjaga batas"
       ],
-      "pitfall": "Jangan abaikan reaksi ibu",
+      "pitfall": "Jangan abaikan reaksi ibu.",
       "checks": [
         "Saya telah menunjukkan dua kanak-kanak nakal di tempat awam.",
         "Saya telah menunjukkan teguran kamu.",
@@ -689,7 +689,7 @@
           "Di stesen, dua kanak-kanak menendang bola berdekatan barisan hingga bola melanggar kakiku.",
           "Aku mendekati mereka untuk meminta bola disimpan; ibu mereka datang dengan wajah tegang dan mempersoalkan arahanku.",
           "Bola bergolek lagi ke arah orang ramai, jadi aku mengajak ibu melihat betapa sempitnya laluan.",
-          "Ibu menyimpan bola dan aku menerangkan bahawa aku juga terkejut ketika terkena tendangan.",
+          "Ibu menyimpan bola dan aku menerangkan bahawa aku juga terkejut ketika bola terkena kakiku.",
           "Aku berasa lega dan fikir penjelasan yang khusus membantu apabila niat teguran disalah fahami."
         ]
       },
@@ -706,7 +706,7 @@
     ],
     "storyPrompts": {
       "turning": "Apakah yang dilakukan oleh kedua-dua kanak-kanak, dan bagaimanakah nada ibu mereka berubah ketika bersemuka?",
-      "ending": "Bagaimanakah pengalaman itu membezakan perasaan kamu ketika ditegur daripada pandangan kamu selepas itu?"
+      "ending": "Apakah perasaan kamu ketika ditegur? Selepas itu, apakah pandangan kamu tentang cara menegur dengan sopan?"
     }
   },
   {
@@ -735,7 +735,7 @@
         "berlapang dada",
         "muafakat"
       ],
-      "pitfall": "Tunjukkan sebab perubahan bukan nasihat sahaja",
+      "pitfall": "Tunjukkan sebab perubahan bukan nasihat sahaja.",
       "checks": [
         "Saya telah menunjukkan ketua menuntut kepatuhan.",
         "Saya telah menunjukkan menolak pandangan.",
@@ -749,7 +749,7 @@
         "plot": [
           "Aku mengetuai pembinaan gerai dan mengarahkan semua ahli mengikut lakaranku.",
           "Seorang ahli mencadangkan sokongan tambahan, tetapi aku menolaknya agar kerja cepat siap.",
-          "Tiang bergoyang ketika tudung gerai dipasang; aku menghentikan kerja dan meminta ahli itu menunjukkan puncanya.",
+          "Tiang bergoyang ketika kanopi gerai dipasang; aku menghentikan kerja dan meminta ahli itu menunjukkan puncanya.",
           "Kami merendahkan gerai dan memasang sokongan mengikut cadangannya sebelum menguji kestabilan.",
           "Aku malu dengan sikapku dan mula menyediakan masa untuk menyemak pandangan ahli."
         ]
@@ -806,7 +806,7 @@
         "semangat kesukanan",
         "saling membantu"
       ],
-      "pitfall": "Jangan fokus kemenangan semata-mata",
+      "pitfall": "Jangan fokus kemenangan semata-mata.",
       "checks": [
         "Saya telah menunjukkan prasangka tentang pertandingan.",
         "Saya telah menunjukkan kejadian yang menyangkal prasangka.",
@@ -877,7 +877,7 @@
         "boros",
         "menyesal"
       ],
-      "pitfall": "Jelaskan mengapa barang tidak bermanfaat",
+      "pitfall": "Jelaskan mengapa barang tidak bermanfaat.",
       "checks": [
         "Saya telah menunjukkan pujukan jurujual.",
         "Saya telah menunjukkan barang mahal kurang bermanfaat.",
@@ -948,7 +948,7 @@
         "tenang",
         "profesional"
       ],
-      "pitfall": "Jangan jadikan pelayan kasar atau gagal",
+      "pitfall": "Jangan jadikan pelayan kasar atau gagal.",
       "checks": [
         "Saya telah menunjukkan restoran.",
         "Saya telah menunjukkan pelanggan cerewet.",
@@ -980,10 +980,10 @@
       {
         "title": "Hidangan yang Diperiksa",
         "plot": [
-          "Di restoran, aku melihat pelanggan cerewet mempersoalkan satu persatu bahan makanan dan cara ia dihidangkan.",
-          "Nada pelanggan meninggi apabila pelayan tidak dapat menjamin satu bahan yang ingin dielakkannya.",
-          "Pelayan menahan pesanan untuk menyemak dengan dapur dan menawarkan hidangan lain dengan bahan yang dapat disahkan.",
-          "Pelanggan menerima pilihan baharu dan pelayan mengulang pesanan bagi memastikan persetujuannya.",
+          "Di restoran, aku melihat pelanggan berkali-kali menukar permintaannya tentang susunan lauk dan hiasan pinggan.",
+          "Nada pelanggan meninggi apabila pelayan menerangkan bahawa hidangan itu sudah disediakan.",
+          "Pelayan menangguhkan penghantaran hidangan, menyemak pilihan dengan tukang masak dan menerangkan perubahan yang masih boleh dibuat.",
+          "Pelanggan bersetuju supaya sos dihidangkan secara berasingan. Pelayan mengulang permintaan itu sebelum kembali ke dapur.",
           "Aku kagum kerana dia kekal sabar dan memilih ketepatan walaupun didesak."
         ]
       }
@@ -1019,7 +1019,7 @@
         "berterus terang",
         "lega"
       ],
-      "pitfall": "Reaksi ibu bapa mesti berbeza daripada jangkaan",
+      "pitfall": "Reaksi ibu bapa mesti berbeza daripada jangkaan.",
       "checks": [
         "Saya telah menunjukkan kesilapan kamu.",
         "Saya telah menunjukkan jangkaan dimarahi.",
@@ -1090,7 +1090,7 @@
         "muhasabah diri",
         "merendah diri"
       ],
-      "pitfall": "Nyatakan reaksi orang sekeliling",
+      "pitfall": "Nyatakan reaksi orang sekeliling.",
       "checks": [
         "Saya telah menunjukkan keyakinan terhadap tingkah laku sendiri.",
         "Saya telah menunjukkan kejadian menyedarkan.",
@@ -1161,7 +1161,7 @@
         "strategi",
         "semangat juang"
       ],
-      "pitfall": "Jangan jadikan kemenangan kebetulan",
+      "pitfall": "Jangan jadikan kemenangan kebetulan.",
       "checks": [
         "Saya telah menunjukkan pertandingan akhir kebangsaan.",
         "Saya telah menunjukkan lawan pilihan lebih hebat.",
@@ -1232,7 +1232,7 @@
         "berfikiran terbuka",
         "jurang generasi"
       ],
-      "pitfall": "Jangan kekalkan prasangka pada akhir cerita",
+      "pitfall": "Jangan kekalkan prasangka pada akhir cerita.",
       "checks": [
         "Saya telah menunjukkan prasangka generasi tua.",
         "Saya telah menunjukkan kejadian yang membuktikan sebaliknya.",
@@ -1303,7 +1303,7 @@
         "terpinggir",
         "terkilan"
       ],
-      "pitfall": "Jangan abaikan kejayaan sahabat",
+      "pitfall": "Jangan abaikan kejayaan sahabat.",
       "checks": [
         "Saya telah menunjukkan peluang bakat diserahkan kepada sahabat.",
         "Saya telah menunjukkan sahabat berjaya.",
@@ -1374,7 +1374,7 @@
         "tersebar",
         "menebus kesilapan"
       ],
-      "pitfall": "Nyatakan akibat terhadap pemilik rahsia",
+      "pitfall": "Nyatakan akibat terhadap pemilik rahsia.",
       "checks": [
         "Saya telah menunjukkan rahsia dipercayakan.",
         "Saya telah menunjukkan rahsia dibocorkan.",
@@ -1389,7 +1389,7 @@
           "Sahabat memberitahuku secara rahsia bahawa dia mahu mencuba uji bakat tarian.",
           "Aku berkongsi berita itu dengan seorang rakan dan beberapa orang mula mengusiknya di koridor.",
           "Apabila sahabat hampir menarik diri, aku mengaku di hadapannya bahawa aku yang membocorkan rahsia itu.",
-          "Aku meminta mereka berhenti menyebarkannya dan menunggu sehingga sahabat sendiri memutuskan sama ada mahu hadir.",
+          "Aku meminta rakan-rakan berhenti menyebarkan berita itu. Aku menawarkan diri untuk menemani sahabatku berjumpa guru jika usikan berterusan, sambil menghormati keputusannya tentang uji bakat.",
           "Aku menyesal dan belajar meminta izin sebelum berkongsi rancangan orang lain."
         ]
       },
@@ -1445,7 +1445,7 @@
         "tersinggung",
         "mengawal diri"
       ],
-      "pitfall": "Jelaskan kesan kepada orang lain",
+      "pitfall": "Jelaskan kesan kepada orang lain.",
       "checks": [
         "Saya telah menunjukkan tindakan mengikut emosi.",
         "Saya telah menunjukkan orang rapat terjejas.",
@@ -1470,7 +1470,7 @@
           "Selepas kalah perlawanan, aku marah lalu menghentak pintu bilik dan membentak adik yang bertanya khabar.",
           "Adik takut mengetuk pintu lagi, manakala ibu terpaksa meninggalkan kerjanya untuk menenangkannya.",
           "Ketika kudengar adik menyangka dia punca kekalahanku, aku keluar dan mengaku dialah yang terkena tempias kemarahanku.",
-          "Aku membantu ibu membaiki selak yang longgar dan berjanji memberitahu mereka apabila memerlukan masa untuk bertenang.",
+          "Aku meminta maaf kepada adik dan membantu ibu membaiki selak yang longgar dan berjanji memberitahu mereka apabila memerlukan masa untuk bertenang.",
           "Aku sedar kesunyian selepas marah boleh menyembunyikan kesan yang panjang."
         ]
       },
@@ -1516,7 +1516,7 @@
         "berlatih",
         "berganding bahu"
       ],
-      "pitfall": "Jangan tukar peraduan drama kepada acara lain",
+      "pitfall": "Jangan tukar peraduan drama kepada acara lain.",
       "checks": [
         "Saya telah menunjukkan peraduan drama mewakili sekolah.",
         "Saya telah menunjukkan ahli menarik diri saat akhir.",
@@ -1587,7 +1587,7 @@
         "terharu",
         "setia kawan"
       ],
-      "pitfall": "Tunjukkan bantuan beberapa teman",
+      "pitfall": "Tunjukkan bantuan beberapa teman.",
       "checks": [
         "Saya telah menunjukkan kesukaran yang dihadapi.",
         "Saya telah menunjukkan ramai teman membantu.",
@@ -1612,7 +1612,7 @@
           "Tongkatku longgar sepulang latihan dan aku bimbang tidak dapat menaiki bas dengan selamat.",
           "Hujan menjadikan lantai licin dan telefonku hampir kehabisan bateri.",
           "Seorang teman menghubungi keluargaku sementara teman lain menjaga beg dan meminta bantuan petugas.",
-          "Mereka bergilir menemaniku sehingga keluargaku tiba, walaupun latihan mereka sudah lama tamat.",
+          "Mereka bergilir menemaniku sehingga keluargaku tiba, walaupun sesi latihan sudah lama tamat.",
           "Aku malu kerana mula-mula enggan meminta pertolongan, kemudian berasa sangat dihargai."
         ]
       },
@@ -1658,7 +1658,7 @@
         "prihatin",
         "kejiranan"
       ],
-      "pitfall": "Jangan sekadar menyatakan jiran berubah",
+      "pitfall": "Jangan sekadar menyatakan jiran berubah.",
       "checks": [
         "Saya telah menunjukkan jiran berprasangka terhadap keluarga.",
         "Saya telah menunjukkan tindakan keluarga.",
@@ -1729,7 +1729,7 @@
         "terkilan",
         "berlapang dada"
       ],
-      "pitfall": "Jangan gambarkan ibu sengaja menyakiti hati",
+      "pitfall": "Jangan gambarkan ibu sengaja menyakiti hati.",
       "checks": [
         "Saya telah menunjukkan buku hadiah guru sekolah rendah.",
         "Saya telah menunjukkan ibu memberikannya tanpa mengetahui nilai.",
@@ -1794,7 +1794,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "kos sara hidup",
         "jaminan kewangan",
         "ganjaran kemahiran"
@@ -1871,7 +1871,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "pencegahan sampah",
         "perancangan hijau",
         "penguatkuasaan"
@@ -1885,8 +1885,8 @@
       [
         {
           "title": "Pencegahan sampah",
-          "explain": "Denda menghalang pembuangan sampah",
-          "example": "Peraturan membuang sampah"
+          "explain": "Denda boleh mencegah perbuatan membuang sampah merata-rata",
+          "example": "Pengunjung menggunakan tong sampah di taman yang memaparkan peringatan tentang denda"
         },
         {
           "title": "Perancangan hijau",
@@ -1895,7 +1895,7 @@
         },
         {
           "title": "Penguatkuasaan",
-          "explain": "Pemeriksaan memastikan pematuhan",
+          "explain": "Pemeriksaan membantu mengesan pelanggaran peraturan kebersihan",
           "example": "Pemeriksaan kebersihan"
         },
         {
@@ -1948,7 +1948,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "produktiviti",
         "akses ilmu",
         "perkhidmatan"
@@ -1990,12 +1990,12 @@
         {
           "title": "Risiko digital",
           "explain": "Penggunaan tanpa kawalan menjejaskan fokus",
-          "example": "Notifikasi ketika belajar"
+          "example": "Pemberitahuan pada telefon ketika belajar"
         },
         {
           "title": "Akses tidak sama",
           "explain": "Alternatif bukan digital masih diperlukan",
-          "example": "Warga emas menggunakan kaunter"
+          "example": "Pengguna yang tidak mempunyai telefon pintar boleh mendapatkan bantuan di kaunter"
         },
         {
           "title": "Privasi",
@@ -2025,7 +2025,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "bantuan akademik",
         "inspirasi",
         "kepercayaan dalam tugasan"
@@ -2071,8 +2071,8 @@
         },
         {
           "title": "Sikap rendah hati",
-          "explain": "Markah tidak menjamin sikap baik",
-          "example": "Pelajar cemerlang yang angkuh"
+          "explain": "Sikap rendah hati boleh membuat rakan berasa selesa, tanpa mengira keputusan peperiksaan",
+          "example": "Seorang pelajar berasa selesa dengan rakan yang sudi mendengar dan menepati janji"
         },
         {
           "title": "Kepercayaan",
@@ -2102,7 +2102,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "muhasabah",
         "usaha terarah"
       ],
@@ -2157,24 +2157,24 @@
     "level": "G3",
     "guide": {
       "demand": [
-        "Fokus: kursus dalam talian memudahkan kemahiran baharu",
+        "Fokus: peranan kursus dalam talian dalam pembelajaran kemahiran baharu",
         "Jawab kata tugas tanpa mengubah skop pernyataan."
       ],
       "plan": [],
       "prompts": [
-        "Bagaimanakah setiap hujah berkaitan dengan kursus dalam talian memudahkan kemahiran baharu?",
+        "Bagaimanakah setiap hujah berkaitan dengan peranan kursus dalam talian dalam pembelajaran kemahiran baharu?",
         "Apakah kesan daripada contoh yang dipilih?"
       ],
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "fleksibiliti",
         "akses sumber"
       ],
-      "pitfall": "Jangan menyimpang daripada fokus: kursus dalam talian memudahkan kemahiran baharu.",
+      "pitfall": "Jangan menyimpang daripada fokus: peranan kursus dalam talian dalam pembelajaran kemahiran baharu.",
       "checks": [
-        "Saya mengaitkan setiap hujah dengan kursus dalam talian memudahkan kemahiran baharu."
+        "Saya mengaitkan setiap hujah dengan peranan kursus dalam talian dalam pembelajaran kemahiran baharu."
       ]
     },
     "detailed": {
@@ -2265,7 +2265,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "identiti tempatan",
         "akses digital",
         "promosi sosial"
@@ -2316,7 +2316,7 @@
         },
         {
           "title": "Kos hiburan",
-          "explain": "Belia mungkin memilih hiburan percuma berbanding filem tempatan",
+          "explain": "Belia mungkin memilih hiburan percuma daripada menonton filem tempatan",
           "example": "Menonton video pendek"
         }
       ]
@@ -2331,32 +2331,32 @@
     "level": "G3",
     "guide": {
       "demand": [
-        "Fokus: buku digital segera menggantikan buku bercetak",
+        "Fokus: kemungkinan buku digital menggantikan buku bercetak dalam masa terdekat",
         "Jawab kata tugas tanpa mengubah skop pernyataan."
       ],
       "plan": [],
       "prompts": [
-        "Bagaimanakah setiap hujah berkaitan dengan buku digital segera menggantikan buku bercetak?",
+        "Bagaimanakah setiap hujah berkaitan dengan kemungkinan buku digital menggantikan buku bercetak dalam masa terdekat?",
         "Apakah kesan daripada contoh yang dipilih?"
       ],
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "mudah dibawa",
         "akses segera",
         "ciri interaktif"
       ],
-      "pitfall": "Jangan menyimpang daripada fokus: buku digital segera menggantikan buku bercetak.",
+      "pitfall": "Jangan menyimpang daripada fokus: kemungkinan buku digital menggantikan buku bercetak dalam masa terdekat.",
       "checks": [
-        "Saya mengaitkan setiap hujah dengan buku digital segera menggantikan buku bercetak."
+        "Saya mengaitkan setiap hujah dengan kemungkinan buku digital menggantikan buku bercetak dalam masa terdekat."
       ]
     },
     "arguments": [
       [
         {
           "title": "Mudah dibawa",
-          "explain": "Banyak judul dalam satu peranti",
+          "explain": "Satu peranti boleh memuatkan banyak judul, lalu mengurangkan keperluan membawa buku bercetak semasa perjalanan",
           "example": "E-buku perjalanan"
         },
         {
@@ -2367,7 +2367,7 @@
         {
           "title": "Ciri interaktif",
           "explain": "Carian dan saiz teks membantu",
-          "example": "Kamus terbina"
+          "example": "Kamus dalam aplikasi bacaan"
         },
         {
           "title": "Penjimatan ruang",
@@ -2419,7 +2419,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "tekanan akademik",
         "perbandingan sosial",
         "takut mengecewakan keluarga"
@@ -2496,7 +2496,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "kemudahan",
         "perbandingan harga",
         "pilihan luas"
@@ -2573,7 +2573,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "pembelajaran",
         "nilai murni",
         "hubungan"
@@ -2650,7 +2650,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "kemahiran baharu",
         "ketahanan",
         "peluang"
@@ -2727,7 +2727,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "kesesakan",
         "bunyi dan sampah",
         "perbelanjaan impulsif"
@@ -2793,25 +2793,25 @@
     "level": "G3",
     "guide": {
       "demand": [
-        "Fokus: nilai persahabatan hanya terlihat ketika susah",
+        "Fokus: sama ada nilai persahabatan hanya terserlah pada waktu susah",
         "Jawab kata tugas tanpa mengubah skop pernyataan."
       ],
       "plan": [],
       "prompts": [
-        "Bagaimanakah setiap hujah berkaitan dengan nilai persahabatan hanya terlihat ketika susah?",
+        "Bagaimanakah setiap hujah berkaitan dengan sama ada nilai persahabatan hanya terserlah pada waktu susah?",
         "Apakah kesan daripada contoh yang dipilih?"
       ],
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "kesetiaan",
         "pengorbanan",
         "kejujuran"
       ],
-      "pitfall": "Jangan menyimpang daripada fokus: nilai persahabatan hanya terlihat ketika susah.",
+      "pitfall": "Jangan menyimpang daripada fokus: sama ada nilai persahabatan hanya terserlah pada waktu susah.",
       "checks": [
-        "Saya mengaitkan setiap hujah dengan nilai persahabatan hanya terlihat ketika susah."
+        "Saya mengaitkan setiap hujah dengan sama ada nilai persahabatan hanya terserlah pada waktu susah."
       ]
     },
     "arguments": [
@@ -2870,25 +2870,25 @@
     "level": "G3",
     "guide": {
       "demand": [
-        "Fokus: hanya sekolah membentuk perwatakan",
+        "Fokus: sama ada sekolah satu-satunya pihak yang membentuk perwatakan",
         "Jawab kata tugas tanpa mengubah skop pernyataan."
       ],
       "plan": [],
       "prompts": [
-        "Bagaimanakah setiap hujah berkaitan dengan hanya sekolah membentuk perwatakan?",
+        "Bagaimanakah setiap hujah berkaitan dengan sama ada sekolah satu-satunya pihak yang membentuk perwatakan?",
         "Apakah kesan daripada contoh yang dipilih?"
       ],
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "pendidikan nilai",
         "persekitaran sosial",
         "bimbingan guru"
       ],
-      "pitfall": "Jangan menyimpang daripada fokus: hanya sekolah membentuk perwatakan.",
+      "pitfall": "Jangan menyimpang daripada fokus: sama ada sekolah satu-satunya pihak yang membentuk perwatakan.",
       "checks": [
-        "Saya mengaitkan setiap hujah dengan hanya sekolah membentuk perwatakan."
+        "Saya mengaitkan setiap hujah dengan sama ada sekolah satu-satunya pihak yang membentuk perwatakan."
       ]
     },
     "arguments": [
@@ -2896,7 +2896,7 @@
         {
           "title": "Pendidikan nilai",
           "explain": "Sekolah mengajar tanggungjawab",
-          "example": "Pelajaran CCE"
+          "example": "Pelajaran Pendidikan Perwatakan dan Kewarganegaraan"
         },
         {
           "title": "Persekitaran sosial",
@@ -2958,7 +2958,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "integriti",
         "empati",
         "rendah hati"
@@ -3035,7 +3035,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "arah jelas",
         "pengurusan sumber"
       ],
@@ -3101,7 +3101,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "teladan watak",
         "empati",
         "perbincangan"
@@ -3178,7 +3178,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "kepercayaan",
         "motivasi dalaman"
       ],
@@ -3244,7 +3244,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "gangguan skrin",
         "interaksi cetek"
       ],
@@ -3310,7 +3310,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "pengaruh luas",
         "platform awam"
       ],
@@ -3340,7 +3340,7 @@
       [
         {
           "title": "Hak peribadi",
-          "explain": "Selebriti juga manusia yang boleh tersilap",
+          "explain": "Tanggungjawab untuk menjadi teladan wajar dinilai berdasarkan tindakan di ruang awam serta hak terhadap privasi",
           "example": "Kesilapan peribadi"
         },
         {
@@ -3376,7 +3376,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "autonomi",
         "tanggungjawab"
       ],
@@ -3390,7 +3390,7 @@
         {
           "title": "Autonomi",
           "explain": "Pilihan membina keyakinan",
-          "example": "Memilih CCA"
+          "example": "Memilih kegiatan kokurikulum (CCA)"
         },
         {
           "title": "Tanggungjawab",
@@ -3442,7 +3442,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "tekanan akademik",
         "tekanan digital",
         "ketidakpastian masa depan"
@@ -3471,7 +3471,7 @@
         },
         {
           "title": "Kos sara hidup",
-          "explain": "Belia perlu belajar mengurus wang dalam keadaan harga meningkat",
+          "explain": "Belia perlu belajar mengurus wang apabila harga keperluan meningkat",
           "example": "Membuat bajet wang saku"
         }
       ]
@@ -3497,7 +3497,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "suara pelajar",
         "kesejahteraan",
         "persekitaran sekolah"
@@ -3552,7 +3552,7 @@
       "vocab": [
         "hal ini demikian kerana",
         "sebagai contoh",
-        "natijahnya",
+        "kesannya",
         "sukarelawan",
         "sokongan kejiranan",
         "bantuan masyarakat"
@@ -3635,7 +3635,7 @@
         "alternatif",
         "hikmah"
       ],
-      "pitfall": "Tunjukkan hubungan kegagalan dengan peluang baharu",
+      "pitfall": "Tunjukkan hubungan kegagalan dengan peluang baharu.",
       "checks": [
         "Saya telah menunjukkan keinginan tidak tercapai.",
         "Saya telah menunjukkan kegagalan.",
@@ -3706,7 +3706,7 @@
         "bukti",
         "memohon maaf"
       ],
-      "pitfall": "Jangan jadikan tuduhan itu benar",
+      "pitfall": "Jangan jadikan tuduhan itu benar.",
       "checks": [
         "Saya telah menunjukkan tuduhan salah.",
         "Saya telah menunjukkan bukti sangkaan tersilap.",
@@ -3719,7 +3719,7 @@
         "title": "Kunci Makmal",
         "plot": [
           "Aku menuduh rakan mengambil kunci makmal selepas melihatnya dekat pintu.",
-          "Dia kehilangan kepercayaan kumpulan walaupun menafikan tuduhan itu.",
+          "Ahli kumpulan mula meragui kejujurannya walaupun menafikan tuduhan itu.",
           "Aku memeriksa rekod serahan dan melihat namaku sendiri sebagai peminjam terakhir; kunci masih dalam failku.",
           "Aku membetulkan tuduhan di hadapan kumpulan dan memberikan masa kepada rakan itu untuk menerima permohonan maaf.",
           "Aku mulai memeriksa rekod sebelum mengaitkan orang dengan kesalahan."
@@ -3777,7 +3777,7 @@
         "berhemat",
         "keinsafan"
       ],
-      "pitfall": "Nyatakan kesan kepada kamu juga",
+      "pitfall": "Nyatakan kesan kepada kamu juga.",
       "checks": [
         "Saya telah menunjukkan rakan kehilangan wang.",
         "Saya telah menunjukkan kegiatan tidak berfaedah.",
@@ -3792,7 +3792,7 @@
           "Rakan membazirkan wang simpanan mengejar hadiah mesin arked sehingga tambangnya tidak mencukupi.",
           "Dia mahu terus mencuba kerana menyangka hanya satu permainan lagi diperlukan.",
           "Aku mengajaknya mengira jumlah yang telah hilang dan dia memilih meninggalkan arked walaupun masih mahukan hadiah itu.",
-          "Aku membantunya menghubungi keluarga dan merancang cara mengganti wang secara beransur-ansur.",
+          "Aku membantunya menghubungi keluarga dan merancang cara menyimpan semula wang secara beransur-ansur.",
           "Dia mula menetapkan had belanja dan aku lebih berani menegur apabila kegiatan bersama mula merugikan."
         ]
       },
@@ -3812,7 +3812,7 @@
           "Rakan kehilangan wang belanja kerana bertaruh dalam permainan selepas latihan.",
           "Apabila dipujuk bermain lagi untuk mendapatkan semula wangnya, dia mula bergantung pada pinjaman.",
           "Aku menemaninya keluar dari kumpulan itu dan menyokongnya ketika dia meminta bantuan orang dewasa yang dipercayai.",
-          "Dia merancang pembayaran balik dan menjauhkan diri daripada permainan berwang.",
+          "Dia merancang pembayaran balik dan menjauhkan diri daripada kegiatan yang melibatkan pertaruhan wang.",
           "Dia belajar menerima kehilangan tanpa mengejarnya dan aku belajar menghentikan kegiatan yang disangka sekadar gurauan."
         ]
       }
@@ -3848,7 +3848,7 @@
         "kebersihan",
         "bertimbang rasa"
       ],
-      "pitfall": "Jangan menyalahkan haiwan semata-mata",
+      "pitfall": "Jangan menyalahkan haiwan semata-mata.",
       "checks": [
         "Saya telah menunjukkan jiran memberi makan kucing dan burung.",
         "Saya telah menunjukkan kawasan kotor.",
@@ -3919,7 +3919,7 @@
         "keyakinan diri",
         "pendirian"
       ],
-      "pitfall": "Tunjukkan keputusan yang terjejas",
+      "pitfall": "Tunjukkan keputusan yang terjejas.",
       "checks": [
         "Saya telah menunjukkan bimbang persepsi orang.",
         "Saya telah menunjukkan keputusan sendiri terjejas.",
@@ -3990,7 +3990,7 @@
         "kecewa",
         "rasional"
       ],
-      "pitfall": "Jelaskan dua pilihan dalam dilema",
+      "pitfall": "Jelaskan dua pilihan dalam dilema.",
       "checks": [
         "Saya telah menunjukkan sahabat enggan menyebelahi kamu.",
         "Saya telah menunjukkan dilema.",
@@ -4061,7 +4061,7 @@
         "keberanian",
         "bersuara"
       ],
-      "pitfall": "Jangan jadikan kamu satu-satunya pembela",
+      "pitfall": "Jangan jadikan kamu satu-satunya pembela.",
       "checks": [
         "Saya telah menunjukkan tempat awam.",
         "Saya telah menunjukkan mangsa dilayan tidak adil.",
@@ -4132,7 +4132,7 @@
         "disiplin",
         "ketekunan"
       ],
-      "pitfall": "Perubahan mesti beransur dan munasabah",
+      "pitfall": "Perubahan mesti beransur dan munasabah.",
       "checks": [
         "Saya telah menunjukkan tabiat buruk.",
         "Saya telah menunjukkan pelbagai cabaran akibat tabiat.",
@@ -4156,7 +4156,7 @@
         "plot": [
           "Mira menangguhkan tugasan sehingga malam terakhir.",
           "Drafnya tidak sempat disemak, rakan kehilangan masa berlatih dan tugasan individu turut lewat.",
-          "Apabila ahli kumpulan meminta menukar pembentang, Mira meminta peluang membuktikan perubahan melalui satu tarikh kecil dahulu.",
+          "Apabila ahli kumpulan meminta menukar pembentang, Mira meminta peluang membuktikan perubahan dengan menyiapkan satu bahagian lebih awal.",
           "Dia menggunakan sesi kerja ringkas di perpustakaan dan menghantar bahagian-bahagian tugasan secara berperingkat.",
           "Mira meninggalkan tabiat menunggu saat akhir kerana kini tahu cara memulakan tugas yang terasa berat."
         ]
@@ -4203,7 +4203,7 @@
         "berbaik semula",
         "pendamai"
       ],
-      "pitfall": "Jangan pendekkan tempoh kepada beberapa hari",
+      "pitfall": "Jangan pendekkan tempoh kepada beberapa hari.",
       "checks": [
         "Saya telah menunjukkan pertikaian remeh.",
         "Saya telah menunjukkan rakan renggang bertahun-tahun.",
@@ -4217,7 +4217,7 @@
         "plot": [
           "Dua sahabatku bertengkar kerana masing-masing mahu menyimpan pingat kertas daripada permainan kelas.",
           "Perselisihan kecil itu berlarutan bertahun-tahun sehingga mereka memilih perjumpaan berasingan.",
-          "Aku menemukan pingat itu semasa mengemas kenangan dan mengatur pertemuan kecil selepas mendapat persetujuan kedua-duanya.",
+          "Aku menemukan pingat itu semasa mengemas kotak barang kenangan dan mengatur pertemuan kecil selepas mendapat persetujuan kedua-duanya.",
           "Aku membantu mereka menyebut perkara yang lebih menyakitkan daripada soal pingat; mereka mula bertegur semula sebelum bersetuju menyertai perjumpaan kelas bersama.",
           "Aku sedar menyatukan sahabat memerlukan ruang untuk perasaan lama didengar."
         ]
@@ -4274,7 +4274,7 @@
         "keprihatinan",
         "terhutang budi"
       ],
-      "pitfall": "Jangan pastikan status orang itu tanpa bukti",
+      "pitfall": "Jangan pastikan status orang itu tanpa bukti.",
       "checks": [
         "Saya telah menunjukkan orang kelihatan tiada tempat tinggal.",
         "Saya telah menunjukkan kawasan kejiranan.",
@@ -4288,7 +4288,7 @@
         "plot": [
           "Aku sering melihat seseorang membawa banyak beg dan berehat di bangku; aku menyangka dia mungkin tidak mempunyai tempat tinggal.",
           "Seorang jiran terjatuh berhampiran bangku dan aku panik melihatnya cuba bangun.",
-          "Orang itu meminta jiran kekal diam, menyuruhku mendapatkan bantuan dan menunggu bersamanya.",
+          "Orang itu menenangkan jiran dan meminta aku mendapatkan bantuan. Dia menunggu di sisi jiran sehingga bantuan tiba.",
           "Selepas bantuan tiba, dia menyerahkan barang jiran yang bertaburan kepada keluarganya.",
           "Aku mula menyapanya dan sedar betapa sedikit yang kuketahui tentang kehidupannya."
         ]
@@ -4345,7 +4345,7 @@
         "tersirat",
         "bersyukur"
       ],
-      "pitfall": "Hikmah perlu berpunca daripada pengalaman",
+      "pitfall": "Hikmah perlu berpunca daripada pengalaman.",
       "checks": [
         "Saya telah menunjukkan kekecewaan.",
         "Saya telah menunjukkan kesan awal.",
@@ -4379,7 +4379,7 @@
         "plot": [
           "Aku kecewa apabila keluargaku perlu berpindah dan aku kehilangan ruang belajar sendiri.",
           "Di rumah baharu aku bertengkar dengan adik kerana kami terpaksa berkongsi meja.",
-          "Apabila melihat adik membuat kerja dalam gelap supaya aku boleh tidur, aku mengajaknya melakar waktu penggunaan meja bersama.",
+          "Apabila melihat adik membuat kerja dengan cahaya yang malap supaya aku boleh tidur, aku mengajaknya menyusun jadual penggunaan meja bersama.",
           "Kami mempunyai jadual yang adil dan mula saling membantu belajar pada waktu bertindih.",
           "Aku masih merindui rumah lama, tetapi perpindahan itu merapatkan hubungan kami."
         ]
@@ -4416,7 +4416,7 @@
         "ikhtiar",
         "peluang"
       ],
-      "pitfall": "Jangan selesaikan dengan kebetulan sahaja",
+      "pitfall": "Jangan selesaikan dengan kebetulan sahaja.",
       "checks": [
         "Saya telah menunjukkan kesulitan.",
         "Saya telah menunjukkan usaha mencari jalan.",
@@ -4487,7 +4487,7 @@
         "berwaspada",
         "serik"
       ],
-      "pitfall": "Jelaskan nasihat sebelum tindakan",
+      "pitfall": "Jelaskan nasihat sebelum tindakan.",
       "checks": [
         "Saya telah menunjukkan keinginan melakukan perkara berisiko.",
         "Saya telah menunjukkan nasihat diabaikan.",
@@ -4501,7 +4501,7 @@
         "plot": [
           "Aku ingin berenang melampaui kawasan yang dibenarkan walaupun ayah sudah menasihatiku tentang arus.",
           "Aku mengabaikannya kerana mahu menunjukkan ketahananku kepada sepupu.",
-          "Apabila aku semakin jauh daripada kawasan cetek, aku panik dan terpaksa mendapatkan perhatian petugas pantai.",
+          "Apabila aku semakin jauh daripada kawasan cetek, aku panik dan meminta bantuan petugas pantai.",
           "Petugas membantuku kembali ke tempat selamat dan acara keluarga terganggu sementara keadaanku diperiksa.",
           "Aku mengakui bahawa berani mengambil risiko tidak sama dengan mampu mengawalnya."
         ]
@@ -4558,7 +4558,7 @@
         "memperlekeh",
         "merendah diri"
       ],
-      "pitfall": "Jangan hanya menyatakan watak sombong",
+      "pitfall": "Jangan hanya menyatakan watak sombong.",
       "checks": [
         "Saya telah menunjukkan perbuatan bermegah.",
         "Saya telah menunjukkan kesan negatif.",
@@ -4629,7 +4629,7 @@
         "berunding",
         "ketabahan"
       ],
-      "pitfall": "Tunjukkan bagaimana tentangan diatasi",
+      "pitfall": "Tunjukkan bagaimana tentangan diatasi.",
       "checks": [
         "Saya telah menunjukkan keadaan perlu dibetulkan.",
         "Saya telah menunjukkan tentangan awal.",
@@ -4661,7 +4661,7 @@
       {
         "title": "Mikrofon Bergilir",
         "plot": [
-          "Aku mencadangkan aturan giliran bercakap apabila seorang ahli sentiasa memotong idea orang lain.",
+          "Aku mencadangkan aturan giliran bercakap apabila seorang ahli sentiasa menyampuk ketika orang lain bercakap.",
           "Beberapa ahli menentang kerana fikir perbincangan akan menjadi lambat.",
           "Apabila mesyuarat gagal membuat keputusan, aku meminta mereka menguji satu pusingan pendek yang memberi semua ahli masa bercakap.",
           "Kumpulan memperoleh cadangan yang boleh digabungkan dan bersetuju menggunakan giliran untuk keputusan besar.",
@@ -4700,7 +4700,7 @@
         "mengaibkan",
         "insaf"
       ],
-      "pitfall": "Jangan glorifikasikan tindakan mengaibkan",
+      "pitfall": "Tunjukkan kesan perbuatan mengaibkan dan cara watak bertanggungjawab atas tindakannya.",
       "checks": [
         "Saya telah menunjukkan rancangan mengaibkan.",
         "Saya telah menunjukkan pelaksanaan atau kesannya.",
@@ -4726,7 +4726,7 @@
           "Apabila kad hadiah sudah diedarkan, aku mendapat tahu dia lewat kerana menjaga adiknya.",
           "Aku menghentikan acara kejutan ketika kumpulan mula berkumpul dan menjelaskan bahawa rancangan itu datang daripadaku.",
           "Aku meminta maaf secara peribadi dan membantu kelab menyusun semula waktu latihan.",
-          "Aku insaf bahawa memalukan seseorang boleh menutup masalah yang sebenarnya boleh diselesaikan."
+          "Aku insaf bahawa perbuatan mengaibkan seseorang boleh membuatnya berasa sukar untuk meminta bantuan."
         ]
       },
       {
@@ -4771,7 +4771,7 @@
         "kasih sayang",
         "kesedaran"
       ],
-      "pitfall": "Jangan hanya senaraikan nasihat",
+      "pitfall": "Jangan hanya senaraikan nasihat.",
       "checks": [
         "Saya telah menunjukkan orang yang dikenali.",
         "Saya telah menunjukkan keutamaan awal.",
@@ -4794,7 +4794,7 @@
         "title": "Trofi di Stor",
         "plot": [
           "Aku mengagumi jurulatih kerana banyak trofi pasukannya.",
-          "Selepas kekalahan, aku mahu menyembunyikan diri daripada rakan yang melakukan kesilapan penentuan.",
+          "Selepas kekalahan, aku mahu menyembunyikan diri daripada rakan yang melakukan kesilapan yang menentukan keputusan perlawanan.",
           "Jurulatih meninggalkan majlis penyampaian untuk menemani rakan itu dan mengajak aku mendengar kebimbangannya.",
           "Kami kembali berlatih dengan peranan yang membantu rakan itu mendapatkan semula keyakinan.",
           "Aku belajar daripada jurulatih bahawa menjaga orang lebih penting daripada menjaga imej sebagai pemenang."
@@ -4842,7 +4842,7 @@
         "kritikan membina",
         "berlapang dada"
       ],
-      "pitfall": "Tunjukkan kesan teguran",
+      "pitfall": "Tunjukkan kesan teguran.",
       "checks": [
         "Saya telah menunjukkan teguran terhadap kamu.",
         "Saya telah menunjukkan reaksi awal.",
@@ -4913,7 +4913,7 @@
         "beban",
         "pertimbangan"
       ],
-      "pitfall": "Jelaskan risiko impian itu",
+      "pitfall": "Jelaskan risiko impian itu.",
       "checks": [
         "Saya telah menunjukkan impian.",
         "Saya telah menunjukkan usaha atau pencapaian.",
@@ -4936,7 +4936,7 @@
         "title": "Hadiah Kamera",
         "plot": [
           "Aku sangat mengimpikan kamera mahal sehingga menerima kerja sambilan tambahan untuk membelinya.",
-          "Aku mula menolak masa rehat dan tidak dapat menyediakan tugasan tepat pada waktunya.",
+          "Aku mula mengorbankan masa rehat dan tidak dapat menyediakan tugasan tepat pada waktunya.",
           "Ketika membeli kamera terpakai, aku kira baki wang dan masa yang telah hilang lalu berhenti sebelum menyerahkan deposit.",
           "Aku menggunakan kemudahan pinjaman sekolah dan menyimpan mengikut kemampuan.",
           "Aku sedar impian yang baik boleh merugikan jika harganya tidak dinilai dengan teliti."
@@ -4984,7 +4984,7 @@
         "menilai semula",
         "memperbaiki diri"
       ],
-      "pitfall": "Renungan mesti membawa kesedaran",
+      "pitfall": "Renungan mesti membawa kesedaran.",
       "checks": [
         "Saya telah menunjukkan tindakan lalu.",
         "Saya telah menunjukkan akibat.",
@@ -5018,7 +5018,7 @@
         "plot": [
           "Aku selalu mengemas barang sekeluarga tanpa bertanya kerana mahu cepat.",
           "Adik beberapa kali tidak menjumpai barangnya, tetapi aku menganggapnya cuai.",
-          "Ketika membuka kotak lama, aku menemui barang adik yang kurampas daripada meja untuk disimpan tanpa catatan.",
+          "Ketika membuka kotak lama, aku menemui barang adik yang kuambil dari meja tanpa bertanya untuk disimpan tanpa catatan.",
           "Aku meminta maaf, menyemak semula barang yang telah kupindahkan dan melabel kotak bersama keluarga.",
           "Aku sedar niat membantu perlu dinilai semula apabila kesan tindakan berulang kali menyusahkan orang."
         ]
@@ -5055,7 +5055,7 @@
         "kerjasama",
         "keinsafan"
       ],
-      "pitfall": "Jelaskan mengapa sikap itu tidak berfaedah",
+      "pitfall": "Jelaskan mengapa sikap itu tidak berfaedah.",
       "checks": [
         "Saya telah menunjukkan sikap pentingkan diri.",
         "Saya telah menunjukkan kesan terhadap diri dan orang lain.",
@@ -5126,7 +5126,7 @@
         "berunding",
         "muafakat"
       ],
-      "pitfall": "Fokus pada penyelesaian bukan mencari pesalah",
+      "pitfall": "Tumpukan perhatian pada langkah untuk menyelesaikan masalah.",
       "checks": [
         "Saya telah menunjukkan masalah.",
         "Saya telah menunjukkan tuduhan atau kecenderungan menyalahkan.",
@@ -5161,7 +5161,7 @@
           "Tanaman layu dan jiran mula menuduh seorang sukarelawan tidak menyiramnya.",
           "Tanpa air, tanaman mungkin tidak bertahan hingga hujung minggu.",
           "Aku mengajak mereka menyiram dengan bekas dahulu sambil memeriksa hos, lalu menemui sambungan yang bocor.",
-          "Kami menggantikan sambungan dan menambah cara menyemak aliran sebelum setiap giliran.",
+          "Kami menggantikan sambungan dan menambah langkah untuk menyemak aliran air sebelum setiap giliran.",
           "Aku belajar bahawa mencari punca sebenar lebih berguna daripada mencari orang untuk dipersalahkan."
         ]
       }
@@ -5197,7 +5197,7 @@
         "cekalan hati",
         "tidak berputus asa"
       ],
-      "pitfall": "Jangan jadikan kejayaan terlalu mudah",
+      "pitfall": "Jangan jadikan kejayaan terlalu mudah.",
       "checks": [
         "Saya telah menunjukkan matlamat.",
         "Saya telah menunjukkan halangan berulang.",
@@ -5217,12 +5217,12 @@
         ]
       },
       {
-        "title": "Enam Percubaan di Gelanggang",
+        "title": "Kembali ke Lintasan",
         "plot": [
           "Aku mahu kembali bertanding selepas kecederaan tetapi sering gagal menyelesaikan latihan penuh.",
           "Aku mudah berasa kecewa apabila melihat rakan semakin jauh mendahului.",
           "Ketika mahu berhenti, aku menyemak sasaran kecil bersama jurulatih dan memilih mengikuti tahap pemulihan yang sesuai.",
-          "Selepas beberapa bulan, aku menamatkan pertandingan sekolah dengan masa terbaik sejak kembali berlatih.",
+          "Selepas beberapa bulan, aku menamatkan larian di pertandingan sekolah dengan catatan masa terbaik sejak kembali berlatih.",
           "Aku bangga kerana bertahan tanpa memaksa diri mengejar jadual orang lain."
         ]
       },
@@ -5268,7 +5268,7 @@
         "amanah",
         "menanggung padah"
       ],
-      "pitfall": "Nyatakan akibat sebenar kecuaian",
+      "pitfall": "Nyatakan akibat sebenar kecuaian.",
       "checks": [
         "Saya telah menunjukkan tugas diamanahkan.",
         "Saya telah menunjukkan kurang komitmen.",
@@ -5278,13 +5278,13 @@
     },
     "storyPlots": [
       {
-        "title": "Bateri Tanpa Caj",
+        "title": "Bateri yang Tidak Dicas",
         "plot": [
           "Aku diamanahkan mengecas peralatan rakaman kelab setiap minggu, tetapi kerap pulang tanpa memeriksa bateri.",
           "Pada hari temu bual penting, kamera mati setelah beberapa minit.",
           "Aku terpaksa mengaku bahawa tugasku tidak dibuat dan meminta tetamu kembali pada masa lain.",
-          "Aku menanggung kos perjalanan tambahan sendiri dan menjalani tugas peralatan di bawah pemantauan sementara.",
-          "Aku belajar bahawa tugas yang kelihatan mudah tetap memerlukan perhatian yang tetap."
+          "Aku terpaksa memohon maaf kepada tetamu dan mengatur semula sesi itu dengan guru. Buat sementara waktu, aku bertugas di bawah pemantauan guru.",
+          "Aku belajar bahawa tugas yang kelihatan mudah juga perlu dilakukan dengan teliti."
         ]
       },
       {
@@ -5292,7 +5292,7 @@
         "plot": [
           "Aku diamanahkan mendaftarkan kumpulan untuk bengkel, tetapi menangguhkannya walaupun menerima beberapa peringatan.",
           "Apabila cuba menghantar borang, semua tempat sudah diisi.",
-          "Aku terpaksa memberitahu kumpulan bahawa kamilah yang terlepas giliran kerana kecuaianku.",
+          "Aku terpaksa memberitahu kumpulan bahawa kami terlepas peluang menyertai bengkel kerana kecuaianku.",
           "Aku mencari sesi lain dan menyusun perjalanan tambahan, tetapi seorang ahli tidak dapat hadir pada tarikh baharu.",
           "Aku mula merancang tugas amanah mengikut batas masa, kerana orang lain turut menanggung akibat kelewatanku."
         ]
@@ -5303,7 +5303,7 @@
           "Aku ditugaskan menyemak stor selepas latihan tetapi sering menyerahkan kunci tanpa membuat pemeriksaan.",
           "Satu petang peralatan tertinggal di luar dan sebahagiannya rosak terkena hujan.",
           "Aku tidak dapat menjelaskan keadaan barang dalam rekod lalu mengaku telah melangkau pemeriksaan berkali-kali.",
-          "Aku membantu menyediakan inventori gantian dan kehilangan hak menjaga stor seorang diri untuk sementara waktu.",
+          "Aku membantu menyediakan senarai peralatan yang perlu diganti dan kehilangan hak menjaga stor seorang diri untuk sementara waktu.",
           "Aku belajar bahawa menerima kunci bererti menerima tanggungjawab yang datang bersamanya."
         ]
       }
@@ -5339,7 +5339,7 @@
         "bertimbang rasa",
         "keharmonian"
       ],
-      "pitfall": "Jangan jadikan satu pihak mengalah tanpa pertimbangan",
+      "pitfall": "Jangan jadikan satu pihak mengalah tanpa pertimbangan.",
       "checks": [
         "Saya telah menunjukkan perbezaan kehendak.",
         "Saya telah menunjukkan konflik.",
@@ -5351,7 +5351,7 @@
       {
         "title": "Ahad yang Dikongsi",
         "plot": [
-          "Keluargaku bertengkar kerana sebahagian mahu mendaki dan nenek hanya mampu berjalan dekat.",
+          "Keluargaku bertengkar kerana sebahagian ahli mahu mendaki, sedangkan nenek lebih selesa berjalan dalam jarak yang pendek.",
           "Dua pihak hampir membatalkan rancangan hujung minggu bersama.",
           "Kami bertanya tempat yang nenek mahu kunjungi lalu memilih taman dengan laluan pendek serta laluan tambahan.",
           "Kami bertemu semula untuk makan bersama selepas berjalan pada kadar masing-masing.",
