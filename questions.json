@@ -69,7 +69,29 @@
       "turning": "Apakah bunyi, bau atau reaksi orang sekeliling yang menajamkan rasa kecewa?",
       "ending": "Apakah perubahan pada cara kamu menggunakan kemahiran itu selepas pengalaman tersebut?"
     },
-    "practiceQuestion": "Kamu berpeluang untuk menggunakan kemahiran baharu yang kamu pelajari baru-baru ini. Sewaktu menggunakan kemahiran tersebut, kamu melalui pengalaman yang tidak menyenangkan. Meskipun demikian, kamu merasakan bahawa usaha tersebut bukanlah sesuatu yang benar-benar merugikan. Gambarkan pengalaman tersebut dan terangkan perasaan kamu."
+    "practiceQuestion": "Kamu berpeluang untuk menggunakan kemahiran baharu yang kamu pelajari baru-baru ini. Sewaktu menggunakan kemahiran tersebut, kamu melalui pengalaman yang tidak menyenangkan. Meskipun demikian, kamu merasakan bahawa usaha tersebut bukanlah sesuatu yang benar-benar merugikan. Gambarkan pengalaman tersebut dan terangkan perasaan kamu.",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah kemahiran yang baru kamu pelajari, dan bilakah kamu menggunakannya?"
+        ],
+        [
+          "Apakah yang berlaku ketika kamu mencuba kemahiran itu sehingga pengalaman tersebut tidak menyenangkan?"
+        ],
+        [
+          "Mengapakah usaha itu masih berbaloi bagi kamu walaupun pengalaman tersebut tidak menyenangkan?"
+        ],
+        [
+          "Apakah perasaan yang paling penting untuk digambarkan ketika menggunakan kemahiran itu dan apabila kamu menilai semula pengalaman tersebut?"
+        ]
+      ],
+      "keywords": {
+        "kemahiran baharu": "Kemahiran itu baru dipelajari dan mesti digunakan dalam pengalaman yang kamu gambarkan.",
+        "pengalaman yang tidak menyenangkan": "Fokus pada pengalaman ketika menggunakan kemahiran, dan fikirkan sebab pengalaman itu tidak menyenangkan.",
+        "bukanlah sesuatu yang benar-benar merugikan": "Apakah yang masih kamu peroleh daripada usaha tersebut?",
+        "perasaan kamu": "Gambarkan perasaan kamu berkaitan dengan pengalaman mencuba kemahiran itu."
+      }
+    }
   },
   {
     "id": "ND-02",
@@ -140,6 +162,30 @@
     "storyPrompts": {
       "turning": "Butiran manakah pada buku membantu kamu memastikan identiti pemiliknya?",
       "ending": "Apakah gerak tubuh atau ekspresi sahabat ketika menerima kembali buku itu?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah kaitan buku yang kamu temui ketika mengemas rak dengan kawan lama kamu?",
+          "Apakah yang membezakan buku itu daripada buku lain?"
+        ],
+        [
+          "Apakah kesukaran mencari seseorang yang sudah lama tidak kamu hubungi?"
+        ],
+        [
+          "Apakah yang boleh kamu usahakan untuk menjejaki pemilik buku itu?"
+        ],
+        [
+          "Apakah yang perlu berlaku selepas kamu menemuinya supaya pemulangan buku jelas?"
+        ]
+      ],
+      "keywords": {
+        "buku kegemaran": "Buku ini mempunyai nilai kepada kawan lama kamu. Bagaimanakah kamu boleh menunjukkan nilai tersebut?",
+        "tandatangan penulis": "Kekalkan tandatangan penulis kerana itulah keistimewaan buku yang dinyatakan.",
+        "lama terputus hubungan": "Kamu sudah lama tidak berhubung dengannya. Apakah kesannya terhadap pencarian kamu?",
+        "usaha kamu mencari": "Tunjukkan tindakan yang kamu ambil untuk menjejaki kawan itu.",
+        "memulangkan buku": "Fikirkan apa yang berlaku antara penemuan kawan lama dengan penyerahan semula buku itu."
+      }
     }
   },
   {
@@ -211,6 +257,27 @@
     "storyPrompts": {
       "turning": "Bagaimanakah dapur atau ruang keluarga mencerminkan pertengkaran kamu?",
       "ending": "Apakah perubahan pada pembahagian tugas yang membuktikan persetujuan itu adil?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang menyebabkan kamu menganggap pembahagian kerja rumah itu tidak adil?"
+        ],
+        [
+          "Bagaimanakah perbezaan sumbangan kamu dan adik kamu dapat dilihat?"
+        ],
+        [
+          "Bilakah rasa tidak puas hati tentang kerja rumah bertukar menjadi perselisihan?"
+        ],
+        [
+          "Apakah yang perlu berubah supaya pertikaian tentang tugas rumah dapat diselesaikan?"
+        ]
+      ],
+      "keywords": {
+        "pembahagian kerja rumah": "Fokus pada cara tugas di rumah diagihkan antara adik-beradik.",
+        "tidak adil": "Ini ialah pandangan kamu tentang pembahagian tugas. Apakah yang menyebabkan kamu berasa begitu?",
+        "masalah itu diselesaikan": "Tunjukkan bagaimana masalah tentang pembahagian tugas berakhir."
+      }
     }
   },
   {
@@ -282,6 +349,27 @@
     "storyPrompts": {
       "turning": "Apakah yang kamu lihat atau dengar sebelum mencelah, dan siapa paling memerlukan ruang?",
       "ending": "Bagaimanakah keadaan meja dan laluan menunjukkan bahawa pertengkaran sudah reda?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Bagaimanakah pembaca akan tahu bahawa meja di pusat penjaja itu dikhaskan untuk golongan kurang upaya?"
+        ],
+        [
+          "Apakah yang mencetuskan pertengkaran antara remaja dengan warga emas itu?"
+        ],
+        [
+          "Apakah yang kamu lakukan setelah menyaksikan pertengkaran tersebut?"
+        ],
+        [
+          "Bagaimanakah tindakan kamu membantu meredakan pertikaian tentang penggunaan meja itu?"
+        ]
+      ],
+      "keywords": {
+        "meja yang dikhaskan": "Meja itu diperuntukkan untuk golongan kurang upaya. Penggunaannya menjadi punca pertikaian.",
+        "pertengkaran": "Pertengkaran melibatkan kumpulan remaja dengan seorang warga emas.",
+        "membantu menyelesaikan": "Peranan kamu ialah membantu menyelesaikan pertelingkahan yang kamu saksikan."
+      }
     }
   },
   {
@@ -354,7 +442,28 @@
       "turning": "Apakah yang kamu dengar ketika komen bertukar menjadi pertengkaran?",
       "ending": "Bagaimanakah reaksi penonton atau penghibur membantu kamu merumuskan pengajaran?"
     },
-    "practiceQuestion": "Baru-baru ini, kamu menonton satu persembahan. Semasa persembahan itu, kamu terdengar sekumpulan remaja mengeluarkan komen-komen yang kurang menyenangkan dengan kuat tentang persembahan tersebut. Keadaan menjadi tegang apabila dua orang penonton yang duduk sebaris dengan remaja-remaja tersebut cuba menegur kelakuan mereka yang mengganggu orang lain. Akibatnya, tercetuslah pertengkaran. Gambarkan kejadian tersebut dan terangkan pengajaran yang diraih."
+    "practiceQuestion": "Baru-baru ini, kamu menonton satu persembahan. Semasa persembahan itu, kamu terdengar sekumpulan remaja mengeluarkan komen-komen yang kurang menyenangkan dengan kuat tentang persembahan tersebut. Keadaan menjadi tegang apabila dua orang penonton yang duduk sebaris dengan remaja-remaja tersebut cuba menegur kelakuan mereka yang mengganggu orang lain. Akibatnya, tercetuslah pertengkaran. Gambarkan kejadian tersebut dan terangkan pengajaran yang diraih.",
+    "fahami": {
+      "guiding": [
+        [
+          "Bagaimanakah bunyi komen remaja itu mengganggu suasana persembahan?"
+        ],
+        [
+          "Siapakah yang menegur para remaja itu, dan di manakah mereka duduk?"
+        ],
+        [
+          "Bagaimanakah teguran tersebut membawa kepada pertengkaran?"
+        ],
+        [
+          "Apakah yang kamu pelajari daripada cara komen dan teguran itu disampaikan?"
+        ]
+      ],
+      "keywords": {
+        "komen-komen yang kurang menyenangkan": "Komen itu cukup kuat untuk didengari dan mengganggu suasana persembahan.",
+        "tercetuslah pertengkaran": "Hubungkan pertengkaran dengan teguran dua orang penonton yang duduk sebaris dengan remaja.",
+        "pengajaran yang diraih": "Nyatakan apa yang kamu pelajari daripada kejadian semasa persembahan itu."
+      }
+    }
   },
   {
     "id": "ND-06",
@@ -425,6 +534,28 @@
     "storyPrompts": {
       "turning": "Pada saat bilakah kamu pasti sampul itu hilang, dan bagaimanakah tubuh kamu bertindak balas?",
       "ending": "Apakah yang kamu lakukan selepas pencarian gagal, dan apakah tabiat yang kamu ubah?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah amanah yang diberikan kepada kamu, dan bilakah kamu sedar sampul itu hilang?"
+        ],
+        [
+          "Apakah usaha yang kamu lakukan untuk mengesan sampul yang hilang dalam perjalanan menaiki bas?"
+        ],
+        [
+          "Bagaimanakah kamu menunjukkan bahawa pencarian itu tidak berhasil?"
+        ],
+        [
+          "Apakah yang kamu pelajari tentang tanggungjawab selepas gagal menemui sampul itu?"
+        ]
+      ],
+      "keywords": {
+        "sampul surat": "Kandungan sampul penting kepada urusan penghantaran. Kamu boleh menentukan kandungannya.",
+        "hilang": "Kehilangan berlaku dalam perjalanan dengan menaiki bas.",
+        "gagal": "Pencarian telah dilakukan tetapi sampul itu tetap tidak ditemukan.",
+        "pengajaran yang kamu peroleh": "Kaitkan pengajaran dengan pengalaman menjaga barang yang diamanahkan."
+      }
     }
   },
   {
@@ -496,6 +627,29 @@
     "storyPrompts": {
       "turning": "Apakah butiran pada kaunter atau barisan yang menunjukkan masalah kebersihan atau layanan?",
       "ending": "Apakah tanda pelanggan mula kembali, dan perubahan manakah yang membantu mendapat kepercayaan mereka?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah kaitan keadaan gerai dengan denda yang dikenakan terhadap pak cik kamu?"
+        ],
+        [
+          "Bagaimanakah aduan tentang layanan pelanggan berbeza daripada isu kebersihan?"
+        ],
+        [
+          "Bagaimanakah keadaan gerai berubah apabila ramai pelanggan berhenti datang?"
+        ],
+        [
+          "Bagaimanakah bantuan kamu menangani masalah yang menyebabkan pelanggan menjauhi gerai?",
+          "Apakah pengajaran yang kamu peroleh daripada usaha menarik pelanggan semula?"
+        ]
+      ],
+      "keywords": {
+        "standard kebersihan": "Standard ialah tahap kebersihan yang ditetapkan. Kegagalan mematuhinya menyebabkan denda.",
+        "khidmat pelanggan yang tidak memuaskan": "Aduan ini berkaitan dengan cara pelanggan dilayan di gerai.",
+        "mendapatkan lebih ramai pelanggan": "Fokus pada tindakan kamu untuk membantu pak cik menarik pelanggan kembali.",
+        "pengajaran-pengajaran": "Hubungkan pengajaran dengan pengalaman kamu membantu memulihkan keadaan gerai."
+      }
     }
   },
   {
@@ -568,7 +722,30 @@
       "turning": "Apakah reaksi sepupu yang membuat kamu akhirnya memahami kesusahannya?",
       "ending": "Apakah tindakan kamu yang membantu sepupu mengatasi kesusahan itu?"
     },
-    "practiceQuestion": "Sepupu kamu yang lebih muda daripada kamu telah menceritakan masalah yang dihadapinya kepada kamu. Kamu tidak mengendahkannya kerana menganggap masalah tersebut remeh. Akibatnya, dia ditimpa kesusahan. Kamu menyesal kerana tidak membantunya dari awal lagi. Kamu pun mengambil keputusan untuk menolong sepupu kamu mengatasi situasi ini. Gambarkan pengalaman kamu menolongnya dan pengajaran yang kamu peroleh."
+    "practiceQuestion": "Sepupu kamu yang lebih muda daripada kamu telah menceritakan masalah yang dihadapinya kepada kamu. Kamu tidak mengendahkannya kerana menganggap masalah tersebut remeh. Akibatnya, dia ditimpa kesusahan. Kamu menyesal kerana tidak membantunya dari awal lagi. Kamu pun mengambil keputusan untuk menolong sepupu kamu mengatasi situasi ini. Gambarkan pengalaman kamu menolongnya dan pengajaran yang kamu peroleh.",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah masalah yang disampaikan oleh sepupu kamu yang lebih muda?"
+        ],
+        [
+          "Mengapakah kamu menganggap masalah sepupu kamu itu remeh pada mulanya?"
+        ],
+        [
+          "Bagaimanakah kesusahan sepupu kamu membuat kamu menyesal kerana tidak bertindak lebih awal?"
+        ],
+        [
+          "Apakah bantuan yang kamu berikan selepas menyedari kesusahannya?",
+          "Apakah yang kamu pelajari daripada pengalaman itu?"
+        ]
+      ],
+      "keywords": {
+        "menganggap masalah tersebut remeh": "Kamu menganggap masalah sepupu itu kecil dan mengabaikannya pada mulanya.",
+        "ditimpa kesusahan": "Kesusahan sepupu berlaku selepas masalahnya tidak diendahkan.",
+        "menyesal": "Penyesalan timbul kerana kamu tidak membantu lebih awal.",
+        "menolong sepupu": "Tunjukkan bagaimana kamu bertindak untuk membantu sepupu selepas menyedari keadaannya."
+      }
+    }
   },
   {
     "id": "ND-09",
@@ -639,6 +816,28 @@
     "storyPrompts": {
       "turning": "Apakah yang kamu nampak atau dengar ketika mengetahui orang lain dipuji atas hasil kerja kamu?",
       "ending": "Bagaimanakah cara kamu menuntut pembetulan mempengaruhi orang yang terlibat?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Bagaimanakah pembaca tahu hasil kerja yang diakui oleh orang itu sebenarnya milik kamu?"
+        ],
+        [
+          "Mengapakah orang lain memuji individu tersebut?"
+        ],
+        [
+          "Bagaimanakah kamu mengetahui bahawa hasil kerja kamu telah diakui oleh orang lain?"
+        ],
+        [
+          "Apakah yang kamu lakukan setelah mengetahui hal itu?",
+          "Apakah pengajaran yang kamu peroleh daripada cara kamu menanganinya?"
+        ]
+      ],
+      "keywords": {
+        "mengakui hasil kerja kamu sebagai miliknya": "Orang itu mendakwa bahawa dia yang menghasilkan kerja tersebut sehingga dia menerima pujian.",
+        "menangani situasi": "Jelaskan tindakan kamu selepas mengetahui orang itu mengambil pengiktirafan atas kerja kamu.",
+        "pengajaran-pengajaran": "Apakah pengajaran yang boleh kamu kaitkan dengan pengalaman mempertahankan hasil kerja itu?"
+      }
     }
   },
   {
@@ -710,6 +909,29 @@
     "storyPrompts": {
       "turning": "Apakah yang dilakukan oleh kedua-dua kanak-kanak, dan bagaimanakah nada ibu mereka berubah ketika bersemuka?",
       "ending": "Apakah perasaan kamu ketika ditegur? Selepas itu, apakah pandangan kamu tentang cara menegur dengan sopan?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah perlakuan dua orang kanak-kanak itu di tempat awam yang mengganggu kamu?"
+        ],
+        [
+          "Apakah tindakan kamu untuk menghentikan perbuatan mereka?"
+        ],
+        [
+          "Mengapakah ibu kanak-kanak itu bersemuka dengan kamu selepas tindakan tersebut?"
+        ],
+        [
+          "Apakah pendapat kamu tentang kejadian itu?",
+          "Bagaimanakah perasaan kamu ketika mengenang pengalaman tersebut?"
+        ]
+      ],
+      "keywords": {
+        "berkelakuan nakal": "Tunjukkan tingkah laku dua orang kanak-kanak yang menyebabkan kamu terganggu.",
+        "menghentikan perbuatan": "Kamu mendekati mereka dengan tujuan menghentikan perlakuan tersebut.",
+        "bersemuka dengan kamu": "Ibu kanak-kanak itu berhadapan dengan kamu kerana tidak senang dengan tindakan kamu.",
+        "pandangan dan perasaan": "Pandangan ialah penilaian kamu terhadap pengalaman itu. Perasaan ialah emosi yang kamu alami."
+      }
     }
   },
   {
@@ -782,7 +1004,31 @@
       "turning": "Apakah yang berlaku apabila arahan awal kamu tidak lagi dapat diikuti dengan baik?",
       "ending": "Apakah perasaan kamu selepas kejadian, dan bagaimanakah perasaan itu mendorong kamu untuk mendengar pandangan ahli?"
     },
-    "practiceQuestion": "Sebagai ketua, kamu menghendaki semua ahli kumpulan kamu mengikuti arahan yang telah diberikan oleh kamu. Namun baru-baru ini, suatu kejadian telah berlaku yang menyedarkan kamu akan kepentingan menerima pandangan orang lain. Gambarkan peristiwa itu dan jelaskan perasaan kamu selepas kejadian tersebut."
+    "practiceQuestion": "Sebagai ketua, kamu menghendaki semua ahli kumpulan kamu mengikuti arahan yang telah diberikan oleh kamu. Namun baru-baru ini, suatu kejadian telah berlaku yang menyedarkan kamu akan kepentingan menerima pandangan orang lain. Gambarkan peristiwa itu dan jelaskan perasaan kamu selepas kejadian tersebut.",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang kamu harapkan daripada ahli kumpulan apabila kamu memberikan arahan?"
+        ],
+        [
+          "Bagaimanakah sikap awal kamu terhadap cadangan ahli kumpulan dapat digambarkan?"
+        ],
+        [
+          "Apakah yang berlaku sehingga kamu sedar pandangan ahli kumpulan juga penting?"
+        ],
+        [
+          "Apakah perasaan kamu selepas kejadian yang mengubah sikap kamu sebagai ketua?"
+        ]
+      ],
+      "keywords": {
+        "mengikuti arahan": "Sebagai ketua, kamu menjangkakan ahli kumpulan mematuhi arahan kamu.",
+        "kepentingan menerima pandangan orang lain": "Peristiwa utama perlu menunjukkan sebab kamu mula menghargai pandangan orang lain.",
+        "perasaan kamu": "Soalan mengarahkan kamu menjelaskan perasaan selepas kejadian itu."
+      },
+      "optional": [
+        1
+      ]
+    }
   },
   {
     "id": "ND-12",
@@ -853,6 +1099,27 @@
     "storyPrompts": {
       "turning": "Apakah tindakan pesaing yang secara langsung mencabar tanggapan awal kamu?",
       "ending": "Bagaimanakah pengalaman itu mengubah cara kamu sendiri mahu bertanding?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah kaitan yang kamu fikir wujud antara pertandingan dengan sikap mementingkan diri?"
+        ],
+        [
+          "Apakah yang berlaku dalam pertandingan sehingga anggapan kamu dipersoalkan?"
+        ],
+        [
+          "Bagaimanakah pandangan kamu terhadap pertandingan berubah selepas kejadian itu?"
+        ],
+        [
+          "Apakah yang kamu pelajari daripada perbezaan antara anggapan awal dengan perkara yang kamu alami?"
+        ]
+      ],
+      "keywords": {
+        "sikap mementingkan diri sendiri": "Ini ialah anggapan awal kamu tentang kesan pertandingan terhadap seseorang.",
+        "mengubah anggapan": "Tunjukkan peristiwa yang menyebabkan kamu melihat pertandingan dengan cara berbeza.",
+        "pengajaran": "Kaitkan pengajaran dengan perkara yang membuat kamu menilai semula anggapan awal."
+      }
     }
   },
   {
@@ -924,6 +1191,28 @@
     "storyPrompts": {
       "turning": "Apakah gerak atau kata pujukan jurujual yang membuat kamu cepat membeli?",
       "ending": "Apakah yang kamu akan semak jika berhadapan dengan pujukan serupa?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Bagaimanakah jurujual memujuk kamu sehingga kamu tertarik untuk membeli barang itu?"
+        ],
+        [
+          "Apakah yang membuatkan harga barang itu terasa tidak setimpal dengan manfaatnya?"
+        ],
+        [
+          "Bagaimanakah kamu menunjukkan bahawa pembelian itu dibuat tanpa pertimbangan yang cukup?"
+        ],
+        [
+          "Apakah yang membuat kamu kesal selepas membeli barang itu, dan apakah yang kamu peroleh daripada pengalaman tersebut?"
+        ]
+      ],
+      "keywords": {
+        "mahal harganya tetapi kurang bermanfaat": "Pertimbangkan perbezaan antara harga yang dibayar dengan kegunaan sebenar barang itu.",
+        "tanpa berfikir panjang": "Pembelian dibuat secara terburu-buru. Fikirkan apa yang belum kamu pertimbangkan ketika itu.",
+        "berasa kesal": "Rasa kesal timbul apabila kamu menilai semula pembelian tersebut.",
+        "dipujuk oleh seorang jurujual": "Pujukan jurujual mempengaruhi keputusan pembelian kamu. Tunjukkan bagaimana pengaruh itu berlaku."
+      }
     }
   },
   {
@@ -995,6 +1284,28 @@
     "storyPrompts": {
       "turning": "Apakah perubahan pada nada, gerak tubuh atau suasana apabila pelayan bertindak?",
       "ending": "Apakah tindakan pelayan yang paling kamu kagumi, dan mengapa?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang sedang berlaku di restoran ketika kamu melihat pelayan berdepan dengan pelanggan itu?"
+        ],
+        [
+          "Apakah tingkah laku yang menunjukkan pelanggan itu cerewet?"
+        ],
+        [
+          "Bagaimanakah pelayan mengendalikan situasi itu sehingga menarik perhatian kamu?"
+        ],
+        [
+          "Apakah yang membuat kamu kagum, dan apakah yang kamu pelajari daripada tindakan pelayan itu?"
+        ]
+      ],
+      "keywords": {
+        "pelanggan yang sangat cerewet": "Apakah tingkah laku pelanggan yang membuat urusan itu sukar bagi pelayan?",
+        "kagum": "Rasa kagum kamu berkait dengan cara pelayan menangani pelanggan.",
+        "mengatasi situasi": "Gambarkan tindakan pelayan yang membantu dia menangani situasi dengan baik.",
+        "pengajaran": "Kaitkan pengajaran kamu dengan perkara yang kamu saksikan di restoran."
+      }
     }
   },
   {
@@ -1066,6 +1377,28 @@
     "storyPrompts": {
       "turning": "Apakah yang kamu lakukan ketika bersedia memberitahu ibu bapa perkara sebenar?",
       "ending": "Apakah reaksi mereka yang paling berbeza daripada jangkaan kamu?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang telah kamu lakukan sehingga kamu bimbang akan reaksi ibu bapa?"
+        ],
+        [
+          "Mengapakah kamu menyangka ibu bapa kamu akan memarahi kamu?"
+        ],
+        [
+          "Bagaimanakah kamu menyampaikan perkara sebenar kepada mereka?"
+        ],
+        [
+          "Bagaimanakah reaksi mereka berbeza daripada jangkaan kamu?",
+          "Apakah yang kamu peroleh daripada pengalaman berterus terang itu?"
+        ]
+      ],
+      "keywords": {
+        "akan memarahi kamu": "Ini ialah jangkaan kamu sebelum bercakap dengan ibu bapa.",
+        "perkara yang sebenar": "Terangkan hal yang kamu akhirnya sampaikan dengan jujur.",
+        "tidak memarahi kamu": "Reaksi sebenar ibu bapa berbeza daripada jangkaan. Kekalkan perbezaan ini."
+      }
     }
   },
   {
@@ -1137,6 +1470,27 @@
     "storyPrompts": {
       "turning": "Apakah reaksi orang lain yang membuat kamu menilai semula keyakinan terhadap tingkah laku sendiri?",
       "ending": "Apakah perubahan yang dapat dilihat oleh orang sekeliling dan bagaimanakah mereka menyambutnya?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Bagaimanakah kamu melihat tingkah laku dan keyakinan diri kamu sebelum kejadian itu?"
+        ],
+        [
+          "Apakah yang berlaku sehingga kamu mempertimbangkan semula cara kamu membawa diri?"
+        ],
+        [
+          "Apakah perubahan yang kamu putuskan untuk lakukan selepas kejadian itu?"
+        ],
+        [
+          "Apakah yang orang di sekeliling kamu perasan, dan bagaimanakah mereka memberikan reaksi?"
+        ]
+      ],
+      "keywords": {
+        "tingkah laku yang baik": "Ini ialah penilaian awal kamu terhadap diri sendiri.",
+        "mengubah diri kamu": "Tunjukkan keputusan untuk berubah dan kaitannya dengan kejadian yang berlaku.",
+        "reaksi orang-orang": "Fokus pada cara orang di sekeliling kamu memberikan reaksi selepas melihat perubahan itu."
+      }
     }
   },
   {
@@ -1208,6 +1562,27 @@
     "storyPrompts": {
       "turning": "Apakah tindakan pasukan kamu pada saat genting yang mula mengubah kedudukan dalam final?",
       "ending": "Bagaimanakah kamu menggambarkan perubahan suasana selepas kemenangan dan mengaitkannya dengan usaha pasukan?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang perlu jelas tentang peringkat dan kedudukan pertandingan itu?"
+        ],
+        [
+          "Mengapakah orang ramai menjangkakan pasukan lawan akan menjadi juara?"
+        ],
+        [
+          "Apakah tindakan pasukan sekolah kamu yang membantu mengubah jangkaan itu menjadi kemenangan?"
+        ],
+        [
+          "Apakah yang kamu pelajari daripada cara sekolah kamu menghadapi pasukan pilihan?"
+        ]
+      ],
+      "keywords": {
+        "pasukan lawan yang lebih hebat": "Lawan bukan sekadar kuat. Mereka juga dijangka menjuarai pertandingan akhir kebangsaan.",
+        "memenangi pertandingan": "Gambarkan bagaimana kemenangan yang tidak disangka itu dicapai.",
+        "pengajaran": "Kaitkan pengajaran dengan cara sekolah kamu menghadapi cabaran dalam pertandingan akhir."
+      }
     }
   },
   {
@@ -1279,6 +1654,27 @@
     "storyPrompts": {
       "turning": "Apakah tindakan orang yang lebih tua yang benar-benar bercanggah dengan andaian kamu?",
       "ending": "Bagaimanakah pengalaman itu akan mengubah cara kamu menyuarakan idea kepada mereka?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah anggapan awal kamu tentang kesediaan generasi lebih tua mendengar pandangan belia?"
+        ],
+        [
+          "Apakah yang berlaku sehingga kamu mula mempersoalkan anggapan tersebut?"
+        ],
+        [
+          "Bagaimanakah pandangan kamu terhadap generasi lebih tua berubah selepas kejadian itu?"
+        ],
+        [
+          "Apakah yang kamu pelajari tentang cara kamu menilai generasi lain?"
+        ]
+      ],
+      "keywords": {
+        "generasi yang lebih tua": "Pandangan awal kamu menyentuh cara generasi lebih tua menerima pendapat belia.",
+        "mengubah persepsi": "Persepsi ialah cara kamu melihat sesuatu. Apakah yang berubah selepas kejadian itu?",
+        "pengajaran": "Kaitkan pengajaran dengan perubahan cara kamu menilai generasi lain."
+      }
     }
   },
   {
@@ -1350,6 +1746,27 @@
     "storyPrompts": {
       "turning": "Apakah perbezaan antara reaksi sahabat ketika menerima peluang dan sikapnya kepada kamu selepas itu?",
       "ending": "Bagaimanakah kamu menunjukkan perasaan yang bercampur terhadap kejayaannya dan perubahan hubungan kamu?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah peluang menunjukkan bakat yang kamu serahkan kepada rakan baik kamu?"
+        ],
+        [
+          "Bagaimanakah rakan kamu memanfaatkan peluang itu untuk menunjukkan bakatnya?"
+        ],
+        [
+          "Apakah perubahan dalam layanannya selepas dia menerima peluang tersebut?"
+        ],
+        [
+          "Bagaimanakah perasaan kamu apabila rakan yang kamu bantu mula mengabaikan kamu?"
+        ]
+      ],
+      "keywords": {
+        "memberikan peluang": "Peluang menunjukkan bakat pada asalnya diberikan kepada kamu, kemudian kamu serahkan kepada rakan baik.",
+        "tidak lagi menghiraukan kamu": "Tunjukkan perubahan layanan rakan selepas dia mengambil peluang tersebut.",
+        "perasaan kamu": "Gambarkan emosi kamu terhadap perubahan hubungan selepas kamu membantunya."
+      }
     }
   },
   {
@@ -1421,6 +1838,28 @@
     "storyPrompts": {
       "turning": "Apakah reaksi pemilik rahsia ketika menyedari maklumat itu tersebar?",
       "ending": "Apakah yang masih boleh kamu perbaiki setelah rahsia itu tidak lagi dapat ditarik kembali?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Bagaimanakah pembaca tahu bahawa perkara yang dikongsi dengan kamu itu ialah rahsia?"
+        ],
+        [
+          "Apakah yang menyebabkan rahsia itu sampai kepada orang lain melalui kamu?"
+        ],
+        [
+          "Apakah akibat daripada tindakan kamu, dan bilakah kamu mula berasa kesal?"
+        ],
+        [
+          "Apakah yang kejadian itu ajarkan tentang menjaga rahsia yang diamanahkan?"
+        ]
+      ],
+      "keywords": {
+        "mengongsi rahsia": "Orang itu mempercayai kamu dengan suatu rahsia sebelum kamu menyampaikannya kepada orang lain.",
+        "menyesali tindakan": "Rasa kesal perlu dikaitkan dengan keputusan kamu berkongsi rahsia itu.",
+        "akibat tindakan": "Jelaskan apa yang berlaku kerana rahsia itu disampaikan kepada orang lain.",
+        "pengajaran": "Tarik pengajaran daripada tindakan kamu serta kesannya."
+      }
     }
   },
   {
@@ -1492,6 +1931,30 @@
     "storyPrompts": {
       "turning": "Apakah perbuatan atau reaksi orang rapat yang menunjukkan tempias tindakan kamu?",
       "ending": "Apakah cara yang boleh kamu gunakan untuk menghadapi emosi serupa pada masa depan?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah emosi yang mempengaruhi tindakan kamu, dan bagaimana pembaca boleh melihat kaitannya?"
+        ],
+        [
+          "Siapakah orang rapat yang terjejas dan apakah kesan tindakan kamu terhadap mereka?"
+        ],
+        [
+          "Bilakah kamu menyedari kesan tindakan kamu terhadap orang yang rapat dengan kamu?"
+        ],
+        [
+          "Apakah yang kamu pelajari tentang cara mengawal tindakan ketika emosi memuncak?"
+        ]
+      ],
+      "keywords": {
+        "bertindak mengikut emosi": "Emosi mempengaruhi tindakan kamu. Tunjukkan hubungan antara perasaan ketika itu dengan perkara yang kamu lakukan.",
+        "orang-orang yang rapat": "Kesan peristiwa itu melibatkan orang yang mempunyai hubungan rapat dengan kamu.",
+        "pengajaran": "Fikirkan apa yang pengalaman itu ajarkan tentang tindakan ketika emosi menguasai diri."
+      },
+      "optional": [
+        2
+      ]
     }
   },
   {
@@ -1563,6 +2026,27 @@
     "storyPrompts": {
       "turning": "Apakah perkara yang paling sukar digantikan apabila pelakon itu menarik diri?",
       "ending": "Bagaimanakah suasana di belakang pentas berubah apabila rancangan baharu mula berhasil?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah tanggungjawab kamu dan rakan-rakan ketika mewakili sekolah dalam peraduan drama?"
+        ],
+        [
+          "Apakah yang berubah apabila seorang rakan menarik diri pada saat akhir?"
+        ],
+        [
+          "Bagaimanakah kumpulan kamu mengatasi masalah dengan masa yang masih ada?"
+        ],
+        [
+          "Apakah yang kamu peroleh daripada pengalaman menyesuaikan persediaan drama itu?"
+        ]
+      ],
+      "keywords": {
+        "menarik diri": "Seorang rakan berhenti mengambil bahagian selepas kumpulan bersedia mewakili sekolah.",
+        "saat-saat akhir": "Perubahan berlaku hampir dengan waktu peraduan dan menjejaskan persediaan kumpulan.",
+        "situasi itu diatasi": "Fokus pada cara kumpulan menangani ketiadaan seorang ahli dengan masa yang terhad."
+      }
     }
   },
   {
@@ -1635,7 +2119,27 @@
       "turning": "Apakah bantuan berbeza yang diberikan oleh beberapa teman pada saat kamu paling memerlukannya?",
       "ending": "Bagaimanakah kamu dapat menggambarkan perubahan daripada perasaan awal kepada perasaan selepas menerima bantuan?"
     },
-    "practiceQuestion": "Satu peristiwa membuat kamu sedar bahawa kamu dikelilingi oleh ramai teman yang sedia menghulurkan bantuan. Gambarkan peristiwa itu dan perasaan yang kamu alami."
+    "practiceQuestion": "Satu peristiwa membuat kamu sedar bahawa kamu dikelilingi oleh ramai teman yang sedia menghulurkan bantuan. Gambarkan peristiwa itu dan perasaan yang kamu alami.",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah peristiwa yang memberikan peluang kepada teman-teman kamu untuk menawarkan bantuan?"
+        ],
+        [
+          "Bagaimanakah kamu dapat menunjukkan kesediaan beberapa orang teman untuk membantu?"
+        ],
+        [
+          "Apakah yang menyebabkan kamu sedar bahawa ramai teman boleh diharapkan?"
+        ],
+        [
+          "Bagaimanakah perasaan kamu berubah atau menjadi lebih jelas apabila mereka menghulurkan bantuan?"
+        ]
+      ],
+      "keywords": {
+        "sedia menghulurkan bantuan": "Tunjukkan kesediaan beberapa orang teman membantu dan kaitkan bantuan itu dengan kesedaran kamu.",
+        "perasaan yang kamu alami": "Terangkan perasaan kamu ketika menyedari bahawa kamu dikelilingi teman yang sedia membantu."
+      }
+    }
   },
   {
     "id": "ND-24",
@@ -1707,7 +2211,28 @@
       "turning": "Apakah tindakan keluarga yang menyentuh hati jiran secara langsung?",
       "ending": "Apakah yang dilakukan oleh jiran selepas itu yang menunjukkan tanggapannya berubah?"
     },
-    "practiceQuestion": "Jiran kamu berpendapat bahawa keluarga kamu tidak suka bertegur sapa dan tidak bertimbang rasa. Walau bagaimanapun, keluarga kamu melakukan sesuatu yang telah dapat memenangi hati jiran kamu itu. Terangkan perkara yang keluarga kamu lakukan dan pengajaran yang kamu peroleh melalui pengalaman tersebut."
+    "practiceQuestion": "Jiran kamu berpendapat bahawa keluarga kamu tidak suka bertegur sapa dan tidak bertimbang rasa. Walau bagaimanapun, keluarga kamu melakukan sesuatu yang telah dapat memenangi hati jiran kamu itu. Terangkan perkara yang keluarga kamu lakukan dan pengajaran yang kamu peroleh melalui pengalaman tersebut.",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang jiran kamu fikir tentang cara keluarga kamu melayan orang di sekeliling?"
+        ],
+        [
+          "Apakah yang keluarga kamu lakukan sehingga jiran menilai semula tanggapannya?"
+        ],
+        [
+          "Apakah tanda bahawa hubungan jiran dengan keluarga kamu sudah berubah?"
+        ],
+        [
+          "Apakah yang kamu pelajari daripada cara keluarga kamu memenangi hati jiran itu?"
+        ]
+      ],
+      "keywords": {
+        "tidak suka bertegur sapa": "Ini sebahagian daripada tanggapan awal jiran terhadap keluarga kamu.",
+        "memenangi hati jiran": "Memenangi hati ialah mendapatkan penerimaan atau penghargaan jiran melalui tindakan keluarga.",
+        "pengajaran": "Apakah yang kamu pelajari daripada perubahan hubungan keluarga dengan jiran?"
+      }
+    }
   },
   {
     "id": "ND-25",
@@ -1778,6 +2303,28 @@
     "storyPrompts": {
       "turning": "Apakah butiran pada buku atau rak yang menyampaikan rasa kehilangan kamu?",
       "ending": "Apakah langkah yang membantu kamu mengurus perasaan terhadap ibu dan sepupu?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Siapakah yang menghadiahkan buku itu, dan apakah ertinya kepada kamu?"
+        ],
+        [
+          "Apakah yang ibu kamu tidak sedari ketika memberikan buku itu kepada sepupu kamu?"
+        ],
+        [
+          "Apakah yang kamu rasai apabila mengetahui buku kesayangan kamu telah diberikan kepada orang lain?"
+        ],
+        [
+          "Apakah yang kamu lakukan untuk mengurus perasaan tentang kehilangan buku itu?"
+        ]
+      ],
+      "keywords": {
+        "menghadiahkan sebuah buku": "Buku itu ialah hadiah guru sekolah rendah kepada kamu dan mempunyai nilai peribadi.",
+        "memberinya kepada sepupu": "Ibu memberikan buku itu kepada sepupu tanpa menyedari betapa pentingnya buku itu bagi kamu.",
+        "perasaan yang kamu alami": "Fokus pada emosi kamu setelah mengetahui tentang pemberian buku tersebut.",
+        "mengatasi perasaan": "Terangkan tindakan yang membantu kamu menangani emosi itu."
+      }
     }
   },
   {
@@ -1856,7 +2403,23 @@
         }
       ]
     ],
-    "practiceQuestion": "Gaji merupakan faktor penentu ketika mencari pekerjaan. Bersetujukah kamu? Mengapa?"
+    "practiceQuestion": "Gaji merupakan faktor penentu ketika mencari pekerjaan. Bersetujukah kamu? Mengapa?",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah beza antara gaji sebagai satu pertimbangan dengan gaji sebagai faktor yang menentukan pilihan pekerjaan?"
+        ],
+        [
+          "Apakah pendirian kamu terhadap dakwaan tentang gaji itu, dan apakah yang perlu dijelaskan oleh sebab-sebab kamu?"
+        ]
+      ],
+      "keywords": {
+        "Gaji": "Gaji ialah bayaran untuk pekerjaan. Nilai peranannya dalam keputusan pencari kerja.",
+        "faktor penentu": "Faktor penentu ialah perkara yang memutuskan pilihan apabila beberapa perkara dipertimbangkan.",
+        "mencari pekerjaan": "Tumpukan hujah pada pilihan ketika mencari kerja.",
+        "Bersetujukah": "Pilih satu pendirian tentang sama ada gaji menentukan pilihan pekerjaan, kemudian jelaskan sebabnya."
+      }
+    }
   },
   {
     "id": "EK-02",
@@ -1933,7 +2496,23 @@
           "example": "Pemangkasan dan penyiraman"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah kaitan yang didakwa antara penguatkuasaan peraturan dengan reputasi Singapura sebagai negara bersih dan hijau?"
+        ],
+        [
+          "Adakah kamu menerima penjelasan yang diberikan tentang reputasi tersebut?",
+          "Bagaimanakah semua isi kamu akan menyokong pendirian itu?"
+        ]
+      ],
+      "keywords": {
+        "bersih dan hijau": "Fokus pada reputasi Singapura dari segi kebersihan dan kehijauan.",
+        "peraturan dan undang-undang": "Pernyataan mengaitkan reputasi itu dengan pelaksanaan peraturan dan undang-undang.",
+        "Setujukah": "Pilih satu pendirian tentang peranan peraturan dalam membina reputasi tersebut."
+      }
+    }
   },
   {
     "id": "EK-03",
@@ -2010,7 +2589,22 @@
           "example": "Perbincangan sulit secara bersemuka"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang dimaksudkan dengan menggunakan teknologi secara berkesan dalam dunia yang pesat berubah?"
+        ],
+        [
+          "Bagaimanakah frasa “setiap orang” mempengaruhi pendirian yang perlu kamu pertahankan?"
+        ]
+      ],
+      "keywords": {
+        "setiap orang": "Skopnya meliputi setiap orang. Pertimbangkan kesan skop yang luas ini terhadap dakwaan soalan.",
+        "menggunakan teknologi dengan berkesan": "Penggunaan yang berkesan mencapai tujuan pengguna. Fikirkan maksudnya dalam dunia yang pesat berubah.",
+        "Setujukah": "Pilih satu pendirian tentang keperluan menggunakan teknologi dengan berkesan dan pertahankannya."
+      }
+    }
   },
   {
     "id": "EK-04",
@@ -2087,7 +2681,23 @@
           "example": "Rakan menjaga rahsia"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah hubungan yang perlu kamu nilai antara pencapaian akademik dengan cara rakan melayan seseorang pelajar?"
+        ],
+        [
+          "Apakah pendirian kamu tentang sama ada pelajar cemerlang lebih disenangi?",
+          "Bagaimanakah isi kamu akan menjawab perbandingan itu?"
+        ]
+      ],
+      "keywords": {
+        "keputusan akademik yang baik": "Pencapaian akademik ialah faktor yang dikaitkan dengan penerimaan rakan.",
+        "lebih disenangi": "Lebih disenangi menunjukkan perbandingan dalam cara pelajar diterima oleh rakan.",
+        "Setujukah": "Pilih satu pendirian tentang kaitan antara keputusan akademik dengan penerimaan rakan."
+      }
+    }
   },
   {
     "id": "EK-05",
@@ -2154,7 +2764,23 @@
         }
       ]
     ],
-    "practiceQuestion": "Jika kita mempunyai kesedaran tentang kekurangan yang ada di dalam diri kita dan seterusnya berusaha untuk meningkatkan diri, pasti kita akan berjaya. Bincangkan."
+    "practiceQuestion": "Jika kita mempunyai kesedaran tentang kekurangan yang ada di dalam diri kita dan seterusnya berusaha untuk meningkatkan diri, pasti kita akan berjaya. Bincangkan.",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah beza antara menyedari kekurangan diri dengan bertindak untuk memperbaikinya?"
+        ],
+        [
+          "Apakah yang perlu dipertimbangkan pada kedua-dua sudut apabila pernyataan menggunakan perkataan “pasti” tentang kejayaan?"
+        ]
+      ],
+      "keywords": {
+        "kesedaran tentang kekurangan": "Kesedaran bermula dengan mengenal pasti kelemahan sendiri.",
+        "meningkatkan diri": "Pernyataan menghubungkan kesedaran dengan usaha untuk memperbaiki diri.",
+        "pasti kita akan berjaya": "Perkataan “pasti” membawa maksud jaminan. Nilai kekuatan dakwaan itu.",
+        "Bincangkan": "Pertimbangkan secara seimbang sejauh mana kesedaran dan usaha menjamin kejayaan."
+      }
+    }
   },
   {
     "id": "EK-06",
@@ -2252,7 +2878,23 @@
         }
       ]
     ],
-    "practiceQuestion": "Mempelajari kemahiran baharu menjadi lebih mudah dengan adanya kursus yang ditawarkan secara dalam talian. Bincangkan."
+    "practiceQuestion": "Mempelajari kemahiran baharu menjadi lebih mudah dengan adanya kursus yang ditawarkan secara dalam talian. Bincangkan.",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang dibandingkan apabila soalan mengatakan kursus dalam talian menjadikan pembelajaran kemahiran baharu “lebih mudah”?"
+        ],
+        [
+          "Dalam keadaan apakah dakwaan tentang kemudahan itu boleh diterima atau dipersoalkan?"
+        ]
+      ],
+      "keywords": {
+        "kemahiran baharu": "Fokus pada kemahiran yang belum dikuasai oleh pelajar kursus.",
+        "lebih mudah": "Bandingkan kemudahan mempelajari kemahiran dengan dan tanpa kursus dalam talian.",
+        "kursus yang ditawarkan secara dalam talian": "Skop soalan ialah pembelajaran melalui kursus yang ditawarkan dalam talian.",
+        "Bincangkan": "Timbang hujah yang menyokong dan yang mempersoalkan dakwaan tentang kemudahan belajar."
+      }
+    }
   },
   {
     "id": "EK-07",
@@ -2329,7 +2971,23 @@
           "example": "Menonton video pendek"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang perlu dibandingkan untuk menilai sama ada minat belia terhadap filem tempatan semakin meningkat?"
+        ],
+        [
+          "Apakah pendirian kamu terhadap perubahan minat belia itu, dan adakah semua sebab kamu merujuk kepada filem tempatan?"
+        ]
+      ],
+      "keywords": {
+        "Filem tempatan": "Skopnya filem tempatan. Kekalkan fokus ini apabila menilai minat penonton.",
+        "semakin popular": "Perkataan “semakin” merujuk kepada peningkatan minat dari semasa ke semasa.",
+        "belia": "Nilai populariti khusus dalam kalangan belia.",
+        "Bersetujukah": "Pilih satu pendirian tentang sama ada filem tempatan semakin popular dalam kalangan belia."
+      }
+    }
   },
   {
     "id": "EK-08",
@@ -2406,7 +3064,23 @@
           "example": "Menanda halaman buku latihan"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah perbezaan antara buku digital yang semakin digunakan dengan buku bercetak yang digantikan dalam masa terdekat?"
+        ],
+        [
+          "Apakah pendirian kamu tentang penggantian tersebut, dan bagaimana hujah kamu mengambil kira kata “segera”?"
+        ]
+      ],
+      "keywords": {
+        "Buku digital": "Nilai peranan bahan bacaan berformat digital berbanding bahan bercetak.",
+        "menggantikan buku bercetak": "Menggantikan bermaksud mengambil alih peranan buku bercetak. Soalan juga menekankan masa terdekat.",
+        "Bersetujukah": "Pilih satu pendirian tentang kemungkinan penggantian dalam masa terdekat dan berikan alasan.",
+        "segera": "Dakwaan ini tentang masa terdekat. Fikirkan sejauh mana tempoh itu mempengaruhi pendirian kamu."
+      }
+    }
   },
   {
     "id": "EK-09",
@@ -2483,7 +3157,22 @@
           "example": "Menjalankan projek jualan sekolah"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang dimaksudkan dengan takut akan kegagalan dalam konteks belia hari ini?"
+        ],
+        [
+          "Apakah pendirian kamu terhadap pernyataan tentang belia itu, dan apakah yang perlu alasan kamu buktikan?"
+        ]
+      ],
+      "keywords": {
+        "Belia hari ini": "Hadkan perbincangan kepada belia pada masa kini.",
+        "takut akan kegagalan": "Fokus pada kebimbangan terhadap kemungkinan gagal dan bagaimana sikap itu dapat dikenal pasti.",
+        "Bersetujukah": "Pilih satu pendirian tentang sama ada gambaran itu sesuai bagi belia hari ini."
+      }
+    }
   },
   {
     "id": "EK-10",
@@ -2560,7 +3249,22 @@
           "example": "Pembelian barang murah"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah ukuran yang kamu perlukan sebelum menyifatkan sesuatu cara membeli-belah sebagai yang terbaik?"
+        ],
+        [
+          "Apakah pendirian kamu tentang kedudukan membeli-belah dalam talian apabila dibandingkan dengan cara lain?"
+        ]
+      ],
+      "keywords": {
+        "Membeli barang secara dalam talian": "Yang dinilai ialah cara mendapatkan barang melalui pembelian dalam talian.",
+        "cara yang terbaik": "“Terbaik” menuntut ukuran perbandingan dengan cara membeli-belah lain.",
+        "Bersetujukah": "Pilih satu pendirian tentang sama ada pembelian dalam talian merupakan cara yang terbaik."
+      }
+    }
   },
   {
     "id": "EK-11",
@@ -2637,7 +3341,23 @@
           "example": "Anugerah pertandingan"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah beza antara mengatakan kemenangan ada nilainya dengan mengatakan kemenangan ialah perkara terpenting dalam hidup?"
+        ],
+        [
+          "Jika kamu bersetuju dengan pernyataan itu, apakah dakwaan tentang kedudukan kemenangan yang sebenarnya kamu terima?",
+          "Jika tidak, apakah yang kamu pertahankan?"
+        ]
+      ],
+      "keywords": {
+        "Kemenangan": "Fokus pada tempat kemenangan dalam keutamaan hidup seseorang.",
+        "bukanlah perkara yang paling penting": "Perhatikan penafian dalam ayat. Pernyataan mempersoalkan kedudukan kemenangan sebagai keutamaan tertinggi.",
+        "Bersetujukah": "Nyatakan sama ada kamu menerima atau menolak dakwaan tentang kedudukan kemenangan dalam hidup."
+      }
+    }
   },
   {
     "id": "EK-12",
@@ -2715,7 +3435,23 @@
         }
       ]
     ],
-    "practiceQuestion": "Seseorang yang dapat menyesuaikan diri dengan apa-apa jua perubahan boleh berjaya dalam kehidupan. Bersetujukah kamu? Mengapa?"
+    "practiceQuestion": "Seseorang yang dapat menyesuaikan diri dengan apa-apa jua perubahan boleh berjaya dalam kehidupan. Bersetujukah kamu? Mengapa?",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah kaitan yang dinyatakan antara kebolehan menyesuaikan diri dengan kemungkinan untuk berjaya?"
+        ],
+        [
+          "Apakah pendirian kamu tentang kaitan itu, dan adakah hujah kamu menerangkan peranan penyesuaian diri?"
+        ]
+      ],
+      "keywords": {
+        "menyesuaikan diri": "Ini bermaksud mengubah cara bertindak agar sesuai dengan keadaan baharu.",
+        "perubahan": "Frasa “apa-apa jua” meluaskan jenis perubahan yang perlu dipertimbangkan.",
+        "berjaya dalam kehidupan": "Tentukan makna kejayaan yang sesuai untuk menilai kaitannya dengan penyesuaian diri.",
+        "Bersetujukah": "Pilih satu pendirian tentang sama ada kebolehan menyesuaikan diri membantu seseorang berjaya."
+      }
+    }
   },
   {
     "id": "EK-13",
@@ -2792,7 +3528,22 @@
           "example": "Farmasi di estet"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Manfaat dan mudarat perlu dinilai dalam lingkungan tempat yang bagaimana?"
+        ],
+        [
+          "Apakah pendirian kamu tentang sama ada mudarat melebihi faedah, dan apakah yang mesti dibandingkan dalam hujah kamu?"
+        ]
+      ],
+      "keywords": {
+        "Pusat beli-belah": "Nilai pusat beli-belah dalam konteks estet perumahan dan pihak yang menerima kesannya.",
+        "lebih banyak mudarat daripada faedah": "Timbang berat kesan buruk berbanding manfaat sebelum mengambil pendirian.",
+        "Bersetujukah": "Pilih satu pendirian tentang sama ada mudarat pusat beli-belah di estet melebihi faedahnya."
+      }
+    }
   },
   {
     "id": "EK-14",
@@ -2870,7 +3621,23 @@
         }
       ]
     ],
-    "practiceQuestion": "Nilai sebenar persahabatan hanya dapat dilihat pada masa-masa susah. Bersetujukah kamu? Mengapa?"
+    "practiceQuestion": "Nilai sebenar persahabatan hanya dapat dilihat pada masa-masa susah. Bersetujukah kamu? Mengapa?",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang dimaksudkan dengan melihat nilai sebenar sesuatu persahabatan ketika menghadapi kesusahan?"
+        ],
+        [
+          "Apakah kesan perkataan “hanya” terhadap pendirian kamu tentang bila nilai persahabatan dapat dilihat?"
+        ]
+      ],
+      "keywords": {
+        "Nilai sebenar persahabatan": "Fokus pada perkara yang menunjukkan mutu hubungan antara sahabat.",
+        "masa-masa susah": "Kesusahan ialah keadaan yang dikatakan menyingkap nilai persahabatan. Perhatikan kata “hanya”.",
+        "Bersetujukah": "Pilih satu pendirian tentang sama ada nilai persahabatan hanya terserlah pada waktu sukar.",
+        "hanya": "Soalan mengehadkan keadaan yang dapat menyingkap nilai persahabatan kepada saat susah sahaja."
+      }
+    }
   },
   {
     "id": "EK-15",
@@ -2947,7 +3714,23 @@
           "example": "Menilai teladan dalam video"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah maksud membentuk perwatakan pelajar, dan siapakah yang dianggap mampu melakukannya dalam pernyataan itu?"
+        ],
+        [
+          "Adakah kamu menerima dakwaan bahawa sekolah ialah satu-satunya pihak yang boleh berbuat demikian?",
+          "Apakah yang perlu dibuktikan oleh alasan kamu?"
+        ]
+      ],
+      "keywords": {
+        "Hanya sekolah": "“Hanya” menjadikan sekolah satu-satunya pihak dalam dakwaan tersebut.",
+        "membentuk perwatakan": "Perwatakan merujuk kepada sifat dan cara seseorang membawa diri.",
+        "Bersetujukah": "Pilih satu pendirian tentang dakwaan bahawa pembentukan perwatakan pelajar bergantung pada sekolah sahaja."
+      }
+    }
   },
   {
     "id": "EK-16",
@@ -3024,7 +3807,22 @@
           "example": "Pemuzik berlatih bertahun-tahun"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah faktor yang dibandingkan apabila soalan memperkatakan sebab seseorang dihormati?"
+        ],
+        [
+          "Apakah pendirian kamu tentang nilai murni sebagai asas penghormatan, dan bagaimana isi kamu akan menangani perbandingan itu?"
+        ]
+      ],
+      "keywords": {
+        "bakat, pendidikan atau kekayaannya": "Ketiga-tiga perkara ini dibandingkan dengan nilai murni sebagai asas penghormatan.",
+        "nilai-nilai murni": "Fokus pada prinsip baik yang menjadi pegangan seseorang dan kaitannya dengan penghormatan.",
+        "Bersetujukah": "Pilih satu pendirian tentang asas penghormatan yang lebih penting dan pertahankan pilihan itu."
+      }
+    }
   },
   {
     "id": "EK-17",
@@ -3090,7 +3888,23 @@
           "example": "Menguji prototaip mudah"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah bezanya menetapkan matlamat dengan merancang cara mencapainya?"
+        ],
+        [
+          "Apakah yang perlu kamu timbang pada kedua-dua sudut apabila ketiadaan rancangan dikatakan menjadikan matlamat sia-sia?"
+        ]
+      ],
+      "keywords": {
+        "matlamat": "Matlamat ialah hasil yang ingin dicapai. Bezakan matlamat daripada langkah mencapainya.",
+        "tanpa apa-apa perancangan": "Pernyataan menilai matlamat yang ditetapkan tanpa rancangan tindakan.",
+        "sia-sia": "“Sia-sia belaka” menyatakan bahawa usaha itu langsung tidak membawa hasil yang berguna.",
+        "Bincangkan": "Pertimbangkan secara seimbang sejauh mana ketiadaan rancangan menjadikan matlamat sia-sia."
+      }
+    }
   },
   {
     "id": "EK-18",
@@ -3167,7 +3981,23 @@
           "example": "Rakan menggalakkan amalan baik"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah hubungan yang didakwa antara filem masa kini dengan pegangan hidup belia?"
+        ],
+        [
+          "Apakah pendirian kamu terhadap pengaruh itu, dan bagaimanakah kamu akan memastikan isi kamu menyentuh nilai hidup?"
+        ]
+      ],
+      "keywords": {
+        "Filem hari ini": "Fokus pada filem masa kini dan pengaruhnya kepada penonton muda.",
+        "membentuk nilai-nilai hidup": "Soalan menilai kesan filem terhadap prinsip hidup yang dipegang oleh belia.",
+        "belia": "Pihak yang dinilai ialah belia yang mungkin dipengaruhi oleh filem.",
+        "Bersetujukah": "Pilih satu pendirian tentang pengaruh filem masa kini terhadap pegangan hidup belia."
+      }
+    }
   },
   {
     "id": "EK-19",
@@ -3233,7 +4063,23 @@
           "example": "Menyiapkan tugasan mengikut jadual"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah dua pendekatan yang dibandingkan, dan apakah makna “lebih baik” dalam perbandingan itu?"
+        ],
+        [
+          "Dalam keadaan apakah dakwaan bahawa kasih sayang lebih berkesan daripada disiplin boleh diterima atau dipersoalkan?"
+        ]
+      ],
+      "keywords": {
+        "Belaian kasih sayang": "Fahami kasih sayang sebagai satu pendekatan untuk membimbing seseorang.",
+        "lebih baik": "Tentukan hasil yang dimaksudkan apabila seseorang dikatakan menjadi “lebih baik”.",
+        "tindakan disiplin": "Tindakan disiplin ialah pendekatan yang dibandingkan dengan bimbingan penuh kasih sayang.",
+        "Bincangkan": "Timbang keberkesanan kedua-dua pendekatan secara seimbang dalam konteks membimbing seseorang."
+      }
+    }
   },
   {
     "id": "EK-20",
@@ -3299,7 +4145,22 @@
           "example": "Kisah sukarelawan"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah hubungan sebab dan akibat yang didakwa antara teknologi dengan sikap tidak peduli?"
+        ],
+        [
+          "Apakah yang perlu kamu pertimbangkan untuk menilai dakwaan tentang teknologi itu daripada kedua-dua sudut?"
+        ]
+      ],
+      "keywords": {
+        "Teknologi": "Fokus pada hubungan antara penggunaan teknologi dengan tingkah laku masyarakat.",
+        "tidak ambil peduli": "Ini merujuk kepada sikap kurang peka atau kurang mengambil berat terhadap keadaan sekeliling.",
+        "Bincangkan": "Nilai secara seimbang sama ada teknologi menyebabkan masyarakat kurang mengambil berat."
+      }
+    }
   },
   {
     "id": "EK-21",
@@ -3365,7 +4226,23 @@
           "example": "Nasihat kesihatan perlu dinilai"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang dimaksudkan dengan menjadi teladan kepada remaja dalam konteks seorang selebriti?"
+        ],
+        [
+          "Apakah dua sudut yang perlu ditimbang apabila soalan mengatakan selebriti “seharusnya” memikul peranan tersebut?"
+        ]
+      ],
+      "keywords": {
+        "Selebriti": "Fokus pada individu terkenal yang menjadi perhatian umum.",
+        "contoh yang baik": "Teladan ialah perlakuan yang boleh dicontohi. Kata “seharusnya” menuntut kamu menilai tanggungjawab itu.",
+        "remaja": "Pertimbangkan pengaruh selebriti khususnya terhadap golongan remaja.",
+        "Bincangkan": "Timbang sebab menyokong dan mempersoalkan tanggungjawab selebriti untuk menjadi teladan remaja."
+      }
+    }
   },
   {
     "id": "EK-22",
@@ -3431,7 +4308,23 @@
           "example": "Memilih pembelian mahal"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang dimaksudkan dengan anak membuat keputusan sendiri apabila ibu bapa masih terlibat dalam hidupnya?"
+        ],
+        [
+          "Apakah yang perlu kamu pertimbangkan pada kedua-dua sudut tentang sejauh mana kebebasan membuat keputusan wajar diberikan?"
+        ]
+      ],
+      "keywords": {
+        "Ibu bapa": "Fokus pada peranan ibu bapa dalam memberikan ruang kepada anak untuk memilih.",
+        "membenarkan anak-anak": "Pernyataan menilai kebenaran yang patut diberikan oleh ibu bapa.",
+        "membuat keputusan sendiri": "Anak membuat pilihan sendiri. Perhatikan perbezaan antara memberikan ruang dengan menetapkan pilihan untuk anak.",
+        "Bincangkan": "Timbang sebab untuk memberikan kebebasan membuat keputusan serta sebab untuk mengehadkannya."
+      }
+    }
   },
   {
     "id": "EK-23",
@@ -3487,7 +4380,23 @@
         }
       ]
     ],
-    "practiceQuestion": "Bincangkan cabaran-cabaran yang dihadapi oleh belia Singapura pada masa kini."
+    "practiceQuestion": "Bincangkan cabaran-cabaran yang dihadapi oleh belia Singapura pada masa kini.",
+    "fahami": {
+      "guiding": [
+        [
+          "Siapakah yang menjadi fokus, dan dalam konteks masa dan tempat yang bagaimana?"
+        ],
+        [
+          "Bagaimanakah kamu membezakan antara cabaran yang perlu dihuraikan dengan cadangan untuk mengatasinya?"
+        ]
+      ],
+      "keywords": {
+        "cabaran-cabaran": "Huraikan beberapa kesukaran yang berbeza dan jelaskan sebab setiap satunya mencabar.",
+        "belia Singapura": "Fokus pada belia dalam konteks kehidupan di Singapura.",
+        "masa kini": "Pilih cabaran yang relevan dengan keadaan sekarang.",
+        "Bincangkan": "Huraikan beberapa cabaran berbeza yang dihadapi belia Singapura pada masa kini."
+      }
+    }
   },
   {
     "id": "EK-24",
@@ -3542,7 +4451,22 @@
           "example": "Kelab mencuba kemahiran baharu"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Bagaimanakah peranan ketua pelajar menentukan skop perubahan yang ingin kamu usahakan?"
+        ],
+        [
+          "Bagaimanakah kamu akan memastikan setiap isi menyatakan perubahan yang jelas untuk sekolah kamu?"
+        ]
+      ],
+      "keywords": {
+        "ketua pelajar": "Tulis dari sudut seorang ketua pelajar yang mahu membawa perubahan.",
+        "perubahan-perubahan": "Nyatakan beberapa perubahan yang berbeza dan jelaskan tujuan setiap perubahan.",
+        "sekolah kamu": "Hadkan cadangan kepada sekolah kamu dan perkara yang boleh diusahakan dalam peranan itu."
+      }
+    }
   },
   {
     "id": "EK-25",
@@ -3619,7 +4543,22 @@
           "example": "Ejekan di media sosial"
         }
       ]
-    ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah makna “masyarakat penyayang” apabila digunakan untuk menilai masyarakat Singapura?"
+        ],
+        [
+          "Apakah pendirian kamu terhadap gambaran itu, dan apakah yang mesti ditunjukkan oleh alasan kamu tentang masyarakat Singapura?"
+        ]
+      ],
+      "keywords": {
+        "Masyarakat Singapura": "Nilai sifat penyayang dalam konteks masyarakat setempat di Singapura.",
+        "masyarakat penyayang": "Fikirkan apakah yang menunjukkan keprihatinan antara anggota masyarakat.",
+        "Bersetujukah": "Pilih satu pendirian tentang sama ada sifat penyayang mencirikan masyarakat Singapura dan jelaskan sebabnya."
+      }
+    }
   },
   {
     "id": "N-01",
@@ -3690,6 +4629,26 @@
     "storyPrompts": {
       "turning": "Bilakah kegagalan itu memaksa kamu membuat pilihan baharu?",
       "ending": "Apakah yang membuat hasil akhirnya lebih baik untuk kamu secara peribadi?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang sangat diingini oleh watak tetapi tidak diperolehnya?"
+        ],
+        [
+          "Apakah detik yang memperlihatkan bahawa usaha mendapatkan perkara itu gagal?"
+        ],
+        [
+          "Bagaimanakah kegagalan tersebut membuka kemungkinan yang lebih baik?"
+        ],
+        [
+          "Bilakah watak menyedari bahawa hasil yang berbeza itu boleh membawa kebaikan?"
+        ]
+      ],
+      "keywords": {
+        "gagal untuk mendapatkan": "Cerita perlu bermula daripada keinginan yang tidak tercapai.",
+        "sesuatu yang lebih baik": "Tunjukkan bagaimana kegagalan membuka kemungkinan yang lebih baik kepada watak."
+      }
     }
   },
   {
@@ -3762,7 +4721,28 @@
       "turning": "Apakah bukti yang mematahkan sangkaan kamu dan bagaimana kamu menemuinya?",
       "ending": "Apakah tindakan kamu untuk membaiki kesan tuduhan terhadap orang itu?"
     },
-    "practiceQuestion": "Kamu telah tersilap menuduh seseorang melakukan suatu kesalahan. Apabila mengetahui perkara sebenar, kamu sedar betapa pentingnya usul periksa sebelum membuat tuduhan. Tulis sebuah cerita tentang peristiwa ini."
+    "practiceQuestion": "Kamu telah tersilap menuduh seseorang melakukan suatu kesalahan. Apabila mengetahui perkara sebenar, kamu sedar betapa pentingnya usul periksa sebelum membuat tuduhan. Tulis sebuah cerita tentang peristiwa ini.",
+    "fahami": {
+      "guiding": [
+        [
+          "Siapakah yang kamu tuduh, dan apakah kesalahan yang disangkakan?"
+        ],
+        [
+          "Apakah yang menunjukkan bahawa sangkaan kamu tidak benar?"
+        ],
+        [
+          "Apakah kesan yang boleh timbul apabila seseorang dituduh berdasarkan sangkaan kamu?"
+        ],
+        [
+          "Bagaimanakah kejadian itu menyedarkan kamu tentang perkara yang perlu disemak sebelum menuduh?"
+        ]
+      ],
+      "keywords": {
+        "tersilap menuduh": "Tuduhan itu perlu terbukti salah apabila kamu mengetahui perkara sebenar.",
+        "perkara sebenar": "Fikirkan bagaimana maklumat yang baharu mengubah pemahaman kamu tentang kejadian.",
+        "usul periksa": "Usul periksa bermaksud menyiasat terlebih dahulu. Kaitkan kesedaran ini dengan kesilapan menuduh."
+      }
+    }
   },
   {
     "id": "N-03",
@@ -3833,6 +4813,28 @@
     "storyPrompts": {
       "turning": "Apakah yang membuat rakan akhirnya sanggup menerima bantuan atau menghentikan kegiatan itu?",
       "ending": "Apakah kesan pengalaman itu kepada cara kamu berdua membuat keputusan?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Bagaimanakah kehilangan wang rakan kamu mula menjadi jelas?"
+        ],
+        [
+          "Apakah kaitan antara kegiatan yang disertainya dengan kehilangan wang?"
+        ],
+        [
+          "Apakah yang kamu lakukan untuk membantunya mengatasi masalah tersebut?"
+        ],
+        [
+          "Bagaimanakah kejadian itu memberi kesan kepada rakan kamu dan kepada kamu sendiri?"
+        ]
+      ],
+      "keywords": {
+        "kehilangan sejumlah wang": "Kehilangan wang berlaku kepada rakan kamu dan berkaitan dengan kegiatan yang disertainya.",
+        "kegiatan yang tidak berfaedah": "Tunjukkan bagaimana kegiatan itu membawa kepada masalah kewangan rakan.",
+        "membantunya": "Peranan kamu ialah membantu rakan mengatasi masalah yang dihadapinya.",
+        "kesannya": "Huraikan kesan peristiwa itu kepada kamu dan rakan tersebut."
+      }
     }
   },
   {
@@ -3904,6 +4906,27 @@
     "storyPrompts": {
       "turning": "Apakah kejadian yang membuat gangguan kepada penduduk tidak lagi boleh diabaikan?",
       "ending": "Apakah tindakan yang kamu ambil dan bagaimana perasaan kamu berubah selepas melihat kesannya?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang biasa dilakukan oleh jiran terhadap kucing dan burung di kawasan kediaman?"
+        ],
+        [
+          "Bagaimanakah tindakan itu menyebabkan kawasan menjadi kotor?"
+        ],
+        [
+          "Apakah yang dialami penduduk akibat keadaan di kawasan tersebut?"
+        ],
+        [
+          "Apakah tindakan kamu selepas itu, dan apakah perasaan yang timbul daripada peristiwa tersebut?"
+        ]
+      ],
+      "keywords": {
+        "memberi makanan kepada kucing dan burung": "Kekalkan kedua-dua haiwan dan perbuatan jiran yang berlaku di kawasan kediaman.",
+        "kawasan itu menjadi kotor": "Hubungkan kekotoran dengan pemberian makanan dan kesannya kepada penduduk.",
+        "tindakan serta perasaan": "Selepas kejadian itu, nyatakan tindakan yang diambil dan emosi kamu."
+      }
     }
   },
   {
@@ -3976,7 +4999,31 @@
       "turning": "Bilakah kamu sedar bahawa tanggapan orang lain sudah menguasai pilihan kamu?",
       "ending": "Bagaimanakah keputusan akhir lebih sesuai dengan keperluan atau minat kamu?"
     },
-    "practiceQuestion": "Kamu sering bimbang akan persepsi orang lain terhadap keputusan yang kamu buat. Hal ini telah menjejaskan kemampuan kamu untuk menentukan perkara yang terbaik untuk kamu sendiri. Namun, pada suatu hari, kamu menyedari bahawa persepsi orang lain sebenarnya tidak harus dipedulikan. Tulis cerita tentang pengalaman kamu itu."
+    "practiceQuestion": "Kamu sering bimbang akan persepsi orang lain terhadap keputusan yang kamu buat. Hal ini telah menjejaskan kemampuan kamu untuk menentukan perkara yang terbaik untuk kamu sendiri. Namun, pada suatu hari, kamu menyedari bahawa persepsi orang lain sebenarnya tidak harus dipedulikan. Tulis cerita tentang pengalaman kamu itu.",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang kamu bimbangkan tentang pandangan orang terhadap keputusan kamu?"
+        ],
+        [
+          "Bagaimanakah kebimbangan itu menyukarkan kamu memilih perkara yang baik untuk diri sendiri?"
+        ],
+        [
+          "Apakah yang membuat kamu sedar bahawa pandangan orang lain tidak perlu menentukan pilihan kamu?"
+        ],
+        [
+          "Jika kamu mahu menunjukkan perubahan selepas kesedaran itu, bagaimanakah kamu boleh menggambarkan cara kamu membuat pilihan?"
+        ]
+      ],
+      "keywords": {
+        "persepsi orang lain": "Persepsi bermaksud pandangan orang terhadap pilihan kamu.",
+        "menjejaskan kemampuan": "Tunjukkan bagaimana kebimbangan terhadap penilaian orang menyukarkan kamu membuat keputusan yang baik untuk diri sendiri.",
+        "tidak harus dipedulikan": "Watak sedar bahawa pandangan orang lain tidak sepatutnya menentukan pilihan peribadinya."
+      },
+      "optional": [
+        3
+      ]
+    }
   },
   {
     "id": "N-06",
@@ -4048,7 +5095,31 @@
       "turning": "Apakah dua pilihan yang sama-sama sukar selepas kawan enggan menyebelahi kamu?",
       "ending": "Apakah kesan pilihan kamu terhadap pertikaian dan hubungan dengan kawan?"
     },
-    "practiceQuestion": "Kawan kamu telah membuat keputusan untuk tidak menyebelahi kamu. Ternyata, Keputusan tersebut tidak seperti yang kamu harapkan. Akibatnya, kamu berada dalam dilema. Tulis cerita tentang pengalaman kamu mengendalikan situasi tersebut."
+    "practiceQuestion": "Kawan kamu telah membuat keputusan untuk tidak menyebelahi kamu. Ternyata, Keputusan tersebut tidak seperti yang kamu harapkan. Akibatnya, kamu berada dalam dilema. Tulis cerita tentang pengalaman kamu mengendalikan situasi tersebut.",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah sokongan yang kamu jangkakan daripada kawan, dan apakah keputusan yang dibuatnya?"
+        ],
+        [
+          "Apakah pilihan yang membuat kamu serba salah selepas kawan kamu tidak menyebelahi kamu?"
+        ],
+        [
+          "Bagaimanakah kamu mengendalikan keadaan yang timbul daripada keputusan kawan itu?"
+        ],
+        [
+          "Jika kamu menunjukkan kesannya, apakah yang berubah selepas kamu bertindak?"
+        ]
+      ],
+      "keywords": {
+        "tidak menyebelahi kamu": "Kawan kamu memilih untuk tidak menyokong pihak kamu, bertentangan dengan jangkaan kamu.",
+        "dilema": "Dilema ialah keadaan serba salah kerana pilihan yang ada sukar dibuat.",
+        "mengendalikan situasi": "Fokus pada cara kamu menghadapi keadaan serba salah selepas keputusan kawan itu."
+      },
+      "optional": [
+        3
+      ]
+    }
   },
   {
     "id": "N-07",
@@ -4119,6 +5190,27 @@
     "storyPrompts": {
       "turning": "Apakah yang mungkin dihadapi oleh orang yang bersuara, dan mengapa dia tetap bertindak?",
       "ending": "Bagaimanakah tindakannya mengubah keadaan mangsa yang kamu saksikan?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah keadaan di tempat awam yang membolehkan kamu menyaksikan kejadian itu?"
+        ],
+        [
+          "Apakah yang menunjukkan bahawa mangsa diperlakukan secara tidak adil?"
+        ],
+        [
+          "Apakah yang dilakukan orang yang berani bersuara untuk membela mangsa?"
+        ],
+        [
+          "Bagaimanakah kamu menceritakan kejadian itu dari sudut orang yang menyaksikannya?"
+        ]
+      ],
+      "keywords": {
+        "keberaniannya untuk bersuara": "Keberanian itu ditunjukkan melalui tindakan bersuara ketika melihat ketidakadilan.",
+        "membela mangsa": "Tujuan orang yang bersuara ialah mempertahankan orang yang diperlakukan secara tidak adil.",
+        "tidak adil": "Tunjukkan perlakuan terhadap mangsa yang mendorong orang itu untuk bersuara."
+      }
     }
   },
   {
@@ -4191,7 +5283,27 @@
       "turning": "Antara beberapa kesan tabiat itu, apakah yang akhirnya mendorong watak berubah?",
       "ending": "Apakah bukti bahawa watak berjaya meninggalkan tabiatnya walaupun godaan masih ada?"
     },
-    "practiceQuestion": "Tulis cerita tentang seseorang yang berjaya membuang tabiat buruknya setelah dia mengharungi pelbagai cabaran yang timbul akibat tabiat tersebut."
+    "practiceQuestion": "Tulis cerita tentang seseorang yang berjaya membuang tabiat buruknya setelah dia mengharungi pelbagai cabaran yang timbul akibat tabiat tersebut.",
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah tabiat buruk yang cuba ditinggalkan oleh watak?"
+        ],
+        [
+          "Apakah cabaran berbeza yang timbul akibat tabiat itu sendiri?"
+        ],
+        [
+          "Apakah usaha yang dilakukan watak ketika berdepan dengan cabaran yang berpunca daripada tabiatnya?"
+        ],
+        [
+          "Bagaimanakah pembaca tahu bahawa watak itu akhirnya berjaya meninggalkan tabiatnya?"
+        ]
+      ],
+      "keywords": {
+        "membuang tabiat buruknya": "Watak akhirnya berjaya meninggalkan tabiatnya. Tunjukkan bagaimana perubahan itu berlaku.",
+        "pelbagai cabaran": "Cabaran perlu pelbagai dan timbul daripada tabiat buruk tersebut."
+      }
+    }
   },
   {
     "id": "N-09",
@@ -4262,6 +5374,27 @@
     "storyPrompts": {
       "turning": "Apakah yang menyebabkan perselisihan kecil bertahan selama beberapa tahun?",
       "ending": "Apakah peranan kamu yang membolehkan mereka mula memulihkan hubungan sendiri?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah perkara kecil yang mencetuskan salah faham antara rakan-rakan kamu?"
+        ],
+        [
+          "Bagaimanakah kamu boleh memperlihatkan bahawa hubungan mereka renggang selama beberapa tahun?"
+        ],
+        [
+          "Apakah peranan penting yang kamu mainkan dalam usaha merapatkan hubungan mereka?"
+        ],
+        [
+          "Bagaimanakah pembaca dapat melihat bahawa rakan-rakan itu akhirnya bersatu semula?"
+        ]
+      ],
+      "keywords": {
+        "perkara yang remeh": "Perkara kecil menjadi punca perselisihan yang membawa kesan berpanjangan.",
+        "beberapa tahun": "Persahabatan menjadi tegang selama beberapa tahun.",
+        "menyatukan rakan-rakan": "Peranan kamu penting dalam usaha merapatkan semula hubungan rakan-rakan."
+      }
     }
   },
   {
@@ -4333,6 +5466,26 @@
     "storyPrompts": {
       "turning": "Apakah bantuan yang diberikan ketika jiran menghadapi kesulitan?",
       "ending": "Apakah yang berubah pada cara kamu melihat orang itu selepas menyaksikan tindakannya?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang menimbulkan tanggapan bahawa orang itu mungkin tidak mempunyai tempat tinggal?"
+        ],
+        [
+          "Bagaimanakah kamu menunjukkan bahawa orang itu sering dilihat di sekitar kejiranan?"
+        ],
+        [
+          "Apakah keadaan yang menyebabkan seorang jiran memerlukan bantuan?"
+        ],
+        [
+          "Mengapakah tindakan orang itu membantu jiran menjadi sesuatu yang tidak disangka-sangka?"
+        ]
+      ],
+      "keywords": {
+        "seolah-olah tidak mempunyai tempat tinggal": "Perkataan “seolah-olah” menunjukkan tanggapan orang yang melihatnya. Status tempat tinggalnya masih belum pasti.",
+        "menolong jiran": "Bantuan diberi kepada jiran yang memerlukannya dan datang daripada orang yang tidak disangka."
+      }
     }
   },
   {
@@ -4404,6 +5557,30 @@
     "storyPrompts": {
       "turning": "Apakah tindakan selepas kekecewaan yang memungkinkan hikmah itu muncul?",
       "ending": "Bagaimanakah hikmah itu memberi makna baharu kepada peristiwa tersebut?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang membuatkan watak berasa kecewa?"
+        ],
+        [
+          "Jika kamu menggambarkan kesan awal, apakah yang memperlihatkan beratnya kekecewaan itu?"
+        ],
+        [
+          "Apakah kebaikan yang hanya terserlah selepas watak mengalami kekecewaan?"
+        ],
+        [
+          "Bagaimanakah makna pengalaman yang mengecewakan itu boleh terserlah melalui cerita kamu?"
+        ]
+      ],
+      "keywords": {
+        "kekecewaan": "Bina peristiwa yang menjelaskan mengapa watak berasa kecewa.",
+        "terselit hikmah": "Hikmah ialah kebaikan atau makna yang tersingkap di sebalik pengalaman pahit."
+      },
+      "optional": [
+        1,
+        3
+      ]
     }
   },
   {
@@ -4475,6 +5652,30 @@
     "storyPrompts": {
       "turning": "Apakah pilihan yang hanya muncul kerana masalah asal berlaku?",
       "ending": "Apakah hasil yang membuktikan pilihan itu menjadi peluang sebenar?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah kesulitan yang meletakkan watak dalam keadaan sukar?"
+        ],
+        [
+          "Jika watak berusaha mencari jalan keluar, apakah kaitan usahanya dengan kesulitan yang dihadapi?"
+        ],
+        [
+          "Apakah peluang yang muncul ketika watak masih berdepan dengan kesulitan?"
+        ],
+        [
+          "Jika kamu memilih untuk menceritakan hasilnya, apakah yang mungkin berubah setelah peluang itu muncul?"
+        ]
+      ],
+      "keywords": {
+        "kesulitan": "Peluang perlu muncul dalam keadaan watak masih menghadapi kesukaran.",
+        "peluang": "Peluang ialah kemungkinan yang muncul dalam kesulitan. Hubungkan kemunculannya dengan keadaan watak."
+      },
+      "optional": [
+        1,
+        3
+      ]
     }
   },
   {
@@ -4546,6 +5747,26 @@
     "storyPrompts": {
       "turning": "Apakah saat yang menunjukkan risiko lebih besar daripada yang kamu jangkakan?",
       "ending": "Apakah akibat yang perlu kamu tanggung kerana mengabaikan nasihat?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang ingin kamu lakukan, dan apakah yang menjadikannya berisiko tinggi?"
+        ],
+        [
+          "Apakah nasihat yang kamu terima, dan bagaimanakah kamu menunjukkan bahawa kamu mengabaikannya?"
+        ],
+        [
+          "Apakah yang berlaku selepas kamu memilih untuk mengabaikan nasihat itu?"
+        ],
+        [
+          "Bagaimanakah pengalaman itu menunjukkan betapa besarnya risiko yang dihadapi?"
+        ]
+      ],
+      "keywords": {
+        "berisiko tinggi": "Risiko tinggi bermakna tindakan itu boleh membawa padah yang besar. Tunjukkan apa yang dipertaruhkan.",
+        "tidak mengendahkan nasihat": "Tunjukkan bahawa kamu menerima nasihat supaya tidak meneruskannya tetapi tetap mengabaikannya."
+      }
     }
   },
   {
@@ -4617,6 +5838,30 @@
     "storyPrompts": {
       "turning": "Bagaimanakah sikap bermegah mendorong watak membuat keputusan yang merugikannya?",
       "ending": "Apakah kesan yang masih perlu ditangani selepas watak menyedari kesilapannya?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah perlakuan yang menunjukkan watak cuba meninggikan diri di hadapan orang lain?"
+        ],
+        [
+          "Apakah kesan buruk yang berlaku kerana perbuatan bermegah-megah itu?"
+        ],
+        [
+          "Jika watak menyedari kesilapannya, bagaimanakah dia melihat kesan perbuatannya?"
+        ],
+        [
+          "Jika kamu memilih penutup yang menunjukkan perubahan, apakah kaitannya dengan kesan buruk tadi?"
+        ]
+      ],
+      "keywords": {
+        "bermegah-megah": "Bermegah-megah ialah menonjolkan kelebihan diri untuk dibanggakan.",
+        "kesan yang negatif": "Kesan buruk dalam cerita perlu berpunca daripada perbuatan bermegah-megah."
+      },
+      "optional": [
+        2,
+        3
+      ]
     }
   },
   {
@@ -4688,6 +5933,27 @@
     "storyPrompts": {
       "turning": "Apakah kebimbangan pihak yang menentang, dan bagaimana kamu menanganinya?",
       "ending": "Apakah perubahan yang menunjukkan usaha membetulkan keadaan telah berhasil?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah keadaan yang ingin kamu betulkan dan mengapa keadaan itu perlu diubah?"
+        ],
+        [
+          "Apakah bentuk tentangan yang kamu hadapi pada awal usaha?"
+        ],
+        [
+          "Apakah yang kamu lakukan supaya usaha membetulkan keadaan dapat diteruskan walaupun ditentang?"
+        ],
+        [
+          "Apakah yang memperlihatkan bahawa usaha kamu akhirnya berhasil?"
+        ]
+      ],
+      "keywords": {
+        "membetulkan sesuatu keadaan": "Fikirkan perkara yang perlu diperbetulkan dan tujuan usaha kamu.",
+        "mendapat tentangan": "Pada awalnya, ada pihak yang menentang usaha itu.",
+        "berhasil": "Akhirnya usaha kamu berjaya. Tunjukkan bukti kejayaannya dalam peristiwa tersebut."
+      }
     }
   },
   {
@@ -4759,6 +6025,26 @@
     "storyPrompts": {
       "turning": "Apakah yang membuat watak menghentikan rancangan atau menyedari akibatnya?",
       "ending": "Apakah tindakan yang menunjukkan keinsafan selepas rasa kesal?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah niat di sebalik rancangan itu, dan siapakah yang akan diaibkan?"
+        ],
+        [
+          "Apakah yang berlaku pada rancangan tersebut sehingga timbul rasa kesal dan insaf?"
+        ],
+        [
+          "Apakah yang sebenarnya dikesali oleh watak tentang rancangan itu?"
+        ],
+        [
+          "Bagaimanakah pembaca tahu bahawa watak bukan sekadar kesal, malah menyedari rancangan itu salah?"
+        ]
+      ],
+      "keywords": {
+        "mengaibkan seseorang": "Mengaibkan seseorang bermakna menjatuhkan maruahnya atau memalukannya. Yang diwajibkan ialah rancangan itu.",
+        "rasa kesal dan insaf": "Kesal ialah rasa menyesal. Insaf turut melibatkan kesedaran bahawa perbuatan itu salah."
+      }
     }
   },
   {
@@ -4830,6 +6116,29 @@
     "storyPrompts": {
       "turning": "Apakah tindakan orang itu yang membuat kamu memikirkan semula keutamaan kamu?",
       "ending": "Apakah pilihan kamu selepas kejadian yang menunjukkan nilai baharu itu?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah hubungan kamu dengan orang yang mengajar kamu tentang perkara penting itu?"
+        ],
+        [
+          "Jika kamu menunjukkan keutamaan awal watak, bagaimanakah keutamaan itu membantu menjelaskan pengajaran yang diterima?"
+        ],
+        [
+          "Apakah yang dilakukan atau disampaikan oleh orang itu dalam peristiwa tersebut?"
+        ],
+        [
+          "Bagaimanakah kamu dapat memperlihatkan bahawa kamu kini memahami perkara yang benar-benar penting itu?"
+        ]
+      ],
+      "keywords": {
+        "mengajar kamu": "Pengajaran datang daripada seseorang yang kamu kenali dan terserlah melalui suatu peristiwa.",
+        "benar-benar penting dalam kehidupan": "Tentukan perkara atau nilai yang kamu sedari lebih bermakna melalui peristiwa itu."
+      },
+      "optional": [
+        1
+      ]
     }
   },
   {
@@ -4901,6 +6210,30 @@
     "storyPrompts": {
       "turning": "Apakah yang membuat kamu menyedari bahawa teguran itu berasas?",
       "ending": "Apakah yang kamu ubah setelah menerima pandangan orang tersebut?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah perkara tentang diri kamu yang ditegur?"
+        ],
+        [
+          "Jika kamu ingin menunjukkan reaksi awal, bagaimanakah reaksi itu berkait dengan teguran yang kamu terima?"
+        ],
+        [
+          "Apakah yang membuat kamu sedar bahawa pandangan orang lain wajar dipertimbangkan?"
+        ],
+        [
+          "Bagaimanakah kamu boleh menunjukkan perubahan cara kamu menerima pandangan selepas teguran itu?"
+        ]
+      ],
+      "keywords": {
+        "teguran": "Teguran ialah sesuatu yang disampaikan kepada kamu tentang diri atau perlakuan kamu.",
+        "menerima pandangan orang lain": "Tunjukkan bagaimana teguran menyedarkan kamu tentang pentingnya mempertimbangkan pandangan orang lain."
+      },
+      "optional": [
+        1,
+        3
+      ]
     }
   },
   {
@@ -4972,6 +6305,26 @@
     "storyPrompts": {
       "turning": "Apakah harga atau akibat impian yang hanya kamu nampak setelah mengejarnya?",
       "ending": "Apakah batas yang kamu tetapkan selepas memahami risikonya?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah impian yang begitu penting kepada watak dalam pengalaman itu?"
+        ],
+        [
+          "Pada tahap manakah pengalaman itu berlaku, ketika mengejar impian atau setelah mencapainya?"
+        ],
+        [
+          "Apakah yang boleh berlaku sehingga watak perlu melihat impiannya dengan lebih berhati-hati?"
+        ],
+        [
+          "Bagaimanakah pengalaman itu memperlihatkan sebab seseorang patut menilai impiannya dengan teliti?"
+        ]
+      ],
+      "keywords": {
+        "berhati-hati": "Fokus pada sebab sesuatu impian perlu dinilai dengan teliti.",
+        "sesuatu yang kita impikan": "Tentukan impian yang menjadi tumpuan dan hubungkannya dengan pengalaman yang menyedarkan watak."
+      }
     }
   },
   {
@@ -5043,6 +6396,25 @@
     "storyPrompts": {
       "turning": "Apakah maklumat baharu yang membuat kamu meneliti semula tindakan lalu?",
       "ending": "Bagaimanakah renungan itu mengubah keputusan kamu yang seterusnya?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah tindakan terdahulu yang akan kamu fikirkan semula?"
+        ],
+        [
+          "Apakah yang berlaku kemudian sehingga tindakan itu patut dinilai semula?"
+        ],
+        [
+          "Apakah yang kamu sedari apabila memikirkan semula keputusan kamu?"
+        ],
+        [
+          "Jika kamu ingin menggambarkan perubahan selepas renungan itu, bagaimanakah perubahan tersebut berkait dengan tindakan lalu?"
+        ]
+      ],
+      "keywords": {
+        "merenung kembali tindakan": "Watak memikirkan semula tindakan yang sudah diambil. Tunjukkan peristiwa yang mencetuskan renungan itu."
+      }
     }
   },
   {
@@ -5114,6 +6486,31 @@
     "storyPrompts": {
       "turning": "Bilakah kepentingan yang dipertahankan akhirnya merugikan kamu sendiri?",
       "ending": "Apakah tindakan yang dapat memulihkan kerjasama selepas kejadian itu?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah tindakan kamu yang memperlihatkan bahawa kamu mengutamakan diri sendiri?"
+        ],
+        [
+          "Bagaimanakah akibat tindakan itu menunjukkan bahawa kamu tidak mendapat faedah?",
+          "Adakah kesan terhadap orang lain membantu memperjelas akibat itu dalam cerita kamu?"
+        ],
+        [
+          "Apakah detik yang boleh membantu memperlihatkan bahawa kepentingan diri tidak membawa manfaat?"
+        ],
+        [
+          "Jika kamu ingin menunjukkan perubahan, apakah kaitannya dengan akibat yang kamu alami?"
+        ]
+      ],
+      "keywords": {
+        "mementingkan diri sendiri": "Sikap ini terlihat apabila watak mengutamakan kepentingannya sendiri.",
+        "tidak memberi kamu sebarang faedah": "Peristiwa perlu menunjukkan bahawa pilihan yang mementingkan diri tidak membawa manfaat kepada kamu."
+      },
+      "optional": [
+        2,
+        3
+      ]
     }
   },
   {
@@ -5185,6 +6582,26 @@
     "storyPrompts": {
       "turning": "Apakah maklumat yang perlu diperiksa sebelum sesiapa dipersalahkan?",
       "ending": "Apakah tindakan yang menyelesaikan masalah dan bagaimana kamu tahu tindakan itu berhasil?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah masalah yang perlu dihadapi oleh watak dalam cerita?"
+        ],
+        [
+          "Bagaimanakah cerita memperlihatkan kecenderungan menuduh atau keputusan untuk tidak menuduh?"
+        ],
+        [
+          "Apakah yang dilakukan oleh watak untuk mencari jalan keluar daripada masalah itu?"
+        ],
+        [
+          "Bagaimanakah peristiwa itu menunjukkan nilai mencari penyelesaian apabila berdepan dengan masalah?"
+        ]
+      ],
+      "keywords": {
+        "Jangan menuduh": "Cerita perlu menunjukkan sebab menyalahkan orang tidak membantu menangani masalah.",
+        "cari penyelesaian": "Fokus pada tindakan mencari jalan keluar ketika masalah timbul."
+      }
     }
   },
   {
@@ -5256,6 +6673,26 @@
     "storyPrompts": {
       "turning": "Apakah yang kamu lakukan secara berbeza selepas menghadapi halangan berulang?",
       "ending": "Apakah hasil yang menghubungkan kejayaan dengan usaha kamu sepanjang cerita?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah matlamat yang ingin kamu capai sehingga kejayaan itu bermakna?"
+        ],
+        [
+          "Apakah kesukaran yang menguji daya tahan kamu ketika mengejar matlamat tersebut?"
+        ],
+        [
+          "Bagaimanakah kamu memperlihatkan bahawa kamu terus berusaha walaupun berdepan dengan kesukaran?"
+        ],
+        [
+          "Apakah yang menunjukkan bahawa kejayaan itu lahir daripada ketabahan kamu?"
+        ]
+      ],
+      "keywords": {
+        "kejayaan": "Kejayaan mesti berpunca daripada ketabahan ketika mengejar matlamat.",
+        "semangat yang tidak mudah luntur": "Semangat yang tidak mudah luntur ditunjukkan melalui usaha yang diteruskan walaupun ada kesukaran."
+      }
     }
   },
   {
@@ -5327,6 +6764,30 @@
     "storyPrompts": {
       "turning": "Apakah saat yang memaksa kamu mengakui tugas yang diabaikan?",
       "ending": "Apakah padah yang kamu sendiri tanggung dan bagaimana ia mengubah cara kamu memegang amanah?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah tugas yang dipercayakan kepada kamu, dan siapakah yang mengamanahkannya?"
+        ],
+        [
+          "Apakah perbuatan kamu yang memperlihatkan kurangnya kesungguhan terhadap tugas itu?"
+        ],
+        [
+          "Apakah akibat yang kamu sendiri tanggung kerana kurang komited?"
+        ],
+        [
+          "Jika kamu menunjukkan kesedaran selepas kejadian, apakah kaitannya dengan amanah yang telah diberikan?"
+        ]
+      ],
+      "keywords": {
+        "kurang komited": "Kurang komited bermaksud kurang bersungguh-sungguh dalam memikul tanggungjawab.",
+        "tugas yang diamanahkan": "Tugas itu diberikan atas dasar kepercayaan. Jelaskan tanggungjawab yang dipikul oleh watak.",
+        "menanggung padah": "Menanggung padah bermaksud menerima akibat buruk daripada tindakan sendiri."
+      },
+      "optional": [
+        3
+      ]
     }
   },
   {
@@ -5398,6 +6859,26 @@
     "storyPrompts": {
       "turning": "Apakah yang sanggup diubah oleh setiap pihak untuk mencapai persetujuan?",
       "ending": "Apakah peristiwa kecil yang menunjukkan semua pihak lebih bahagia selepas berkompromi?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Siapakah yang mempunyai kehendak yang berbeza dalam peristiwa itu?"
+        ],
+        [
+          "Bagaimanakah perbezaan itu menimbulkan ketegangan atau kesukaran bagi watak?"
+        ],
+        [
+          "Apakah yang masing-masing sanggup pertimbangkan supaya penyelesaian boleh diterima bersama?"
+        ],
+        [
+          "Bagaimanakah sikap bertolak ansur itu membantu mewujudkan kebahagiaan dalam peristiwa tersebut?"
+        ]
+      ],
+      "keywords": {
+        "bertolak ansur": "Bertolak ansur melibatkan kesediaan mempertimbangkan kehendak pihak lain.",
+        "kebahagiaan hidup": "Hubungkan kebahagiaan yang dialami dengan sikap bertolak ansur dalam kejadian itu."
+      }
     }
   }
 ]
