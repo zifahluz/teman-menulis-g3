@@ -189,96 +189,274 @@
     }
   },
   {
-    "id": "ND-03",
+    "id": "ND-26",
     "category": "Naratif-Deskriptif",
-    "period": "Jun 2025",
-    "question": "Kamu dan adik-beradik kamu sering berselisih tentang pembahagian kerja rumah. Kamu berasa tidak adil kerana selalu diberi tugas yang banyak, manakala adik kamu pula kurang membantu. Ceritakan peristiwa tersebut dan bagaimana masalah itu diselesaikan.",
-    "origin": "Kompilasi Soalan O Level (Karangan) — dokumen guru",
+    "period": "Nov 2025",
+    "question": "Baru-baru ini, kamu menaiki bas untuk ke sebuah pertandingan yang kamu sertai. Kamu menyaksikan seorang lelaki tua terlepas perhentian basnya. Dia kelihatan bimbang dan mukanya pucat. Kamu bersungguh-sungguh membantu lelaki tua itu. Akibatnya, kamu terlambat ke pertandingan itu. Gambarkan kejadian tersebut dan terangkan perasaan kamu.",
+    "origin": "Teks soalan dibekalkan oleh guru",
     "level": "G3",
+    "title": "Pertolongan dalam Perjalanan",
     "guide": {
       "demand": [
-        "pembahagian tugas tidak adil",
-        "adik kurang membantu",
-        "pertengkaran",
-        "penyelesaian bersama"
+        "Kamu menaiki bas untuk menyertai pertandingan.",
+        "Lelaki tua terlepas perhentian basnya.",
+        "Dia kelihatan bimbang dan mukanya pucat.",
+        "Kamu bersungguh-sungguh membantunya.",
+        "Usaha itu menyebabkan kamu tiba lewat.",
+        "Gambarkan kejadian dan terangkan perasaan kamu."
       ],
       "plan": [],
       "prompts": [
-        "Bagaimanakah kamu menunjukkan pembahagian tugas tidak adil melalui peristiwa atau tindakan watak?",
-        "Bagaimanakah kamu menunjukkan adik kurang membantu melalui peristiwa atau tindakan watak?",
-        "Bagaimanakah kamu menunjukkan pertengkaran melalui peristiwa atau tindakan watak?",
-        "Bagaimanakah kamu menunjukkan penyelesaian bersama melalui peristiwa atau tindakan watak?"
+        "Apakah yang menunjukkan bahawa kamu bakal bertanding dan perlu tiba pada waktu tertentu?",
+        "Apakah yang kamu lihat atau dengar sehingga menyedari dia sudah terlepas perhentiannya?",
+        "Apakah gerak tubuh atau nada suaranya yang memperlihatkan kebimbangan?",
+        "Apakah yang kamu lakukan selepas memahami kesulitannya?",
+        "Pada ketika manakah usaha kamu menggunakan masa yang diperlukan untuk tiba tepat pada waktunya?",
+        "Apakah perasaan yang timbul ketika kamu memilih untuk terus membantu?"
       ],
       "vocab": [
-        "berat sebelah",
-        "terbeban",
-        "bertolak ansur"
+        "serba salah",
+        "berdebar-debar",
+        "tergesa-gesa",
+        "menarik nafas lega"
       ],
-      "pitfall": "Jangan selesaikan masalah tanpa pembahagian tugas baharu.",
+      "pitfall": "Pastikan bantuan kamu menyebabkan kamu tiba lewat. Kekalkan akibat ini walaupun penganjur masih membenarkan kamu bertanding.",
       "checks": [
-        "Saya telah menunjukkan pembahagian tugas tidak adil.",
-        "Saya telah menunjukkan adik kurang membantu.",
-        "Saya telah menunjukkan pertengkaran.",
-        "Saya telah menunjukkan penyelesaian bersama."
+        "Saya menunjukkan bahawa saya menaiki bas untuk menyertai pertandingan.",
+        "Saya menunjukkan bagaimana saya sedar perhentiannya sudah terlepas.",
+        "Saya menggambarkan wajahnya yang pucat dan tanda-tanda kebimbangannya.",
+        "Saya menggambarkan usaha yang benar-benar membantu lelaki tua itu.",
+        "Saya tiba lewat ke pertandingan kerana masa yang diambil untuk membantu.",
+        "Saya menggambarkan kejadian serta menerangkan perasaan dan sebabnya."
       ]
     },
     "storyPlots": [
       {
-        "title": "Jadual di Peti Sejuk",
+        "title": "Janji di Klinik",
         "plot": [
-          "Setiap malam aku membasuh pinggan dan menyapu lantai, sedangkan adik sering meninggalkan tugasnya.",
-          "Pertengkaran berulang apabila kami saling menyalahkan di dapur yang masih berselerak.",
-          "Aku meletakkan senarai tugas di hadapan keluarga dan adik mengaku tidak tahu cara mencuci kuali yang sering ditinggalkannya.",
-          "Aku menunjukkan cara mencuci kuali, lalu kami bergilir-gilir melakukan tugas berat dan menyemak jadual selepas seminggu.",
-          "Aku berasa lebih dihargai apabila adik mula menanda tugasan yang sudah diselesaikannya."
-        ]
+          "Aku menaiki bas untuk menyertai pertandingan catur. Seorang lelaki tua di sebelahku terkejut apabila klinik yang dituju sudah jauh di belakang.",
+          "Wajahnya pucat dan tangannya menggenggam kad janji temu. Dia risau kerana tidak tahu perhentian mana yang sesuai untuk berpatah balik.",
+          "Walaupun masa pendaftaran hampir tamat, aku menemani lelaki itu turun, mencari lintasan sesuai dan menaiki bas yang menuju semula ke klinik.",
+          "Selepas membawanya ke kaunter klinik, aku menyambung perjalanan. Aku tiba selepas pendaftaran ditutup kerana masa yang diambil untuk berpatah balik.",
+          "Aku kecewa terlepas pendaftaran, tetapi lega apabila teringat wajahnya yang semakin tenang di kaunter."
+        ],
+        "synopsis": "Seorang peserta catur perlu memilih cara membantu seorang lelaki tua yang terlepas hentian berhampiran klinik.",
+        "imageAlt": "Seorang peserta catur menemani seorang lelaki tua yang memegang kad janji temu di luar klinik."
       },
       {
-        "title": "Dua Jadual Latihan",
+        "title": "Panggilan kepada Cucunya",
         "plot": [
-          "Aku menjemur pakaian dan mengemas rumah hampir setiap petang ketika adik menghadiri latihan bola.",
-          "Aku meminta adik membantu pada hari pertandingan, lalu pertengkaran lama berulang apabila dia enggan.",
-          "Ibu mendengar kami membandingkan jadual dan aku sedar petang yang lapang bagi aku ialah petang paling sibuk bagi adik.",
-          "Adik mengambil alih kerja pagi hujung minggu dan kami menukar tugas apabila salah seorang ada pertandingan.",
-          "Aku lebih tenang kerana sumbangan kami kini seimbang sepanjang minggu."
-        ]
+          "Dalam perjalanan bas ke pertandingan pidato, aku terdengar seorang lelaki tua bertanya sama ada bas sudah melepasi perhentian untuk bertemu cucunya.",
+          "Mukanya pucat dan suaranya bergetar. Dia cemas kerana telefonnya kehabisan bateri dan cucunya sedang menunggu di perhentian asal.",
+          "Aku menawarkan telefonku, turun bersamanya dan menelefon cucunya beberapa kali hingga kami berjaya mengatur tempat pertemuan baharu.",
+          "Aku memilih untuk menunggu bersamanya hingga cucunya tiba. Akibatnya, aku terlepas bas sambungan dan sampai lewat selepas giliranku dipanggil.",
+          "Aku kesal terlepas giliran, namun rasa lega timbul apabila mengenang lelaki itu akhirnya bertemu cucunya."
+        ],
+        "synopsis": "Dalam perjalanan ke pertandingan pidato, seorang remaja membantu seorang lelaki tua menghubungi cucunya.",
+        "imageAlt": "Seorang peserta pidato meminjamkan telefon kepada seorang lelaki tua di perhentian bas."
       },
       {
-        "title": "Kuali Hari Ahad",
+        "title": "Nama Perhentian yang Serupa",
         "plot": [
-          "Adik selalu memasak sarapan keluarga, tetapi dia meninggalkan kuali dan lantai berminyak untuk aku bersihkan.",
-          "Selepas beberapa kali bertengkar, aku enggan mengemas dan dapur tidak dapat digunakan untuk menyiapkan makan tengah hari.",
-          "Apabila ibu terpaksa menangguhkan masakannya, aku dan adik mengukur masa yang diperlukan untuk memasak serta mengemas.",
-          "Kami bergilir-gilir memasak dan mencuci. Kami juga bersetuju membersihkan tumpahan masing-masing.",
-          "Aku lega melihat adik mula mengambil berat tentang kerja yang selama ini tidak disedarinya."
-        ]
+          "Aku menaiki bas untuk bertanding dalam acara melukis. Seorang lelaki tua terlepas perhentian yang berdekatan dengan pusat kegiatan warga emas.",
+          "Wajahnya pucat. Dia memandang peta dengan resah kerana dua perhentian berdekatan mempunyai nama yang hampir sama.",
+          "Aku menyemak alamat pada kad pusat itu, bertanya kepada pemandu di hentian akhir dan menemani lelaki tersebut menaiki bas penghubung yang betul.",
+          "Aku berjalan bersamanya hingga pintu pusat. Masa untuk perjalanan tambahan itu menyebabkan aku tiba selepas acara melukis bermula.",
+          "Aku berasa gelisah melihat masa yang tinggal untuk melukis, tetapi lega kerana dia selamat sampai ke destinasi."
+        ],
+        "synopsis": "Seorang peserta pertandingan melukis membantu seorang lelaki tua mencari laluan yang betul selepas perhentiannya terlepas.",
+        "imageAlt": "Seorang peserta pertandingan melukis meneliti peta laluan bersama seorang lelaki tua di hab bas."
       }
     ],
     "storyPrompts": {
-      "turning": "Bagaimanakah dapur atau ruang keluarga mencerminkan pertengkaran kamu?",
-      "ending": "Apakah perubahan pada pembahagian tugas yang membuktikan persetujuan itu adil?"
+      "turning": "Bagaimanakah kamu memutuskan bantuan yang patut diberikan ketika masa semakin suntuk?",
+      "ending": "Bagaimanakah perasaan kamu berubah apabila melihat kesan bantuan dan kemudian tiba lewat?"
     },
     "fahami": {
       "guiding": [
         [
-          "Apakah yang menyebabkan kamu menganggap pembahagian kerja rumah itu tidak adil?"
+          "Apakah yang menunjukkan bahawa kamu bakal bertanding dan perlu tiba pada waktu tertentu?"
         ],
         [
-          "Bagaimanakah perbezaan sumbangan kamu dan adik kamu dapat dilihat?"
+          "Apakah yang kamu lihat atau dengar sehingga menyedari dia sudah terlepas perhentiannya?"
         ],
         [
-          "Bilakah rasa tidak puas hati tentang kerja rumah bertukar menjadi perselisihan?"
+          "Apakah gerak tubuh atau nada suaranya yang memperlihatkan kebimbangan?"
         ],
         [
-          "Apakah yang perlu berubah supaya pertikaian tentang tugas rumah dapat diselesaikan?"
+          "Apakah yang kamu lakukan selepas memahami kesulitannya?",
+          "Apakah yang menunjukkan usaha kamu melebihi teguran ringkas?"
+        ],
+        [
+          "Pada ketika manakah usaha kamu menggunakan masa yang diperlukan untuk tiba tepat pada waktunya?"
+        ],
+        [
+          "Apakah perasaan yang timbul ketika kamu memilih untuk terus membantu?",
+          "Apakah yang kamu rasakan semasa akhirnya sampai di tempat pertandingan, dan mengapa?"
         ]
       ],
       "keywords": {
-        "pembahagian kerja rumah": "Fokus pada cara tugas di rumah diagihkan antara adik-beradik.",
-        "tidak adil": "Ini ialah pandangan kamu tentang pembahagian tugas. Apakah yang menyebabkan kamu berasa begitu?",
-        "masalah itu diselesaikan": "Tunjukkan bagaimana masalah tentang pembahagian tugas berakhir."
+        "menaiki bas untuk ke sebuah pertandingan yang kamu sertai": "Kamu ialah peserta yang sedang dalam perjalanan ke pertandingan.",
+        "terlepas perhentian basnya": "Lelaki itu sudah melepasi perhentian yang ditujunya.",
+        "kelihatan bimbang dan mukanya pucat": "Gambarkan kedua-dua tanda ini melalui pemerhatian kamu.",
+        "bersungguh-sungguh membantu": "Berikan ruang kepada usaha kamu dan bagaimana bantuan itu memenuhi keperluannya.",
+        "Akibatnya, kamu terlambat ke pertandingan itu": "Kamu perlu benar-benar tiba lewat kerana masa digunakan untuk membantu lelaki itu.",
+        "Gambarkan kejadian tersebut dan terangkan perasaan kamu": "Hubungkan perasaan kamu dengan tindakan dan akibat yang dialami."
       }
-    }
+    },
+    "planningTargets": [
+      "Bina urutan yang jelas daripada perjalanan bas hingga ketibaan lewat akibat bantuan kamu.",
+      "Tunjukkan kebimbangan lelaki itu melalui pemerhatian dan jelaskan perasaan kamu ketika membuat keputusan serta ketika tiba."
+    ],
+    "writingPrompts": [
+      "Apakah butiran dalam bas yang memperkenalkan suasana dan tekanan masa pertandingan?",
+      "Apakah yang kamu perhatikan apabila lelaki tua itu menyedari perhentiannya sudah terlepas?",
+      "Bagaimanakah kamu memutuskan bantuan yang patut diberikan ketika masa semakin suntuk?",
+      "Apakah langkah bantuan kamu yang menyebabkan ketibaan lewat?",
+      "Bagaimanakah perasaan kamu berubah apabila melihat kesan bantuan dan kemudian tiba lewat?"
+    ],
+    "descriptionPrompts": [
+      "Aksi — Apakah gerak tubuh atau tindakan yang memperlihatkan perubahan keadaan?",
+      "Perasaan — Apakah yang kamu rasakan dan apakah yang mencetuskan perasaan itu?",
+      "Deria — Apakah butiran yang kamu lihat atau dengar yang membantu pembaca membayangkan kejadian?",
+      "Fikiran — Apakah yang terlintas dalam fikiran kamu sebelum kamu bertindak?"
+    ]
+  },
+  {
+    "id": "ND-03",
+    "category": "Naratif-Deskriptif",
+    "period": "Jun 2025",
+    "question": "Baru-baru ini, ibu kamu bertukar kerja. Pekerjaan baharunya itu memerlukan beliau untuk menghabiskan masa yang lebih panjang di tempat kerja. Oleh yang demikian, anggota keluarga kamu harus berkongsi tugas melakukan kerja rumah. Hal ini menimbulkan perselisihan dalam kalangan anggota keluarga kamu. Namun, kamu berhasil untuk mengembalikan keharmonian dalam keluarga kamu. Gambarkan kejadian itu dan perasaan kamu terhadap kejadian tersebut.",
+    "origin": "Teks soalan dibekalkan oleh guru",
+    "level": "G3",
+    "title": "Mengembalikan Keharmonian Keluarga",
+    "guide": {
+      "demand": [
+        "Ibu bertukar kerja.",
+        "Pekerjaan baharu memerlukan ibu bekerja lebih lama.",
+        "Anggota keluarga perlu berkongsi kerja rumah.",
+        "Pembahagian tugas menimbulkan perselisihan.",
+        "Kamu berperanan mengembalikan keharmonian.",
+        "Gambarkan peristiwa dan perasaan kamu."
+      ],
+      "plan": [],
+      "prompts": [
+        "Apakah perbezaan antara rutin ibu dahulu dengan rutin selepas beliau bertukar kerja?",
+        "Bagaimanakah waktu kerja baharu ibu menjejaskan rutin di rumah?",
+        "Apakah tugas yang perlu dikongsi?",
+        "Apakah perbezaan pendapat yang menyebabkan suasana menjadi tegang?",
+        "Apakah tindakan kamu yang membantu keluarga berbaik semula?",
+        "Apakah yang kamu perhatikan semasa perselisihan?"
+      ],
+      "vocab": [
+        "serba salah",
+        "memendam rasa",
+        "bertolak ansur",
+        "mencapai kata sepakat"
+      ],
+      "pitfall": "Pastikan tindakan kamu mempunyai kesan yang dapat dilihat pada hubungan keluarga selepas perselisihan.",
+      "checks": [
+        "Saya menggambarkan perubahan pekerjaan ibu.",
+        "Saya menunjukkan bagaimana waktu kerja ibu yang lebih panjang mengubah keadaan di rumah.",
+        "Saya menunjukkan cara anggota keluarga mula berkongsi tugas.",
+        "Perselisihan dalam cerita saya berpunca daripada pembahagian tugas.",
+        "Tindakan saya membantu keluarga kembali harmoni.",
+        "Saya menggambarkan kejadian dan perubahan perasaan melalui butiran yang relevan."
+      ]
+    },
+    "storyPlots": [
+      {
+        "title": "Pinggan di Sinki",
+        "plot": [
+          "Ibu bertukar kerja dan waktu kerjanya yang lebih panjang menyebabkan kami perlu bergilir menyediakan makan malam dan mengemas dapur.",
+          "Kakak dan abang bertengkar apabila kedua-duanya menyangka seorang lagi bertanggungjawab membasuh pinggan. Aku mula berasa serba salah.",
+          "Apabila semua orang makan dalam diam, aku meminta mereka menjelaskan tugas yang difahami masing-masing.",
+          "Aku membantu kami membuat giliran yang jelas dan bersetuju bertukar giliran sekiranya ada urusan sekolah. Kakak dan abang saling meminta maaf.",
+          "Aku lega mendengar mereka berbual mesra sambil mengemas selepas makan."
+        ],
+        "synopsis": "Salah faham tentang giliran mengemas dapur menguji hubungan adik-beradik selepas ibu bertukar kerja.",
+        "imageAlt": "Seorang remaja mengajak abang dan kakaknya berbincang di meja makan berdekatan sinki yang penuh."
+      },
+      {
+        "title": "Bakul Baju yang Melimpah",
+        "plot": [
+          "Selepas ibu bertukar kerja, beliau pulang lebih lewat. Kami perlu berkongsi tugas membasuh, menyidai dan melipat pakaian.",
+          "Ayah dan adik berselisih apabila pakaian sekolah masih basah. Ayah menyangka adik enggan membantu, sedangkan adik keliru tentang tugasnya.",
+          "Aku cemas melihat adik hampir menangis, lalu aku memeriksa cara kami menyampaikan arahan dan mendapati dua tugas tertinggal.",
+          "Aku menunjukkan kepada adik cara menyidai pakaian dan membantu keluarga membahagikan tugas mengikut masa serta kebolehan masing-masing.",
+          "Aku terharu apabila ayah memuji usaha adik dan mereka mula bekerjasama setiap kali bakul pakaian penuh."
+        ],
+        "synopsis": "Pakaian sekolah yang belum kering mencetuskan pertikaian tentang tugas yang tidak difahami oleh adik.",
+        "imageAlt": "Seorang remaja menerangkan pembahagian tugas kepada ayah dan adiknya di sisi bakul pakaian."
+      },
+      {
+        "title": "Sabtu yang Sibuk",
+        "plot": [
+          "Pekerjaan baharu ibu memerlukan beliau bekerja hingga lewat pada hari biasa. Kami berkongsi tugas membersihkan rumah pada hujung minggu.",
+          "Abang mahu menyiapkan semua tugas pada waktu pagi, tetapi kakak ada latihan. Pertikaian tentang siapa menyumbang lebih banyak menegangkan suasana.",
+          "Aku kecewa apabila mereka mula mengungkit hal lama. Aku meminta mereka menerangkan masa lapang dan tugas yang sanggup dibuat.",
+          "Aku mencadangkan kerja dibahagikan mengikut jumlah usaha sepanjang minggu. Mereka memilih tugas masing-masing dan sepakat menyemak rancangan selepas seminggu.",
+          "Aku berasa lapang apabila kami kembali bergurau sambil menunjukkan ruang yang sudah dikemas."
+        ],
+        "synopsis": "Pertembungan jadual hujung minggu memaksa keluarga mencari pembahagian tugas yang lebih sesuai.",
+        "imageAlt": "Seorang remaja membuka buku rancangan ketika dua anggota keluarganya berbincang tentang kerja rumah."
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah yang membuat kamu sedar bahawa kamu perlu campur tangan?",
+      "ending": "Apakah tanda kecil yang membuktikan keharmonian kembali dan bagaimanakah perasaan kamu?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah perbezaan antara rutin ibu dahulu dengan rutin selepas beliau bertukar kerja?"
+        ],
+        [
+          "Bagaimanakah waktu kerja baharu ibu menjejaskan rutin di rumah?"
+        ],
+        [
+          "Apakah tugas yang perlu dikongsi?",
+          "Bagaimanakah keluarga mula mengagihkan tugas itu?"
+        ],
+        [
+          "Apakah perbezaan pendapat yang menyebabkan suasana menjadi tegang?"
+        ],
+        [
+          "Apakah tindakan kamu yang membantu keluarga berbaik semula?",
+          "Apakah tanda bahawa hubungan keluarga kembali baik?"
+        ],
+        [
+          "Apakah yang kamu perhatikan semasa perselisihan?",
+          "Bagaimanakah perasaan kamu berubah selepas keluarga berbaik?"
+        ]
+      ],
+      "keywords": {
+        "ibu kamu bertukar kerja": "Perubahan pekerjaan ibu mencetuskan perubahan rutin keluarga.",
+        "masa yang lebih panjang di tempat kerja": "Waktu kerja yang bertambah mengehadkan masa ibu untuk melakukan kerja rumah.",
+        "berkongsi tugas melakukan kerja rumah": "Tugas yang perlu diagihkan mestilah berkaitan dengan keperluan di rumah.",
+        "perselisihan dalam kalangan anggota keluarga kamu": "Perselisihan perlu berpunca daripada cara keluarga berkongsi tugas.",
+        "kamu berhasil untuk mengembalikan keharmonian": "Tunjukkan tindakan kamu dan perubahan hubungan selepas tindakan itu.",
+        "Gambarkan kejadian itu dan perasaan kamu": "Gunakan butiran suasana, tindakan dan reaksi untuk menggambarkan kejadian serta perasaan."
+      }
+    },
+    "planningTargets": [
+      "Hubungkan pekerjaan baharu ibu dan waktu kerja yang lebih panjang dengan pembahagian tugas, perselisihan dan usaha kamu memulihkan hubungan.",
+      "Pilih butiran suasana dan reaksi yang memperlihatkan perubahan daripada tegang kepada harmoni."
+    ],
+    "writingPrompts": [
+      "Bagaimanakah kamu memperlihatkan perubahan rutin ibu pada awal cerita?",
+      "Apakah tindakan atau kata-kata yang menunjukkan perselisihan semakin tegang?",
+      "Apakah yang membuat kamu sedar bahawa kamu perlu campur tangan?",
+      "Bagaimanakah anggota keluarga bertindak balas terhadap usaha kamu?",
+      "Apakah tanda kecil yang membuktikan keharmonian kembali dan bagaimanakah perasaan kamu?"
+    ],
+    "version": 2,
+    "descriptionPrompts": [
+      "Aksi — Apakah gerak tubuh atau tindakan yang memperlihatkan perubahan keadaan?",
+      "Perasaan — Apakah yang kamu rasakan dan apakah yang mencetuskan perasaan itu?",
+      "Deria — Apakah butiran yang kamu lihat atau dengar yang membantu pembaca membayangkan kejadian?",
+      "Fikiran — Apakah yang terlintas dalam fikiran kamu sebelum kamu bertindak?"
+    ]
   },
   {
     "id": "ND-04",
@@ -2515,96 +2693,222 @@
     }
   },
   {
-    "id": "EK-03",
+    "id": "EK-26",
     "category": "Ekspositori",
-    "period": "Jun 2025",
-    "question": "Dalam dunia yang semakin pesat berkembang, setiap orang harus menggunakan teknologi dengan berkesan. Setujukah kamu?",
-    "origin": "Kompilasi Soalan O Level (Karangan) — dokumen guru",
+    "period": "Nov 2025",
+    "question": "Hukuman yang berat dapat mencegah pelajar daripada melanggar peraturan. Bersetujukah kamu? Mengapa?",
+    "origin": "Teks soalan dibekalkan oleh guru",
     "level": "G3",
+    "title": "Hukuman Berat dan Disiplin Pelajar",
     "guide": {
       "demand": [
-        "Fokus: penggunaan teknologi secara berkesan",
-        "Jawab kata tugas tanpa mengubah skop pernyataan."
+        "Fokus: kesan hukuman berat terhadap pelanggaran peraturan sekolah",
+        "Bezakan pencegahan daripada pemberian hukuman atau perubahan tingkah laku.",
+        "Nyatakan satu pendirian dan jelaskan sebabnya."
       ],
       "plan": [],
       "prompts": [
-        "Bagaimanakah setiap hujah berkaitan dengan penggunaan teknologi secara berkesan?",
-        "Apakah kesan daripada contoh yang dipilih?"
+        "Apakah yang menjadikan sesuatu tindakan disiplin lebih berat dalam konteks sekolah?",
+        "Apakah yang mendorong pelajar mematuhi peraturan sebelum kesalahan berlaku?",
+        "Apakah pendirian kamu terhadap dakwaan itu?"
       ],
       "vocab": [
-        "hal ini demikian kerana",
-        "sebagai contoh",
-        "kesannya",
-        "produktiviti",
-        "akses ilmu",
-        "perkhidmatan"
+        "tindakan disiplin",
+        "setimpal",
+        "kesan pencegahan",
+        "ketekalan",
+        "memulihkan hubungan"
       ],
-      "pitfall": "Jangan menyimpang daripada fokus: penggunaan teknologi secara berkesan.",
+      "pitfall": "Bezakan beratnya hukuman, kebarangkalian hukuman itu dilaksanakan dan usaha menangani punca tingkah laku. Kaitkan setiap isi dengan pencegahan.",
       "checks": [
-        "Saya mengaitkan setiap hujah dengan penggunaan teknologi secara berkesan."
+        "Saya menerangkan maksud hukuman berat dalam konteks sekolah menggunakan contoh yang sesuai.",
+        "Saya menunjukkan bagaimana sesuatu langkah boleh mencegah kesalahan pertama atau pengulangannya.",
+        "Pendirian saya konsisten dan tiga alasan menilainya dengan jelas."
       ]
     },
     "arguments": [
       [
         {
-          "title": "Produktiviti",
-          "explain": "Alat digital menjimatkan masa",
-          "example": "Dokumen kolaboratif"
+          "title": "Akibat yang bermakna boleh mengubah pilihan",
+          "explain": "Jika tindakan tegas melibatkan sesuatu yang dihargai dan diketahui sejak awal, pelajar mungkin mempertimbangkan semula kesalahan yang disengajakan.",
+          "example": "Pemain yang tahu dia boleh digantung sementara daripada mewakili pasukan selepas berulang kali mencetuskan pergaduhan mungkin memilih memanggil guru apabila timbul pertikaian.",
+          "effect": "Akibat itu boleh menahan pemain daripada bertindak ganas apabila perbalahan timbul lagi."
         },
         {
-          "title": "Akses ilmu",
-          "explain": "Sumber digital meluaskan pembelajaran",
-          "example": "Kursus dalam talian"
+          "title": "Perlindungan sementara mengurangkan peluang mengulangi kesalahan",
+          "explain": "Sekatan yang setimpal boleh mengurangkan peluang melanggar peraturan dalam ruang tertentu sementara pelajar belajar menggunakan ruang itu dengan betul.",
+          "example": "Selepas berulang kali menyalahgunakan akaun penyuntingan kelab, seorang pelajar kehilangan akses penyuntingan bebas buat sementara dan hanya bekerja dengan penyeliaan.",
+          "effect": "Sekatan tersebut mengurangkan peluang kesalahan yang sama diulangi dalam tempoh pemantauan."
         },
         {
-          "title": "Perkhidmatan",
-          "explain": "Kemahiran digital memudahkan urusan",
-          "example": "Tempahan perkhidmatan awam"
-        },
-        {
-          "title": "Komunikasi",
-          "explain": "Teknologi memudahkan kerjasama jarak jauh",
-          "example": "Mesyuarat video"
+          "title": "Tindakan terhadap pelanggaran serius menegaskan batas kepada rakan",
+          "explain": "Apabila akibat yang lebih berat dikenakan bagi pelanggaran serius dan dasar itu diterangkan secara umum, rakan sebaya boleh menjangka akibat jika mereka meniru perbuatan tersebut.",
+          "example": "Guru menerangkan bahawa mengubah rekod skor dengan sengaja boleh menyebabkan penyertaan dalam pertandingan dalaman dibatalkan. Peserta yang terdorong oleh rakan sebaya dapat mempertimbangkan akibat itu sebelum bertindak.",
+          "effect": "Peserta lain dapat menjangka bahawa cubaan yang sama boleh menjejaskan penyertaan mereka."
         }
       ],
       [
         {
-          "title": "Keperluan berbeza",
-          "explain": "Tidak semua tugas memerlukan teknologi",
-          "example": "Kerja tangan"
+          "title": "Tindakan yang konsisten memberi isyarat lebih jelas",
+          "explain": "Ancaman yang berat tetapi jarang dilaksanakan kurang mempengaruhi keputusan harian berbanding tindakan yang dapat dijangka apabila kesalahan dikesan.",
+          "example": "Peraturan membawa telefon ke sesi tertentu lebih mudah diikuti jika pelanggaran sentiasa ditangani dengan prosedur penyimpanan telefon yang jelas.",
+          "effect": "Tindak balas yang dapat dijangka boleh menggalakkan pematuhan walaupun akibatnya sederhana."
         },
         {
-          "title": "Risiko digital",
-          "explain": "Penggunaan tanpa kawalan menjejaskan fokus",
-          "example": "Pemberitahuan pada telefon ketika belajar"
+          "title": "Sokongan terhadap punca masalah membantu mencegah pengulangan",
+          "explain": "Hukuman berat kurang berkesan jika pelajar sukar mematuhi peraturan akibat halangan yang boleh ditangani melalui sokongan.",
+          "example": "Bagi pelajar yang kerap lewat kerana perlu menghantar adiknya, guru boleh berbincang dengan keluarga untuk menyusun semula aturan perjalanan.",
+          "effect": "Mengurangkan halangan perjalanan dapat mengurangkan kemungkinan pelajar itu datang lewat lagi."
         },
         {
-          "title": "Akses tidak sama",
-          "explain": "Alternatif bukan digital masih diperlukan",
-          "example": "Pengguna yang tidak mempunyai telefon pintar boleh mendapatkan bantuan di kaunter"
-        },
-        {
-          "title": "Privasi",
-          "explain": "Penggunaan teknologi tidak semestinya sesuai bagi semua urusan",
-          "example": "Perbincangan sulit secara bersemuka"
+          "title": "Pemulihan memberi latihan membuat pilihan yang lebih baik",
+          "explain": "Tindakan yang membimbing pelajar memahami kesan dan mempraktikkan respons lain boleh membantu apabila pengawasan berkurang.",
+          "example": "Selepas sengketa dalam perbincangan kumpulan, guru membimbing pelajar mendengar kesan kata-katanya, memperbaiki hubungan dan berlatih meminta giliran bercakap.",
+          "effect": "Pelajar mempunyai tindakan alternatif yang boleh digunakan ketika timbul perselisihan baharu."
         }
       ]
     ],
     "fahami": {
       "guiding": [
         [
-          "Apakah yang dimaksudkan dengan menggunakan teknologi secara berkesan dalam dunia yang pesat berubah?"
+          "Apakah yang menjadikan sesuatu tindakan disiplin lebih berat dalam konteks sekolah?"
         ],
         [
-          "Bagaimanakah frasa “setiap orang” mempengaruhi pendirian yang perlu kamu pertahankan?"
+          "Apakah yang mendorong pelajar mematuhi peraturan sebelum kesalahan berlaku?",
+          "Adakah sebab pelajar mematuhi peraturan berubah apabila pengawasan berkurang?"
+        ],
+        [
+          "Apakah pendirian kamu terhadap dakwaan itu?",
+          "Bagaimanakah kamu membezakan kesan beratnya hukuman daripada kesan ketekalan pelaksanaannya?"
         ]
       ],
       "keywords": {
-        "setiap orang": "Skopnya meliputi setiap orang. Pertimbangkan kesan skop yang luas ini terhadap dakwaan soalan.",
-        "menggunakan teknologi dengan berkesan": "Penggunaan yang berkesan mencapai tujuan pengguna. Fikirkan maksudnya dalam dunia yang pesat berubah.",
-        "Setujukah": "Pilih satu pendirian tentang keperluan menggunakan teknologi dengan berkesan dan pertahankannya."
+        "Hukuman yang berat": "Dalam konteks sekolah, pertimbangkan tindakan disiplin yang tegas, dibenarkan dan setimpal dengan kesalahan.",
+        "Bersetujukah kamu? Mengapa?": "Bina tiga alasan yang menyokong pendirian tentang kesan pencegahan hukuman berat.",
+        "mencegah": "Pencegahan menyentuh keputusan sebelum kesalahan berlaku atau berulang. Perubahan sikap pula boleh mengambil masa.",
+        "melanggar peraturan": "Gunakan peraturan sekolah yang jelas dalam contoh dan terangkan perkara yang boleh menghalang pelanggaran."
       }
-    }
+    },
+    "planningTargets": [
+      "Takrifkan hukuman berat sebagai tindakan disiplin yang dibenarkan dan nilai kaitannya dengan keputusan sebelum pelanggaran berlaku.",
+      "Gunakan tiga situasi sekolah yang menunjukkan bagaimana pencegahan berlaku atau mengapa ia sukar dicapai."
+    ],
+    "writingPrompts": [
+      "Bagaimanakah kamu memperkenalkan isu dengan takrif yang jelas serta menyatakan pendirian?",
+      "Apakah mekanisme yang mengubah keputusan pelajar sebelum peraturan dilanggar?",
+      "Apakah butiran contoh kamu yang membezakan ketegasan daripada ketekalan tindakan?",
+      "Apakah kesan pada keputusan pelajar sebelum kesalahan berlaku lagi?",
+      "Bagaimanakah rumusan kamu mengukuhkan pendirian tentang pencegahan?"
+    ]
+  },
+  {
+    "id": "EK-03",
+    "category": "Ekspositori",
+    "period": "Jun 2025",
+    "question": "Seseorang itu perlu menjadi pengguna teknologi yang efektif untuk bertahan dalam dunia yang berkembang dengan cepat ini. Bersetujukah kamu? Mengapa?",
+    "origin": "Teks soalan dibekalkan oleh guru",
+    "level": "G3",
+    "title": "Pengguna Teknologi yang Efektif",
+    "guide": {
+      "demand": [
+        "Fokus: keperluan menggunakan teknologi secara efektif untuk menyesuaikan diri",
+        "Terangkan maksud bertahan dalam konteks perubahan pesat.",
+        "Nyatakan satu pendirian dan berikan sebab."
+      ],
+      "plan": [],
+      "prompts": [
+        "Apakah yang membezakan pengguna yang efektif daripada seseorang yang sekadar kerap menggunakan peranti?",
+        "Apakah cabaran baharu yang perlu dihadapi?",
+        "Apakah pendirian kamu tentang perkataan “perlu”?"
+      ],
+      "vocab": [
+        "penggunaan berkesan",
+        "menyesuaikan diri",
+        "menilai kesahihan",
+        "kemahiran boleh pindah"
+      ],
+      "pitfall": "Tumpukan hujah pada sama ada penggunaan teknologi yang efektif diperlukan untuk menghadapi perubahan. Terangkan apa yang ditunjukkan oleh setiap contoh tentang keperluan itu.",
+      "checks": [
+        "Saya menjelaskan maksud penggunaan teknologi yang efektif dan kaitannya dengan isu.",
+        "Saya kaitkan hujah dengan keupayaan menyesuaikan diri dalam keadaan yang berubah dengan cepat.",
+        "Pendirian saya konsisten dan ketiga-tiga alasan menjawab sama ada kemahiran itu diperlukan."
+      ]
+    },
+    "arguments": [
+      [
+        {
+          "title": "Belajar semula apabila tugas berubah",
+          "explain": "Pemilihan bahan digital yang tepat dan latihan mengikut keperluan membolehkan seseorang menguasai proses baharu apabila kaedah lama diganti.",
+          "example": "Seorang pekerja kedai menggunakan panduan rasmi dan ruang latihan sistem inventori baharu untuk belajar merekod stok sebelum sistem itu digunakan.",
+          "effect": "Pekerja itu boleh terus mengurus stok tanpa bergantung pada setiap arahan rakan sekerja apabila sistem bertukar."
+        },
+        {
+          "title": "Mengesahkan maklumat yang berubah cepat",
+          "explain": "Pengguna yang tahu menyemak tarikh dan sumber rasmi boleh membuat keputusan apabila maklumat bercanggah tersebar.",
+          "example": "Seorang pelajar menyemak portal sekolah untuk mengesahkan perubahan jadual sebelum berkongsi arahan yang diterima dalam kumpulan sembang.",
+          "effect": "Pelajar terus dapat mengatur persediaan mengikut jadual yang betul walaupun menerima maklumat yang bercanggah."
+        },
+        {
+          "title": "Menyelesaikan urusan apabila perkhidmatan berubah",
+          "explain": "Kecekapan memilih saluran yang betul dan menjaga maklumat peribadi membantu seseorang terus mengurus keperluan harian apabila prosedur beralih ke saluran digital.",
+          "example": "Seorang penjaga menggunakan portal rasmi untuk menukar tempahan temu janji dan memastikan pengesahan diterima.",
+          "effect": "Urusannya dapat diteruskan dengan selamat apabila cara membuat tempahan berubah."
+        }
+      ],
+      [
+        {
+          "title": "Kemahiran asas yang boleh dipindahkan",
+          "explain": "Kemahiran menyelesaikan masalah dan membaca arahan membantu seseorang menyesuaikan diri dalam bidang yang tugas terasnya masih bersifat praktikal.",
+          "example": "Seorang tukang jahit belajar cara mengambil ukuran dan membaiki fabrik baharu melalui tunjuk cara serta latihan dengan rakan sekerja.",
+          "effect": "Kemahiran teras dan kesediaan mempelajari cara kerja baharu membolehkannya kekal mampu memenuhi keperluan pelanggan."
+        },
+        {
+          "title": "Saluran alternatif masih boleh memenuhi keperluan",
+          "explain": "Dalam urusan yang menyediakan sokongan bersemuka, seseorang boleh kekal berdikari dengan menggunakan saluran yang sesuai dengan keadaannya.",
+          "example": "Seorang penduduk menyelesaikan pertanyaan tentang dokumen dengan membawa salinan yang diperlukan ke kaunter yang menawarkan khidmat tersebut.",
+          "effect": "Penduduk itu masih dapat menyelesaikan urusan yang sama melalui saluran bersemuka yang tersedia."
+        },
+        {
+          "title": "Keupayaan boleh dikongsi melalui kerjasama",
+          "explain": "Dalam pasukan, seseorang tetap boleh menyumbang kepakaran utama walaupun pengendalian teknologi khusus diagihkan kepada anggota lain.",
+          "example": "Dalam perniagaan makanan kecil, seorang penyelia menyesuaikan menu dan bekalan berdasarkan maklum balas pelanggan manakala rakan sekerjanya mengurus katalog digital.",
+          "effect": "Penyelia itu masih boleh menyesuaikan kerja terasnya apabila pasaran berubah melalui pembahagian kepakaran."
+        }
+      ]
+    ],
+    "fahami": {
+      "guiding": [
+        [
+          "Apakah yang membezakan pengguna yang efektif daripada seseorang yang sekadar kerap menggunakan peranti?"
+        ],
+        [
+          "Apakah cabaran baharu yang perlu dihadapi?",
+          "Bagaimanakah seseorang boleh terus berfungsi apabila cara belajar, bekerja atau mendapatkan perkhidmatan berubah?"
+        ],
+        [
+          "Apakah pendirian kamu tentang perkataan “perlu”?",
+          "Mengapakah contoh kamu menyokong pendirian itu?"
+        ]
+      ],
+      "keywords": {
+        "pengguna teknologi yang efektif": "Pengguna yang efektif memilih dan menggunakan alat yang sesuai secara bertujuan, cekap dan bertanggungjawab.",
+        "untuk bertahan": "Dalam konteks ini, bertahan boleh bermaksud kekal mampu belajar, bekerja atau mengurus kehidupan apabila tuntutan berubah.",
+        "Bersetujukah kamu? Mengapa?": "Pilih satu pendirian tentang keperluan tersebut dan bina tiga sebab yang menyokongnya.",
+        "dunia yang berkembang dengan cepat ini": "Jelaskan perubahan yang berlaku dan bagaimana perubahan itu menimbulkan keperluan baharu."
+      }
+    },
+    "planningTargets": [
+      "Takrifkan penggunaan efektif dan maksud bertahan dalam latar perubahan pesat.",
+      "Gunakan tiga contoh daripada situasi berbeza untuk menerangkan sejauh mana kemahiran digital diperlukan."
+    ],
+    "writingPrompts": [
+      "Bagaimanakah kamu menjelaskan maksud penggunaan teknologi yang efektif serta menyatakan pendirian?",
+      "Apakah satu cara untuk menguji sama ada kebolehan ini diperlukan bagi menghadapi perubahan?",
+      "Apakah langkah atau keadaan dalam contoh kamu yang membuktikan hujah itu?",
+      "Bagaimanakah kesannya menunjukkan bahawa kebolehan digital itu perlu atau bahawa cara lain memadai?",
+      "Bagaimanakah kamu menegaskan semula pendirian berdasarkan tiga hujah?"
+    ],
+    "version": 2
   },
   {
     "id": "EK-04",
@@ -4743,6 +5047,226 @@
         "usul periksa": "Usul periksa bermaksud menyiasat terlebih dahulu. Kaitkan kesedaran ini dengan kesilapan menuduh."
       }
     }
+  },
+  {
+    "id": "N-27",
+    "category": "Naratif",
+    "period": "Nov 2025",
+    "question": "Tugas yang diserahkan kepada orang lain tanpa pengawasan tidak akan menjadi seperti yang diingini. Tulis cerita berdasarkan pernyataan tersebut.",
+    "origin": "Teks soalan dibekalkan oleh guru",
+    "level": "G3",
+    "title": "Tugas Tanpa Pengawasan",
+    "guide": {
+      "demand": [
+        "Watak menyerahkan satu tugas kepada orang lain.",
+        "Tugas dijalankan tanpa pengawasan yang mencukupi.",
+        "Hasil tugas tidak menepati jangkaan.",
+        "Sampaikan pernyataan melalui sebuah cerita."
+      ],
+      "plan": [],
+      "prompts": [
+        "Mengapakah tugas itu diserahkan dan apakah hasil yang diharapkan?",
+        "Pada peringkat manakah kemajuan tugas patut diperiksa?",
+        "Apakah akibat nyata daripada kesilapan yang tidak dikesan?",
+        "Apakah pilihan watak selepas menyedari hasilnya tersasar?"
+      ],
+      "vocab": [
+        "mengamanahkan",
+        "menyemak kemajuan",
+        "terlepas pandang",
+        "tersasar daripada jangkaan"
+      ],
+      "pitfall": "Berikan sebab yang jelas mengapa kekurangan pengawasan menjejaskan hasil. Watak masih boleh mengagihkan tugas dengan semakan yang sesuai.",
+      "checks": [
+        "Saya menjelaskan watak yang menyerahkan dan menerima tugas serta hasil yang diingini.",
+        "Saya menunjukkan bagaimana kekurangan pemantauan membiarkan masalah berlarutan.",
+        "Hasil sebenar tidak menepati jangkaan dan saya menunjukkan sebabnya.",
+        "Saya mengembangkan tema melalui rentetan peristiwa yang meyakinkan."
+      ]
+    },
+    "storyPlots": [
+      {
+        "title": "Kad Pameran Tertukar",
+        "plot": [
+          "Aku mengetuai pameran sekolah dan menyerahkan tugas memadankan kad penerangan dengan projek kepada dua rakan supaya semua projek dapat difahami pengunjung.",
+          "Kerana sibuk menyusun ruang, aku tidak memeriksa contoh kad atau kemajuan mereka. Mereka menggunakan pelan meja lama tanpa mengetahui susunan telah berubah.",
+          "Apabila pengunjung mula bertanya soalan yang tidak sepadan dengan projek, aku menyedari dua meja memaparkan kad yang salah. Penerangan awal kami tersasar.",
+          "Kami membetulkan kad berpandukan pelan semasa dan seorang rakan menerangkan projek secara lisan sementara meja dikemas kini.",
+          "Sebahagian pengunjung telah beredar sebelum pembetulan selesai. Untuk pameran seterusnya, aku meminta kumpulan menyemak satu meja contoh sebelum menyusun yang lain."
+        ],
+        "synopsis": "Kad pameran yang disediakan tanpa semakan menyebabkan penerangan projek tersasar ketika pelawat tiba.",
+        "imageAlt": "Dua pelajar memeriksa kad penerangan yang tersalah susun di pameran sekolah."
+      },
+      {
+        "title": "Dua Pasukan, Satu Gelanggang",
+        "plot": [
+          "Aku mengurus acara futsal sekolah dan menyerahkan jadual perlawanan kepada seorang ahli jawatankuasa agar semua pasukan mendapat giliran yang adil.",
+          "Aku menumpukan perhatian pada peralatan dan tidak meminta draf untuk disemak. Rakanku menggunakan jadual lama yang menyenaraikan satu gelanggang tambahan yang tidak tersedia.",
+          "Dua pasukan tiba untuk bermain pada masa yang sama di gelanggang yang tersedia. Barisan peserta semakin panjang dan jadual awal tidak dapat dipatuhi.",
+          "Kami menyusun semula giliran bersama guru. Pusingan awal dipendekkan supaya setiap pasukan sempat bermain.",
+          "Acara berakhir dengan masa permainan lebih singkat daripada rancangan. Kami menetapkan semakan jadual bersama sebelum jadual acara seterusnya diedarkan."
+        ],
+        "synopsis": "Jadual futsal yang tidak disemak menyebabkan dua pasukan tiba serentak di gelanggang yang sama.",
+        "imageAlt": "Dua pasukan futsal tiba serentak sementara pelajar yang mengurus jadual memeriksa papan klip."
+      },
+      {
+        "title": "Isi Beg yang Tidak Lengkap",
+        "plot": [
+          "Aku menyerahkan tugas membungkus barangan sumbangan kepada sekumpulan sukarelawan baharu supaya setiap penerima mendapat set keperluan yang sama.",
+          "Kerana sibuk mengurus jadual penghantaran, aku tidak menyemak satu beg contoh atau memantau stok. Sukarelawan menyangka barang di meja kedua sudah dimasukkan.",
+          "Ketika beg hendak diangkut, seorang sukarelawan mendapati sejumlah beg tidak mempunyai beberapa barang. Penghantaran pertama terpaksa ditangguhkan.",
+          "Kami menyemak dan melengkapkan setiap beg menggunakan senarai bersama. Aku menghubungi penerima untuk memaklumkan perubahan masa.",
+          "Semua beg akhirnya dihantar, tetapi beberapa penerima terpaksa menunggu. Pada kegiatan seterusnya, kami menyemak satu set contoh dan mengira stok pada setiap peringkat."
+        ],
+        "synopsis": "Beg sumbangan dibungkus tanpa semakan sehingga sukarelawan hanya menyedari kekurangan barang ketika hendak membuat penghantaran.",
+        "imageAlt": "Sukarelawan menyemak kandungan beg sumbangan sebelum memindahkannya ke troli."
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Bilakah watak menyedari perbezaan antara hasil tugas dengan jangkaan?",
+      "ending": "Bagaimanakah watak akan mengagihkan dan memantau tugas pada masa hadapan?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Mengapakah tugas itu diserahkan dan apakah hasil yang diharapkan?"
+        ],
+        [
+          "Pada peringkat manakah kemajuan tugas patut diperiksa?",
+          "Apakah yang tidak diketahui kerana tiada semakan?"
+        ],
+        [
+          "Apakah akibat nyata daripada kesilapan yang tidak dikesan?"
+        ],
+        [
+          "Apakah pilihan watak selepas menyedari hasilnya tersasar?"
+        ]
+      ],
+      "keywords": {
+        "Tugas yang diserahkan kepada orang lain": "Tetapkan siapa yang menyerahkan tugas, siapa yang menerimanya dan hasil yang diharapkan.",
+        "tanpa pengawasan": "Tunjukkan kekurangan dalam semakan atau pemantauan sehingga masalah terlepas pandang.",
+        "tidak akan menjadi seperti yang diingini": "Perlihatkan perbezaan antara hasil sebenar dengan jangkaan dan kaitannya dengan ketiadaan pengawasan.",
+        "Tulis cerita berdasarkan pernyataan tersebut": "Kembangkan pernyataan melalui peristiwa dan keputusan watak."
+      }
+    },
+    "planningTargets": [
+      "Nyatakan hasil yang dijangka dan gambarkan masalah yang tidak dikesan kerana kemajuan tidak disemak.",
+      "Perlihatkan kesan sebenar dan cara watak menanganinya, termasuk perubahan pada cara tugas diagihkan."
+    ],
+    "writingPrompts": [
+      "Apakah hasil yang ingin dicapai dan mengapa tugas diserahkan?",
+      "Apakah kesilapan awal yang terlepas kerana tiada semakan?",
+      "Bilakah watak menyedari perbezaan antara hasil tugas dengan jangkaan?",
+      "Apakah yang dapat diperbaiki dan apakah kesan yang masih terpaksa diterima?",
+      "Bagaimanakah watak akan mengagihkan dan memantau tugas pada masa hadapan?"
+    ]
+  },
+  {
+    "id": "N-26",
+    "category": "Naratif",
+    "period": "Jun 2025",
+    "question": "Tulis cerita tentang kekecohan yang berlaku di estet perumahan kamu akibat satu berita palsu yang tersebar.",
+    "origin": "Teks soalan dibekalkan oleh guru",
+    "level": "G3",
+    "title": "Kekecohan Akibat Berita Palsu",
+    "guide": {
+      "demand": [
+        "Ceritakan peristiwa yang berlaku di estet perumahan kamu.",
+        "Satu berita palsu tersebar.",
+        "Tunjukkan kekecohan akibat berita palsu itu."
+      ],
+      "plan": [],
+      "prompts": [
+        "Di bahagian manakah dalam estet kejadian itu dapat dilihat?",
+        "Apakah dakwaan yang disebarkan dan mengapakah penduduk mempercayainya?",
+        "Apakah tindakan penduduk yang secara langsung mencetuskan kekecohan selepas mereka menerima berita itu?"
+      ],
+      "vocab": [
+        "hebah",
+        "menular",
+        "kelam-kabut",
+        "mengesahkan maklumat"
+      ],
+      "pitfall": "Perlihatkan kesan berita palsu melalui tindakan penduduk dan bina jalan cerita yang menyambungkan dakwaan, reaksi dan akibatnya.",
+      "checks": [
+        "Latar dan reaksi penduduk jelas berkait dengan estet perumahan saya.",
+        "Saya menunjukkan kandungan berita palsu, penyebarannya dan cara ia disahkan palsu.",
+        "Tindakan penduduk menunjukkan bagaimana berita palsu mencetuskan kekecohan."
+      ]
+    },
+    "storyPlots": [
+      {
+        "title": "Barisan Baldi",
+        "plot": [
+          "Mesej yang mendakwa seluruh estet akan terputus bekalan air pada malam itu tersebar dalam kumpulan sembang penduduk. Aku melihat jiran mula membawa baldi ke pili di kolong blok.",
+          "Penduduk yang risau kehabisan air berasak-asak. Baldi tertumpah dan pertengkaran tentang giliran menghalang laluan.",
+          "Apabila seorang jiran hampir tergelincir, aku menghubungi pejabat pengurusan. Mereka mengesahkan notis yang disebarkan itu telah diubah dan tiada gangguan dijadualkan.",
+          "Jawatankuasa penduduk menunjukkan notis yang sah dan meminta orang ramai mengosongkan laluan. Aku membantu menyampaikan pembetulan dalam kumpulan sembang.",
+          "Penduduk mengelap lantai bersama-sama dan mula berkongsi pautan notis rasmi apabila menerima berita tentang kemudahan estet."
+        ],
+        "synopsis": "Mesej palsu tentang gangguan bekalan air menghimpunkan jiran-jiran yang tergesa-gesa mencari air.",
+        "imageAlt": "Jiran-jiran membawa baldi ke kolong blok selepas menerima mesej tentang bekalan air."
+      },
+      {
+        "title": "Sangkar di Dataran",
+        "plot": [
+          "Gambar poster palsu yang mendakwa haiwan peliharaan perlu segera didaftarkan semula di dataran estet tersebar dari satu kumpulan kejiranan ke kumpulan lain.",
+          "Kerana risau dikenakan tindakan, beberapa penduduk membawa haiwan mereka. Pertikaian tentang giliran dan bunyi haiwan membuat suasana semakin kecoh.",
+          "Apabila dua barisan bertembung, aku menyemak dengan penganjur kegiatan di dataran. Mereka menunjukkan poster asal untuk kegiatan sukarela pada tarikh lain dan mengesahkan tiada pendaftaran wajib.",
+          "Dengan bantuan sukarelawan, aku menunjukkan poster asal dan memaklumkan jiran cara menghubungi penganjur. Penduduk mula beredar secara teratur.",
+          "Seorang jiran yang tadi mendesak di barisan meminta maaf. Aku sedar desakan untuk bertindak segera menyebabkan kami mudah mempercayai poster palsu."
+        ],
+        "synopsis": "Poster palsu tentang pendaftaran haiwan peliharaan menyebabkan penduduk membanjiri dataran.",
+        "imageAlt": "Beberapa penduduk berhimpun di dataran estet dengan sangkar haiwan peliharaan."
+      },
+      {
+        "title": "Pintu Dewan Berkunci",
+        "plot": [
+          "Menjelang acara pertukaran buku di estet, satu pengumuman palsu bahawa dewan akan ditutup awal tersebar luas. Aku sedang membantu menyusun buku untuk acara tersebut.",
+          "Keluarga bergegas membawa buku sebelum waktu acara. Mereka berkumpul di hadapan pintu yang belum dibuka dan seorang penduduk menuduh petugas membatalkan acara.",
+          "Apabila timbunan buku terjatuh di celah orang ramai, aku meminta penyelaras menunjukkan tempahan dan jadual rasmi yang membuktikan waktu acara masih sama.",
+          "Penyelaras menjelaskan perkara itu di pintu dan membetulkan mesej. Aku membantu penduduk beratur di kawasan lapang sementara menunggu acara bermula.",
+          "Acara berlangsung mengikut jadual. Sebelum pulang, peserta bersetuju merujuk pengumuman rasmi untuk kegiatan seterusnya."
+        ],
+        "synopsis": "Pengumuman palsu tentang penutupan dewan mengubah acara pertukaran buku menjadi kecoh sebelum bermula.",
+        "imageAlt": "Keluarga yang membawa buku berkumpul di luar pintu dewan yang masih tertutup."
+      }
+    ],
+    "storyPrompts": {
+      "turning": "Apakah kemuncak kekecohan dan bagaimana watak menemukan bukti?",
+      "ending": "Apakah kesan kejadian terhadap hubungan atau tabiat penduduk?"
+    },
+    "fahami": {
+      "guiding": [
+        [
+          "Di bahagian manakah dalam estet kejadian itu dapat dilihat?"
+        ],
+        [
+          "Apakah dakwaan yang disebarkan dan mengapakah penduduk mempercayainya?",
+          "Bagaimanakah kebenaran diketahui?"
+        ],
+        [
+          "Apakah tindakan penduduk yang secara langsung mencetuskan kekecohan selepas mereka menerima berita itu?"
+        ]
+      ],
+      "keywords": {
+        "di estet perumahan kamu": "Jadikan tempat tinggal kamu sebahagian daripada kejadian dan reaksi penduduk.",
+        "satu berita palsu yang tersebar": "Nyatakan dakwaan yang salah, cara ia disampaikan dan apa yang membuktikan dakwaan itu palsu.",
+        "kekecohan yang berlaku": "Kekecohan perlu dapat dilihat melalui gangguan atau tindakan penduduk.",
+        "akibat": "Hubungkan perbuatan menyebarkan berita palsu dengan tindakan yang menimbulkan kekecohan."
+      }
+    },
+    "planningTargets": [
+      "Kaitkan satu dakwaan palsu dengan cara ia tersebar dan gangguan yang berlaku di estet perumahan.",
+      "Jelaskan sebab penduduk bertindak, cara kebenaran diketahui dan perubahan keadaan selepas itu."
+    ],
+    "writingPrompts": [
+      "Apakah keadaan estet sebelum berita tersebar dan siapakah yang terkesan?",
+      "Bagaimanakah setiap perkongsian berita mengubah tindakan penduduk?",
+      "Apakah kemuncak kekecohan dan bagaimana watak menemukan bukti?",
+      "Apakah langkah yang diambil selepas kebenaran diketahui?",
+      "Apakah kesan kejadian terhadap hubungan atau tabiat penduduk?"
+    ]
   },
   {
     "id": "N-03",
