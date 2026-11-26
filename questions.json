@@ -2583,20 +2583,44 @@
     ],
     "practiceQuestion": "Gaji merupakan faktor penentu ketika mencari pekerjaan. Bersetujukah kamu? Mengapa?",
     "fahami": {
-      "guiding": [
-        [
-          "Apakah beza antara gaji sebagai satu pertimbangan dengan gaji sebagai faktor yang menentukan pilihan pekerjaan?"
-        ],
-        [
-          "Apakah pendirian kamu terhadap dakwaan tentang gaji itu, dan apakah yang perlu dijelaskan oleh sebab-sebab kamu?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "Gaji": "Gaji ialah bayaran untuk pekerjaan. Nilai peranannya dalam keputusan pencari kerja.",
-        "faktor penentu": "Faktor penentu ialah perkara yang memutuskan pilihan apabila beberapa perkara dipertimbangkan.",
-        "mencari pekerjaan": "Tumpukan hujah pada pilihan ketika mencari kerja.",
-        "Bersetujukah": "Pilih satu pendirian tentang sama ada gaji menentukan pilihan pekerjaan, kemudian jelaskan sebabnya."
-      }
+        "Gaji": "Fikirkan bayaran yang diterima daripada pekerjaan. Apakah kaitannya dengan keputusan menerima sesuatu pekerjaan?",
+        "faktor penentu": "Frasa ini merujuk faktor yang menentukan pilihan akhir. Adakah gaji memainkan peranan sebesar itu?",
+        "mencari pekerjaan": "Tumpukan keputusan ketika menilai pilihan pekerjaan yang tersedia.",
+        "Bersetujukah kamu? Mengapa?": "Pilih satu pendirian tentang sejauh mana gaji menentukan pilihan pekerjaan. Berikan tiga alasan yang konsisten."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Gaji dalam pemilihan pekerjaan",
+          "guiding": [
+            "Apakah yang dinilai oleh seseorang apabila mempertimbangkan gaji bagi sesuatu pekerjaan?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Gaji sebagai faktor penentu",
+          "guiding": [
+            "Apakah bezanya antara faktor yang penting dengan faktor yang menentukan pilihan akhir?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Keputusan ketika mencari pekerjaan",
+          "guiding": [
+            "Pada peringkat manakah seseorang membandingkan pilihan pekerjaannya?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang peranan gaji",
+          "guiding": [
+            "Apakah pendirian kamu tentang dakwaan bahawa gaji menentukan pilihan pekerjaan?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -2676,20 +2700,45 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah kaitan yang didakwa antara penguatkuasaan peraturan dengan reputasi Singapura sebagai negara bersih dan hijau?"
-        ],
-        [
-          "Adakah kamu menerima penjelasan yang diberikan tentang reputasi tersebut?",
-          "Bagaimanakah semua isi kamu akan menyokong pendirian itu?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "bersih dan hijau": "Fokus pada reputasi Singapura dari segi kebersihan dan kehijauan.",
-        "peraturan dan undang-undang": "Pernyataan mengaitkan reputasi itu dengan pelaksanaan peraturan dan undang-undang.",
-        "Setujukah": "Pilih satu pendirian tentang peranan peraturan dalam membina reputasi tersebut."
-      }
+        "reputasi": "Reputasi ialah pandangan yang terbentuk tentang Singapura. Apakah yang membezakan reputasi daripada keadaan yang dilihat di satu tempat sahaja?",
+        "bersih dan hijau": "Soalan merangkumi kebersihan dan keadaan persekitaran yang hijau. Perhatikan kedua-dua aspek.",
+        "kerana": "Perkataan ini menunjukkan dakwaan sebab dan akibat. Teliti hubungan peraturan dengan reputasi tersebut.",
+        "pelaksanaan pelbagai peraturan dan undang-undang": "Fikirkan bagaimana peraturan dilaksanakan dalam amalan.",
+        "Setujukah kamu?": "Pilih satu pendirian tentang peranan pelaksanaan peraturan terhadap reputasi Singapura."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Reputasi Singapura sebagai negara bersih dan hijau",
+          "guiding": [
+            "Apakah yang membuatkan orang menganggap Singapura bersih dan hijau?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Kaitan pelaksanaan peraturan dengan reputasi",
+          "guiding": [
+            "Bagaimanakah kamu menilai sama ada reputasi itu terbentuk kerana pelaksanaan peraturan?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Kebersihan dan kehijauan dalam konteks Singapura",
+          "guiding": [
+            "Adakah pemahaman kamu merangkumi kedua-dua aspek, iaitu kebersihan dan kehijauan?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang sebab reputasi tersebut",
+          "guiding": [
+            "Apakah pendirian yang akan kamu pertahankan tentang hubungan sebab dan akibat itu?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -2769,25 +2818,52 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah yang menjadikan sesuatu tindakan disiplin lebih berat dalam konteks sekolah?"
-        ],
-        [
-          "Apakah yang mendorong pelajar mematuhi peraturan sebelum kesalahan berlaku?",
-          "Adakah sebab pelajar mematuhi peraturan berubah apabila pengawasan berkurang?"
-        ],
-        [
-          "Apakah pendirian kamu terhadap dakwaan itu?",
-          "Bagaimanakah kamu membezakan kesan beratnya hukuman daripada kesan ketekalan pelaksanaannya?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "Hukuman yang berat": "Dalam konteks sekolah, pertimbangkan tindakan disiplin yang tegas, dibenarkan dan setimpal dengan kesalahan.",
-        "Bersetujukah kamu? Mengapa?": "Bina tiga alasan yang menyokong pendirian tentang kesan pencegahan hukuman berat.",
-        "mencegah": "Pencegahan menyentuh keputusan sebelum kesalahan berlaku atau berulang. Perubahan sikap pula boleh mengambil masa.",
-        "melanggar peraturan": "Gunakan peraturan sekolah yang jelas dalam contoh dan terangkan perkara yang boleh menghalang pelanggaran."
-      }
+        "Hukuman yang berat": "Apakah yang menjadikan sesuatu hukuman berat dalam konteks disiplin sekolah?",
+        "mencegah": "Fokus pada langkah yang menghalang pelanggaran sebelum berlaku atau berulang.",
+        "pelajar": "Skop perbincangan tertumpu pada pelajar dan peraturan yang berkaitan dengan mereka.",
+        "melanggar peraturan": "Fikirkan pelanggaran peraturan yang relevan dengan disiplin pelajar.",
+        "Bersetujukah kamu? Mengapa?": "Pilih satu pendirian dan kemukakan tiga alasan yang menyokong pendirian itu."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Hukuman berat dalam konteks disiplin",
+          "guiding": [
+            "Apakah yang dimaksudkan dengan hukuman berat dalam konteks ini?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Pencegahan pelanggaran peraturan",
+          "guiding": [
+            "Apakah bezanya antara mengenakan hukuman dengan mencegah pelanggaran peraturan?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Peraturan dalam kehidupan pelajar",
+          "guiding": [
+            "Apakah jenis peraturan yang sesuai dibincangkan apabila kumpulan sasarannya ialah pelajar?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Tindakan disiplin yang dibenarkan dan setimpal",
+          "guiding": [
+            "Bagaimanakah kamu membezakan tindakan disiplin yang tegas dan setimpal daripada tindakan yang melampaui batas?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang kesan pencegahan",
+          "guiding": [
+            "Apakah pendirian kamu tentang kemampuan hukuman berat mencegah pelanggaran?"
+          ]
+        }
+      ]
     },
     "planningTargets": [
       "Takrifkan hukuman berat sebagai tindakan disiplin yang dibenarkan dan nilai kaitannya dengan keputusan sebelum pelanggaran berlaku.",
@@ -2877,25 +2953,52 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah yang membezakan pengguna yang efektif daripada seseorang yang sekadar kerap menggunakan peranti?"
-        ],
-        [
-          "Apakah cabaran baharu yang perlu dihadapi?",
-          "Bagaimanakah seseorang boleh terus berfungsi apabila cara belajar, bekerja atau mendapatkan perkhidmatan berubah?"
-        ],
-        [
-          "Apakah pendirian kamu tentang perkataan “perlu”?",
-          "Mengapakah contoh kamu menyokong pendirian itu?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "pengguna teknologi yang efektif": "Pengguna yang efektif memilih dan menggunakan alat yang sesuai secara bertujuan, cekap dan bertanggungjawab.",
-        "untuk bertahan": "Dalam konteks ini, bertahan boleh bermaksud kekal mampu belajar, bekerja atau mengurus kehidupan apabila tuntutan berubah.",
-        "Bersetujukah kamu? Mengapa?": "Pilih satu pendirian tentang keperluan tersebut dan bina tiga sebab yang menyokongnya.",
-        "dunia yang berkembang dengan cepat ini": "Jelaskan perubahan yang berlaku dan bagaimana perubahan itu menimbulkan keperluan baharu."
-      }
+        "perlu": "Fikirkan sama ada penggunaan teknologi secara berkesan merupakan suatu keperluan atau memberikan kelebihan sahaja.",
+        "pengguna teknologi yang efektif": "Apakah yang membezakan penggunaan teknologi secara berkesan daripada penggunaan yang kerap?",
+        "untuk bertahan": "Fikirkan keupayaan seseorang untuk menyesuaikan diri dan terus menghadapi tuntutan kehidupan.",
+        "dunia yang berkembang dengan cepat": "Apakah perubahan dalam kehidupan masa kini yang perlu dihadapi oleh seseorang?",
+        "Bersetujukah kamu? Mengapa?": "Nyatakan satu pendirian dan kemukakan tiga alasan yang menyokongnya."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Penggunaan teknologi secara berkesan",
+          "guiding": [
+            "Apakah ciri penggunaan teknologi yang boleh dianggap efektif?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Keperluan menggunakan teknologi untuk bertahan",
+          "guiding": [
+            "Apakah yang perlu dibuktikan jika kamu mendakwa bahawa penggunaan teknologi secara berkesan merupakan satu keperluan?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Penggunaan teknologi yang bertujuan dan bertanggungjawab",
+          "guiding": [
+            "Bagaimanakah kamu menilai sama ada seseorang memilih alat yang sesuai dan menggunakannya dengan bertanggungjawab?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Tuntutan kehidupan dalam dunia yang cepat berubah",
+          "guiding": [
+            "Apakah perubahan yang relevan dengan keupayaan seseorang untuk terus belajar, bekerja atau mengurus kehidupan?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang keperluan tersebut",
+          "guiding": [
+            "Apakah pendirian yang akan kamu pertahankan tentang dakwaan ini?"
+          ]
+        }
+      ]
     },
     "planningTargets": [
       "Takrifkan penggunaan efektif dan maksud bertahan dalam latar perubahan pesat.",
@@ -2987,20 +3090,44 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah hubungan yang perlu kamu nilai antara pencapaian akademik dengan cara rakan melayan seseorang pelajar?"
-        ],
-        [
-          "Apakah pendirian kamu tentang sama ada pelajar cemerlang lebih disenangi?",
-          "Bagaimanakah isi kamu akan menjawab perbandingan itu?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "keputusan akademik yang baik": "Pencapaian akademik ialah faktor yang dikaitkan dengan penerimaan rakan.",
-        "lebih disenangi": "Lebih disenangi menunjukkan perbandingan dalam cara pelajar diterima oleh rakan.",
-        "Setujukah": "Pilih satu pendirian tentang kaitan antara keputusan akademik dengan penerimaan rakan."
-      }
+        "keputusan akademik yang baik": "Pencapaian yang dimaksudkan ialah keputusan pelajaran.",
+        "lebih disenangi": "Frasa ini meminta perbandingan tentang sejauh mana seseorang disukai atau diterima.",
+        "rakan-rakan": "Tumpukan hubungan pelajar dengan rakan mereka.",
+        "Setujukah kamu?": "Pilih satu pendirian tentang hubungan pencapaian akademik dengan penerimaan rakan."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Pencapaian akademik pelajar",
+          "guiding": [
+            "Apakah pencapaian yang menjadi tumpuan pernyataan ini?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Kaitan antara keputusan dan penerimaan rakan",
+          "guiding": [
+            "Apakah bezanya antara menghormati pencapaian seseorang dengan menyenangi orang itu?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Hubungan pelajar dengan rakan",
+          "guiding": [
+            "Hubungan dengan siapakah yang sepatutnya menjadi tumpuan kamu?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang perbandingan itu",
+          "guiding": [
+            "Apakah pendirian kamu terhadap dakwaan bahawa pelajar dengan keputusan baik lebih disenangi?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3070,20 +3197,44 @@
     ],
     "practiceQuestion": "Jika kita mempunyai kesedaran tentang kekurangan yang ada di dalam diri kita dan seterusnya berusaha untuk meningkatkan diri, pasti kita akan berjaya. Bincangkan.",
     "fahami": {
-      "guiding": [
-        [
-          "Apakah beza antara menyedari kekurangan diri dengan bertindak untuk memperbaikinya?"
-        ],
-        [
-          "Apakah yang perlu dipertimbangkan pada kedua-dua sudut apabila pernyataan menggunakan perkataan “pasti” tentang kejayaan?"
-        ]
-      ],
+      "kind": "imbang",
+      "version": 1,
       "keywords": {
-        "kesedaran tentang kekurangan": "Kesedaran bermula dengan mengenal pasti kelemahan sendiri.",
-        "meningkatkan diri": "Pernyataan menghubungkan kesedaran dengan usaha untuk memperbaiki diri.",
-        "pasti kita akan berjaya": "Perkataan “pasti” membawa maksud jaminan. Nilai kekuatan dakwaan itu.",
-        "Bincangkan": "Pertimbangkan secara seimbang sejauh mana kesedaran dan usaha menjamin kejayaan."
-      }
+        "kesedaran tentang kekurangan": "Teliti peranan menyedari kelemahan diri sebagai langkah awal.",
+        "berusaha untuk meningkatkan diri": "Kesedaran diikuti tindakan. Fikirkan hubungan antara kedua-duanya.",
+        "pasti": "Perkataan ini menyatakan kepastian. Pertimbangkan sama ada kejayaan benar-benar terjamin.",
+        "Bincangkan": "Teliti dua alasan yang menyokong dan dua yang mencabar dakwaan, lalu rumuskan secara seimbang."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Kesedaran diri dan usaha memperbaik diri",
+          "guiding": [
+            "Apakah perubahan yang berlaku apabila kesedaran tentang kekurangan disusuli tindakan?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Dakwaan bahawa usaha itu pasti membawa kejayaan",
+          "guiding": [
+            "Bagaimanakah perkataan “pasti” mempengaruhi kekuatan dakwaan ini?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Kejayaan dalam konteks usaha memperbaik diri",
+          "guiding": [
+            "Dalam konteks yang dipilih, apakah hasil yang munasabah dianggap sebagai kejayaan?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Perbincangan seimbang tentang kepastian kejayaan",
+          "guiding": [
+            "Bagaimanakah kamu boleh mempertimbangkan kedua-dua sudut dan merumuskan sejauh mana kejayaan terjamin?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3184,20 +3335,44 @@
     ],
     "practiceQuestion": "Mempelajari kemahiran baharu menjadi lebih mudah dengan adanya kursus yang ditawarkan secara dalam talian. Bincangkan.",
     "fahami": {
-      "guiding": [
-        [
-          "Apakah yang dibandingkan apabila soalan mengatakan kursus dalam talian menjadikan pembelajaran kemahiran baharu “lebih mudah”?"
-        ],
-        [
-          "Dalam keadaan apakah dakwaan tentang kemudahan itu boleh diterima atau dipersoalkan?"
-        ]
-      ],
+      "kind": "imbang",
+      "version": 1,
       "keywords": {
-        "kemahiran baharu": "Fokus pada kemahiran yang belum dikuasai oleh pelajar kursus.",
-        "lebih mudah": "Bandingkan kemudahan mempelajari kemahiran dengan dan tanpa kursus dalam talian.",
-        "kursus yang ditawarkan secara dalam talian": "Skop soalan ialah pembelajaran melalui kursus yang ditawarkan dalam talian.",
-        "Bincangkan": "Timbang hujah yang menyokong dan yang mempersoalkan dakwaan tentang kemudahan belajar."
-      }
+        "Mempelajari kemahiran baharu": "Fokus pada proses menguasai kemahiran yang belum dimiliki.",
+        "lebih mudah": "Kenal pasti asas perbandingannya. Apakah yang membuatkan proses mempelajari sesuatu kemahiran lebih mudah?",
+        "kursus yang ditawarkan secara dalam talian": "Tumpukan kursus dalam talian sebagai cara mempelajari kemahiran.",
+        "Bincangkan": "Pertimbangkan dua alasan yang menyokong dan dua yang mencabar dakwaan. Akhiri dengan rumusan seimbang."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Pembelajaran kemahiran baharu",
+          "guiding": [
+            "Apakah yang menunjukkan seseorang sudah mula menguasai kemahiran baharu?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Kemudahan belajar melalui kursus dalam talian",
+          "guiding": [
+            "Apakah ukuran yang akan kamu gunakan untuk menilai sama ada proses pembelajaran lebih mudah?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Pembelajaran melalui kursus dalam talian",
+          "guiding": [
+            "Adakah perbincangan kamu menyentuh proses mengikuti kursus dan jenis kemahiran yang berkaitan?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Perbincangan seimbang tentang kemudahan belajar",
+          "guiding": [
+            "Apakah keadaan yang boleh kamu pertimbangkan semasa meneliti kedua-dua sudut?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3277,20 +3452,44 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah yang perlu dibandingkan untuk menilai sama ada minat belia terhadap filem tempatan semakin meningkat?"
-        ],
-        [
-          "Apakah pendirian kamu terhadap perubahan minat belia itu, dan adakah semua sebab kamu merujuk kepada filem tempatan?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "Filem tempatan": "Skopnya filem tempatan. Kekalkan fokus ini apabila menilai minat penonton.",
-        "semakin popular": "Perkataan “semakin” merujuk kepada peningkatan minat dari semasa ke semasa.",
-        "belia": "Nilai populariti khusus dalam kalangan belia.",
-        "Bersetujukah": "Pilih satu pendirian tentang sama ada filem tempatan semakin popular dalam kalangan belia."
-      }
+        "Filem tempatan": "Tetapkan konteks tempatan apabila memilih filem atau contoh yang relevan.",
+        "semakin popular": "Perkataan “semakin” merujuk perubahan dari semasa ke semasa.",
+        "dalam kalangan belia": "Teliti sambutan belia sebagai kumpulan penonton yang ditetapkan.",
+        "Bersetujukah kamu?": "Pilih pendirian tentang dakwaan bahawa populariti itu meningkat dalam kalangan belia."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Sambutan terhadap filem tempatan",
+          "guiding": [
+            "Apakah yang dimaksudkan dengan filem tempatan dalam konteks yang kamu pilih?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Perubahan tahap populariti",
+          "guiding": [
+            "Bagaimanakah kamu membezakan populariti sedia ada daripada populariti yang semakin meningkat?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Belia sebagai penonton",
+          "guiding": [
+            "Sambutan kumpulan penonton yang manakah perlu kamu teliti?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang peningkatan populariti",
+          "guiding": [
+            "Apakah pendirian yang boleh kamu pertahankan tentang perubahan sambutan belia?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3370,20 +3569,45 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah perbezaan antara buku digital yang semakin digunakan dengan buku bercetak yang digantikan dalam masa terdekat?"
-        ],
-        [
-          "Apakah pendirian kamu tentang penggantian tersebut, dan bagaimana hujah kamu mengambil kira kata “segera”?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "Buku digital": "Nilai peranan bahan bacaan berformat digital berbanding bahan bercetak.",
-        "menggantikan buku bercetak": "Menggantikan bermaksud mengambil alih peranan buku bercetak. Soalan juga menekankan masa terdekat.",
-        "Bersetujukah": "Pilih satu pendirian tentang kemungkinan penggantian dalam masa terdekat dan berikan alasan.",
-        "segera": "Dakwaan ini tentang masa terdekat. Fikirkan sejauh mana tempoh itu mempengaruhi pendirian kamu."
-      }
+        "Buku digital": "Fikirkan bahan bacaan dalam bentuk buku digital.",
+        "segera": "Soalan meminta pertimbangan tentang jangka masa yang dekat.",
+        "menggantikan": "Nilai sama ada buku digital akan mengambil alih peranan buku bercetak.",
+        "buku bercetak": "Frasa ini menetapkan bahan yang didakwa akan digantikan.",
+        "Bersetujukah kamu? Mengapa?": "Pilih satu pendirian tentang kemungkinan penggantian dalam masa terdekat."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Dua bentuk buku",
+          "guiding": [
+            "Apakah bentuk bahan bacaan yang dibandingkan dalam pernyataan ini?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Penggantian buku bercetak dalam masa terdekat",
+          "guiding": [
+            "Apakah bezanya antara dua bentuk buku yang digunakan serentak dengan satu bentuk yang menggantikan bentuk lain?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Penggunaan buku dalam jangka masa dekat",
+          "guiding": [
+            "Apakah keadaan pembacaan yang wajar dipertimbangkan untuk menilai perkataan “segera”?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang kemungkinan penggantian",
+          "guiding": [
+            "Apakah pendirian kamu terhadap dakwaan tentang penggantian buku bercetak dalam masa terdekat?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3463,19 +3687,43 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah yang dimaksudkan dengan takut akan kegagalan dalam konteks belia hari ini?"
-        ],
-        [
-          "Apakah pendirian kamu terhadap pernyataan tentang belia itu, dan apakah yang perlu alasan kamu buktikan?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "Belia hari ini": "Hadkan perbincangan kepada belia pada masa kini.",
-        "takut akan kegagalan": "Fokus pada kebimbangan terhadap kemungkinan gagal dan bagaimana sikap itu dapat dikenal pasti.",
-        "Bersetujukah": "Pilih satu pendirian tentang sama ada gambaran itu sesuai bagi belia hari ini."
-      }
+        "Belia hari ini": "Skopnya ialah golongan muda dalam konteks masa kini.",
+        "takut akan kegagalan": "Teliti kebimbangan terhadap kemungkinan gagal dan bagaimana kebimbangan itu mempengaruhi tindakan belia.",
+        "Bersetujukah kamu dengan pernyataan ini? Mengapa?": "Nyatakan pendirian tentang dakwaan ini dan pertahankannya dengan alasan yang konsisten."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Kebimbangan terhadap kegagalan",
+          "guiding": [
+            "Apakah yang mungkin dimaksudkan dengan kegagalan dalam kehidupan belia?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Dakwaan bahawa belia takut akan kegagalan",
+          "guiding": [
+            "Bagaimanakah kamu membezakan rasa takut akan kegagalan daripada sikap berhati-hati?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Belia dalam konteks semasa",
+          "guiding": [
+            "Apakah situasi yang relevan dengan kehidupan belia hari ini?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian terhadap dakwaan tentang belia",
+          "guiding": [
+            "Bagaimanakah kamu akan mempertahankan pendirian kamu tentang dakwaan ini?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3555,19 +3803,43 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah ukuran yang kamu perlukan sebelum menyifatkan sesuatu cara membeli-belah sebagai yang terbaik?"
-        ],
-        [
-          "Apakah pendirian kamu tentang kedudukan membeli-belah dalam talian apabila dibandingkan dengan cara lain?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "Membeli barang secara dalam talian": "Yang dinilai ialah cara mendapatkan barang melalui pembelian dalam talian.",
-        "cara yang terbaik": "“Terbaik” menuntut ukuran perbandingan dengan cara membeli-belah lain.",
-        "Bersetujukah": "Pilih satu pendirian tentang sama ada pembelian dalam talian merupakan cara yang terbaik."
-      }
+        "Membeli barang secara dalam talian": "Fokus pada urusan membeli barang melalui saluran dalam talian.",
+        "cara yang terbaik": "“Terbaik” ialah penilaian berbanding cara lain. Apakah ukuran yang sesuai untuk membuat perbandingan itu?",
+        "Bersetujukah kamu? Mengapa?": "Pilih pendirian tentang dakwaan bahawa cara ini paling baik untuk membeli-belah."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Cara membeli-belah",
+          "guiding": [
+            "Apakah cara membeli-belah yang menjadi tumpuan pernyataan ini?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Penilaian cara yang terbaik",
+          "guiding": [
+            "Apakah ukuran yang membantu kamu menentukan cara yang terbaik bagi pembeli?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Pembelian barang dan keperluan pembeli",
+          "guiding": [
+            "Bagaimanakah jenis barang atau keadaan pembeli boleh mempengaruhi batas perbandingan kamu?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang pembelian dalam talian",
+          "guiding": [
+            "Apakah pendirian kamu apabila cara dalam talian dibandingkan dengan cara lain?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3647,20 +3919,44 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah beza antara mengatakan kemenangan ada nilainya dengan mengatakan kemenangan ialah perkara terpenting dalam hidup?"
-        ],
-        [
-          "Jika kamu bersetuju dengan pernyataan itu, apakah dakwaan tentang kedudukan kemenangan yang sebenarnya kamu terima?",
-          "Jika tidak, apakah yang kamu pertahankan?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "Kemenangan": "Fokus pada tempat kemenangan dalam keutamaan hidup seseorang.",
-        "bukanlah perkara yang paling penting": "Perhatikan penafian dalam ayat. Pernyataan mempersoalkan kedudukan kemenangan sebagai keutamaan tertinggi.",
-        "Bersetujukah": "Nyatakan sama ada kamu menerima atau menolak dakwaan tentang kedudukan kemenangan dalam hidup."
-      }
+        "Kemenangan": "Fikirkan makna kemenangan dalam konteks kehidupan yang sesuai.",
+        "bukanlah perkara yang paling penting": "Pernyataan menilai kedudukan kemenangan berbanding perkara lain yang bernilai.",
+        "dalam kehidupan": "Pertimbangkan pengalaman hidup yang dapat menunjukkan nilai kemenangan dan perkara lain.",
+        "Bersetujukah kamu dengan pernyataan ini? Mengapa?": "Pastikan pendirian kamu menjawab sama ada kemenangan menduduki tempat paling penting."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Kemenangan dalam kehidupan",
+          "guiding": [
+            "Apakah yang boleh dianggap sebagai kemenangan dalam konteks yang kamu pilih?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Kedudukan kemenangan berbanding perkara lain",
+          "guiding": [
+            "Apakah bezanya antara menganggap kemenangan itu penting dengan menganggapnya perkara paling penting?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Pengalaman hidup yang relevan",
+          "guiding": [
+            "Dalam situasi apakah perbandingan tentang perkara yang penting dapat dibuat dengan jelas?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang kedudukan kemenangan",
+          "guiding": [
+            "Adakah pendirian kamu selaras dengan susunan keutamaan dalam pernyataan ini?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3741,20 +4037,44 @@
     ],
     "practiceQuestion": "Seseorang yang dapat menyesuaikan diri dengan apa-apa jua perubahan boleh berjaya dalam kehidupan. Bersetujukah kamu? Mengapa?",
     "fahami": {
-      "guiding": [
-        [
-          "Apakah kaitan yang dinyatakan antara kebolehan menyesuaikan diri dengan kemungkinan untuk berjaya?"
-        ],
-        [
-          "Apakah pendirian kamu tentang kaitan itu, dan adakah hujah kamu menerangkan peranan penyesuaian diri?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "menyesuaikan diri": "Ini bermaksud mengubah cara bertindak agar sesuai dengan keadaan baharu.",
-        "perubahan": "Frasa “apa-apa jua” meluaskan jenis perubahan yang perlu dipertimbangkan.",
-        "berjaya dalam kehidupan": "Tentukan makna kejayaan yang sesuai untuk menilai kaitannya dengan penyesuaian diri.",
-        "Bersetujukah": "Pilih satu pendirian tentang sama ada kebolehan menyesuaikan diri membantu seseorang berjaya."
-      }
+        "menyesuaikan diri": "Fikirkan bagaimana seseorang mengubah tindakan apabila menghadapi keadaan baharu.",
+        "apa-apa jua perubahan": "Dakwaan ini meliputi pelbagai perubahan. Teliti keluasan skopnya.",
+        "boleh berjaya": "Perkataan “boleh” menyatakan kemungkinan. Apakah hubungan penyesuaian diri dengan peluang berjaya?",
+        "Bersetujukah kamu? Mengapa?": "Pilih satu pendirian tentang kaitan penyesuaian diri dengan kejayaan."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Penyesuaian diri terhadap perubahan",
+          "guiding": [
+            "Apakah yang menunjukkan seseorang mampu menyesuaikan diri?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Kaitan penyesuaian dengan peluang mencapai kejayaan",
+          "guiding": [
+            "Apakah yang perlu kamu terangkan untuk menunjukkan bahawa keupayaan menyesuaikan diri mempengaruhi kejayaan?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Pelbagai perubahan dalam kehidupan",
+          "guiding": [
+            "Bagaimanakah frasa “apa-apa jua” mempengaruhi jenis situasi yang perlu kamu pertimbangkan?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang kemungkinan berjaya",
+          "guiding": [
+            "Apakah pendirian kamu tentang peluang seseorang berjaya apabila dia dapat menyesuaikan diri?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3834,19 +4154,44 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Manfaat dan mudarat perlu dinilai dalam lingkungan tempat yang bagaimana?"
-        ],
-        [
-          "Apakah pendirian kamu tentang sama ada mudarat melebihi faedah, dan apakah yang mesti dibandingkan dalam hujah kamu?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "Pusat beli-belah": "Nilai pusat beli-belah dalam konteks estet perumahan dan pihak yang menerima kesannya.",
-        "lebih banyak mudarat daripada faedah": "Timbang berat kesan buruk berbanding manfaat sebelum mengambil pendirian.",
-        "Bersetujukah": "Pilih satu pendirian tentang sama ada mudarat pusat beli-belah di estet melebihi faedahnya."
-      }
+        "Pusat beli-belah": "Pilih contoh yang benar-benar berkaitan dengan pusat beli-belah.",
+        "di estet perumahan": "Nilai kesan lokasi pusat itu terhadap kawasan tempat tinggal.",
+        "lebih banyak mudarat daripada faedah": "Bandingkan kesan buruk dengan manfaat sebelum mempertahankan penilaian kamu.",
+        "Bersetujukah kamu? Mengapa?": "Pilih satu pendirian tentang hasil perbandingan kesan itu."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Pusat beli-belah di kawasan tempat tinggal",
+          "guiding": [
+            "Apakah yang membezakan pusat beli-belah di estet perumahan daripada pusat beli-belah di lokasi lain?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Perbandingan mudarat dengan faedah",
+          "guiding": [
+            "Bagaimanakah kamu akan menilai sama ada kesan buruk melebihi manfaatnya?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Kesan di estet perumahan",
+          "guiding": [
+            "Siapakah yang terjejas secara langsung oleh kedudukan pusat beli-belah itu?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang kesan keseluruhan",
+          "guiding": [
+            "Apakah pendirian kamu tentang dakwaan bahawa mudaratnya lebih banyak?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -3927,20 +4272,44 @@
     ],
     "practiceQuestion": "Nilai sebenar persahabatan hanya dapat dilihat pada masa-masa susah. Bersetujukah kamu? Mengapa?",
     "fahami": {
-      "guiding": [
-        [
-          "Apakah yang dimaksudkan dengan melihat nilai sebenar sesuatu persahabatan ketika menghadapi kesusahan?"
-        ],
-        [
-          "Apakah kesan perkataan “hanya” terhadap pendirian kamu tentang bila nilai persahabatan dapat dilihat?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "Nilai sebenar persahabatan": "Fokus pada perkara yang menunjukkan mutu hubungan antara sahabat.",
-        "masa-masa susah": "Kesusahan ialah keadaan yang dikatakan menyingkap nilai persahabatan. Perhatikan kata “hanya”.",
-        "Bersetujukah": "Pilih satu pendirian tentang sama ada nilai persahabatan hanya terserlah pada waktu sukar.",
-        "hanya": "Soalan mengehadkan keadaan yang dapat menyingkap nilai persahabatan kepada saat susah sahaja."
-      }
+        "Nilai sebenar persahabatan": "Teliti mutu persahabatan yang dapat dikenal melalui tingkah laku rakan.",
+        "hanya": "Perkataan ini mengehadkan keadaan yang didakwa dapat memperlihatkan nilai persahabatan.",
+        "masa-masa susah": "Fikirkan keadaan yang mencabar hubungan antara sahabat.",
+        "Bersetujukah kamu? Mengapa?": "Pilih pendirian tentang sama ada masa susah ialah satu-satunya keadaan yang memperlihatkan nilai persahabatan."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Mutu persahabatan",
+          "guiding": [
+            "Apakah yang dimaksudkan dengan nilai sebenar persahabatan?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Masa susah sebagai satu-satunya keadaan yang memperlihatkan nilai itu",
+          "guiding": [
+            "Apakah yang perlu dibuktikan apabila pernyataan menggunakan perkataan “hanya”?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Keadaan yang menguji persahabatan",
+          "guiding": [
+            "Apakah keadaan yang munasabah dianggap sebagai masa susah bagi seseorang?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang batas dakwaan",
+          "guiding": [
+            "Apakah pendirian kamu terhadap dakwaan bahawa nilai itu hanya terlihat pada masa susah?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -4020,20 +4389,44 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah maksud membentuk perwatakan pelajar, dan siapakah yang dianggap mampu melakukannya dalam pernyataan itu?"
-        ],
-        [
-          "Adakah kamu menerima dakwaan bahawa sekolah ialah satu-satunya pihak yang boleh berbuat demikian?",
-          "Apakah yang perlu dibuktikan oleh alasan kamu?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "Hanya sekolah": "“Hanya” menjadikan sekolah satu-satunya pihak dalam dakwaan tersebut.",
-        "membentuk perwatakan": "Perwatakan merujuk kepada sifat dan cara seseorang membawa diri.",
-        "Bersetujukah": "Pilih satu pendirian tentang dakwaan bahawa pembentukan perwatakan pelajar bergantung pada sekolah sahaja."
-      }
+        "Hanya sekolah": "Frasa ini menyatakan sekolah sebagai satu-satunya pihak yang mampu membentuk perwatakan.",
+        "membentuk perwatakan": "Fokus pada pembentukan sifat dan tingkah laku seseorang.",
+        "para pelajar": "Batas perbincangan ialah perwatakan pelajar.",
+        "Bersetujukah kamu? Mengapa?": "Pilih pendirian tentang dakwaan bahawa sekolah ialah satu-satunya pihak yang dapat membentuk perwatakan pelajar."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Pembentukan perwatakan pelajar",
+          "guiding": [
+            "Apakah sifat atau tingkah laku yang menunjukkan perwatakan seseorang pelajar?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Sekolah sebagai satu-satunya pihak yang berperanan",
+          "guiding": [
+            "Apakah perbezaan antara peranan sekolah yang penting dengan dakwaan bahawa hanya sekolah boleh membentuk perwatakan?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Pihak yang mempengaruhi pelajar",
+          "guiding": [
+            "Dalam lingkungan kehidupan pelajar, apakah konteks yang relevan dengan pembentukan perwatakan?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian terhadap dakwaan tentang sekolah",
+          "guiding": [
+            "Apakah yang perlu dibuktikan untuk mempertahankan pendirian kamu tentang perkataan “hanya”?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -4113,19 +4506,44 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah faktor yang dibandingkan apabila soalan memperkatakan sebab seseorang dihormati?"
-        ],
-        [
-          "Apakah pendirian kamu tentang nilai murni sebagai asas penghormatan, dan bagaimana isi kamu akan menangani perbandingan itu?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "bakat, pendidikan atau kekayaannya": "Ketiga-tiga perkara ini dibandingkan dengan nilai murni sebagai asas penghormatan.",
-        "nilai-nilai murni": "Fokus pada prinsip baik yang menjadi pegangan seseorang dan kaitannya dengan penghormatan.",
-        "Bersetujukah": "Pilih satu pendirian tentang asas penghormatan yang lebih penting dan pertahankan pilihan itu."
-      }
+        "dihormati": "Tumpukan rasa hormat yang diberikan kepada seseorang.",
+        "bukan berdasarkan bakat, pendidikan atau kekayaannya": "Fikirkan kedudukan tiga faktor ini dalam perbandingan tentang asas rasa hormat.",
+        "lebih kepada nilai-nilai murni yang dipegangnya": "Frasa ini memberi keutamaan kepada nilai murni. Apakah yang menunjukkan seseorang benar-benar berpegang pada nilai itu?",
+        "Bersetujukah kamu? Mengapa?": "Pilih pendirian tentang asas seseorang dihormati dan pertahankan perbandingannya."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Asas seseorang dihormati",
+          "guiding": [
+            "Apakah yang dimaksudkan dengan dihormati dalam hubungan dengan orang lain?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Perbandingan antara nilai murni dengan bakat, pendidikan atau kekayaan",
+          "guiding": [
+            "Apakah yang perlu ditunjukkan untuk menyokong atau mencabar keutamaan nilai murni?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Faktor yang berkaitan dengan rasa hormat",
+          "guiding": [
+            "Adakah faktor yang kamu pertimbangkan sepadan dengan perbandingan yang dinyatakan?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang faktor yang lebih menentukan rasa hormat",
+          "guiding": [
+            "Apakah pendirian kamu tentang perbandingan ini?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -4194,20 +4612,44 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah bezanya menetapkan matlamat dengan merancang cara mencapainya?"
-        ],
-        [
-          "Apakah yang perlu kamu timbang pada kedua-dua sudut apabila ketiadaan rancangan dikatakan menjadikan matlamat sia-sia?"
-        ]
-      ],
+      "kind": "imbang",
+      "version": 1,
       "keywords": {
-        "matlamat": "Matlamat ialah hasil yang ingin dicapai. Bezakan matlamat daripada langkah mencapainya.",
-        "tanpa apa-apa perancangan": "Pernyataan menilai matlamat yang ditetapkan tanpa rancangan tindakan.",
-        "sia-sia": "“Sia-sia belaka” menyatakan bahawa usaha itu langsung tidak membawa hasil yang berguna.",
-        "Bincangkan": "Pertimbangkan secara seimbang sejauh mana ketiadaan rancangan menjadikan matlamat sia-sia."
-      }
+        "Sesuatu matlamat": "Tumpukan hasil yang ingin dicapai oleh seseorang atau kumpulan.",
+        "tanpa apa-apa perancangan": "Fikirkan keadaan ketiadaan rancangan, termasuk rancangan yang ringkas.",
+        "sia-sia belaka": "Frasa ini menyatakan bahawa usaha mencapai matlamat tidak membawa hasil yang bermakna.",
+        "Bincangkan": "Pertimbangkan dua alasan yang menyokong dakwaan dan dua yang mencabarnya, kemudian rumuskan secara seimbang."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Matlamat dan perancangan",
+          "guiding": [
+            "Apakah hubungan antara hasil yang ingin dicapai dengan persediaan untuk mencapainya?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Dakwaan bahawa matlamat tanpa rancangan sia-sia",
+          "guiding": [
+            "Bagaimanakah kekuatan frasa “sia-sia belaka” mempengaruhi perkara yang perlu kamu nilai?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Keadaan tanpa perancangan",
+          "guiding": [
+            "Bagaimanakah kamu membezakan ketiadaan rancangan daripada rancangan yang dibuat secara ringkas?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Perbincangan seimbang tentang peranan perancangan",
+          "guiding": [
+            "Bagaimanakah kamu boleh merumuskan perbezaan antara keadaan yang menyokong dan keadaan yang mencabar dakwaan?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -4287,20 +4729,44 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah hubungan yang didakwa antara filem masa kini dengan pegangan hidup belia?"
-        ],
-        [
-          "Apakah pendirian kamu terhadap pengaruh itu, dan bagaimanakah kamu akan memastikan isi kamu menyentuh nilai hidup?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "Filem hari ini": "Fokus pada filem masa kini dan pengaruhnya kepada penonton muda.",
-        "membentuk nilai-nilai hidup": "Soalan menilai kesan filem terhadap prinsip hidup yang dipegang oleh belia.",
-        "belia": "Pihak yang dinilai ialah belia yang mungkin dipengaruhi oleh filem.",
-        "Bersetujukah": "Pilih satu pendirian tentang pengaruh filem masa kini terhadap pegangan hidup belia."
-      }
+        "Filem hari ini": "Tumpukan filem yang relevan dengan pengalaman menonton belia masa kini.",
+        "dapat membentuk": "Teliti kemungkinan filem mempengaruhi cara belia memahami dan menghayati sesuatu nilai.",
+        "nilai-nilai hidup yang dipegang oleh belia kita": "Skopnya merangkumi pegangan nilai belia, termasuk cara nilai itu tercermin dalam pilihan mereka.",
+        "Bersetujukah kamu? Mengapa?": "Pilih satu pendirian tentang pengaruh filem terhadap nilai hidup belia."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Filem masa kini dan nilai hidup",
+          "guiding": [
+            "Apakah nilai hidup yang boleh dikenal pasti apabila belia menonton sesebuah filem?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Pengaruh filem terhadap pembentukan nilai",
+          "guiding": [
+            "Apakah bezanya antara mengingati mesej filem dengan mula menghayati nilai tersebut?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Belia dan tontonan masa kini",
+          "guiding": [
+            "Mengapakah contoh yang kamu pilih relevan dengan belia masa kini?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang pengaruh filem",
+          "guiding": [
+            "Apakah pendirian yang akan kamu pertahankan tentang kemampuan filem membentuk nilai?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -4369,20 +4835,44 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah dua pendekatan yang dibandingkan, dan apakah makna “lebih baik” dalam perbandingan itu?"
-        ],
-        [
-          "Dalam keadaan apakah dakwaan bahawa kasih sayang lebih berkesan daripada disiplin boleh diterima atau dipersoalkan?"
-        ]
-      ],
+      "kind": "imbang",
+      "version": 1,
       "keywords": {
-        "Belaian kasih sayang": "Fahami kasih sayang sebagai satu pendekatan untuk membimbing seseorang.",
-        "lebih baik": "Tentukan hasil yang dimaksudkan apabila seseorang dikatakan menjadi “lebih baik”.",
-        "tindakan disiplin": "Tindakan disiplin ialah pendekatan yang dibandingkan dengan bimbingan penuh kasih sayang.",
-        "Bincangkan": "Timbang keberkesanan kedua-dua pendekatan secara seimbang dalam konteks membimbing seseorang."
-      }
+        "Belaian kasih sayang": "Fikirkan pendekatan yang menunjukkan perhatian dan sokongan terhadap seseorang.",
+        "menjadikan seseorang itu lebih baik": "Jelaskan perubahan yang akan dinilai apabila mempertimbangkan maksud “lebih baik”.",
+        "berbanding dengan tindakan disiplin": "Nilai kedua-dua pendekatan menggunakan ukuran perubahan yang sepadan.",
+        "Bincangkan": "Teliti dua alasan yang menyokong perbandingan dan dua yang mencabarnya, kemudian buat rumusan seimbang."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Kasih sayang dan tindakan disiplin",
+          "guiding": [
+            "Apakah yang membezakan dua cara membimbing seseorang dalam pernyataan ini?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Perbandingan kesan terhadap perubahan seseorang",
+          "guiding": [
+            "Apakah tanda yang menunjukkan seseorang berubah menjadi lebih baik?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Keadaan yang sesuai untuk membandingkan kedua-dua pendekatan",
+          "guiding": [
+            "Bagaimanakah keadaan yang dihadapi seseorang mempengaruhi kesesuaian perbandingan?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Perbincangan seimbang tentang keberkesanan pendekatan",
+          "guiding": [
+            "Bagaimanakah kamu akan merumuskan penilaian berasaskan kedua-dua sudut?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -4451,19 +4941,44 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah hubungan sebab dan akibat yang didakwa antara teknologi dengan sikap tidak peduli?"
-        ],
-        [
-          "Apakah yang perlu kamu pertimbangkan untuk menilai dakwaan tentang teknologi itu daripada kedua-dua sudut?"
-        ]
-      ],
+      "kind": "imbang",
+      "version": 1,
       "keywords": {
-        "Teknologi": "Fokus pada hubungan antara penggunaan teknologi dengan tingkah laku masyarakat.",
-        "tidak ambil peduli": "Ini merujuk kepada sikap kurang peka atau kurang mengambil berat terhadap keadaan sekeliling.",
-        "Bincangkan": "Nilai secara seimbang sama ada teknologi menyebabkan masyarakat kurang mengambil berat."
-      }
+        "Teknologi": "Pilih penggunaan teknologi yang relevan dengan sikap terhadap orang lain.",
+        "melahirkan": "Perkataan ini menyatakan hubungan sebab dan akibat. Apakah yang perlu diperlihatkan untuk menilai hubungan itu?",
+        "masyarakat yang bersikap tidak ambil peduli": "Fokus pada sikap terhadap keperluan dan keadaan orang lain dalam masyarakat.",
+        "Bincangkan": "Teliti dua alasan yang menyokong dakwaan dan dua yang mencabarnya sebelum merumuskan secara seimbang."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Penggunaan teknologi dalam masyarakat",
+          "guiding": [
+            "Apakah konteks penggunaan teknologi yang berkaitan dengan hubungan dalam masyarakat?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Dakwaan bahawa teknologi menyebabkan sikap tidak ambil peduli",
+          "guiding": [
+            "Bagaimanakah kamu membezakan sikap yang disebabkan oleh penggunaan teknologi daripada sikap yang sudah wujud?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Sikap terhadap orang lain dalam masyarakat",
+          "guiding": [
+            "Apakah tindakan atau reaksi yang menunjukkan seseorang mengambil peduli atau sebaliknya?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Perbincangan seimbang tentang kesan teknologi",
+          "guiding": [
+            "Bagaimanakah kamu mempertimbangkan kedua-dua sudut hubungan sebab dan akibat ini?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -4532,20 +5047,44 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah yang dimaksudkan dengan menjadi teladan kepada remaja dalam konteks seorang selebriti?"
-        ],
-        [
-          "Apakah dua sudut yang perlu ditimbang apabila soalan mengatakan selebriti “seharusnya” memikul peranan tersebut?"
-        ]
-      ],
+      "kind": "imbang",
+      "version": 1,
       "keywords": {
-        "Selebriti": "Fokus pada individu terkenal yang menjadi perhatian umum.",
-        "contoh yang baik": "Teladan ialah perlakuan yang boleh dicontohi. Kata “seharusnya” menuntut kamu menilai tanggungjawab itu.",
-        "remaja": "Pertimbangkan pengaruh selebriti khususnya terhadap golongan remaja.",
-        "Bincangkan": "Timbang sebab menyokong dan mempersoalkan tanggungjawab selebriti untuk menjadi teladan remaja."
-      }
+        "Selebriti": "Fikirkan tokoh terkenal yang diketahui oleh remaja.",
+        "seharusnya": "Perkataan ini menyatakan satu jangkaan atau tanggungjawab.",
+        "contoh yang baik kepada remaja": "Fokus pada teladan yang boleh diikuti oleh golongan remaja.",
+        "Bincangkan": "Pertimbangkan dua alasan yang menyokong jangkaan ini dan dua yang mencabarnya sebelum merumuskan secara seimbang."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Teladan selebriti kepada remaja",
+          "guiding": [
+            "Apakah yang dimaksudkan dengan contoh yang baik dalam kehidupan remaja?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Jangkaan terhadap selebriti",
+          "guiding": [
+            "Apakah beza antara kemampuan selebriti mempengaruhi remaja dengan tanggungjawab untuk menjadi teladan?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Remaja yang melihat atau mengikuti selebriti",
+          "guiding": [
+            "Dalam konteks apakah tingkah laku selebriti menjadi relevan kepada remaja?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Perbincangan seimbang tentang tanggungjawab selebriti",
+          "guiding": [
+            "Bagaimanakah kamu akan menimbang alasan yang menyokong dan yang mencabar jangkaan itu?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -4614,20 +5153,44 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah yang dimaksudkan dengan anak membuat keputusan sendiri apabila ibu bapa masih terlibat dalam hidupnya?"
-        ],
-        [
-          "Apakah yang perlu kamu pertimbangkan pada kedua-dua sudut tentang sejauh mana kebebasan membuat keputusan wajar diberikan?"
-        ]
-      ],
+      "kind": "imbang",
+      "version": 1,
       "keywords": {
-        "Ibu bapa": "Fokus pada peranan ibu bapa dalam memberikan ruang kepada anak untuk memilih.",
-        "membenarkan anak-anak": "Pernyataan menilai kebenaran yang patut diberikan oleh ibu bapa.",
-        "membuat keputusan sendiri": "Anak membuat pilihan sendiri. Perhatikan perbezaan antara memberikan ruang dengan menetapkan pilihan untuk anak.",
-        "Bincangkan": "Timbang sebab untuk memberikan kebebasan membuat keputusan serta sebab untuk mengehadkannya."
-      }
+        "Ibu bapa": "Fokus pada peranan ibu bapa ketika memberikan ruang kepada anak-anak.",
+        "harus membenarkan": "Frasa ini menyatakan jangkaan tentang perkara yang patut dilakukan oleh ibu bapa.",
+        "membuat keputusan sendiri": "Tumpukan ruang anak-anak membuat pilihan dan pertimbangkan batas yang sesuai.",
+        "Bincangkan": "Bincangkan dua alasan yang menyokong dan dua yang mencabar pernyataan, lalu buat rumusan seimbang."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Peranan ibu bapa dalam keputusan anak-anak",
+          "guiding": [
+            "Apakah yang dimaksudkan dengan memberi ruang kepada anak untuk membuat keputusan?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Dakwaan bahawa ibu bapa harus memberikan kebebasan membuat keputusan",
+          "guiding": [
+            "Apakah beza antara membuat pilihan sendiri dengan membuat pilihan selepas mendapat bimbingan?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Jenis keputusan dalam kehidupan anak-anak",
+          "guiding": [
+            "Bagaimanakah usia, tanggungjawab atau kesan keputusan membatasi perbincangan kamu?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Perbincangan seimbang tentang kebebasan membuat keputusan",
+          "guiding": [
+            "Bagaimanakah kamu akan merumuskan keadaan yang menyokong dan yang mencabar dakwaan?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -4686,20 +5249,44 @@
     ],
     "practiceQuestion": "Bincangkan cabaran-cabaran yang dihadapi oleh belia Singapura pada masa kini.",
     "fahami": {
-      "guiding": [
-        [
-          "Siapakah yang menjadi fokus, dan dalam konteks masa dan tempat yang bagaimana?"
-        ],
-        [
-          "Bagaimanakah kamu membezakan antara cabaran yang perlu dihuraikan dengan cadangan untuk mengatasinya?"
-        ]
-      ],
+      "kind": "tema",
+      "version": 1,
       "keywords": {
-        "cabaran-cabaran": "Huraikan beberapa kesukaran yang berbeza dan jelaskan sebab setiap satunya mencabar.",
-        "belia Singapura": "Fokus pada belia dalam konteks kehidupan di Singapura.",
-        "masa kini": "Pilih cabaran yang relevan dengan keadaan sekarang.",
-        "Bincangkan": "Huraikan beberapa cabaran berbeza yang dihadapi belia Singapura pada masa kini."
-      }
+        "Bincangkan": "Huraikan beberapa cabaran yang berbeza dan berikan contoh yang relevan.",
+        "cabaran-cabaran": "Fokus pada kesukaran yang perlu dihadapi dan terangkan bagaimana kesukaran itu dialami.",
+        "belia Singapura": "Hadkan perbincangan kepada kehidupan belia di Singapura.",
+        "pada masa kini": "Utamakan situasi yang relevan dengan keadaan semasa."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Cabaran dalam kehidupan belia",
+          "guiding": [
+            "Apakah yang menjadikan sesuatu situasi satu cabaran bagi belia?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Cabaran yang dihadapi oleh belia",
+          "guiding": [
+            "Bagaimanakah kamu dapat menjelaskan kesukaran yang wujud dalam situasi yang dipilih?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Belia Singapura pada masa kini",
+          "guiding": [
+            "Adakah konteks yang kamu pilih khusus kepada pengalaman belia di Singapura hari ini?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Huraian beberapa cabaran berbeza",
+          "guiding": [
+            "Bagaimanakah kamu akan memastikan setiap isi menerangkan cabaran yang tersendiri?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -4757,19 +5344,43 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Bagaimanakah peranan ketua pelajar menentukan skop perubahan yang ingin kamu usahakan?"
-        ],
-        [
-          "Bagaimanakah kamu akan memastikan setiap isi menyatakan perubahan yang jelas untuk sekolah kamu?"
-        ]
-      ],
+      "kind": "tema",
+      "version": 1,
       "keywords": {
-        "ketua pelajar": "Tulis dari sudut seorang ketua pelajar yang mahu membawa perubahan.",
-        "perubahan-perubahan": "Nyatakan beberapa perubahan yang berbeza dan jelaskan tujuan setiap perubahan.",
-        "sekolah kamu": "Hadkan cadangan kepada sekolah kamu dan perkara yang boleh diusahakan dalam peranan itu."
-      }
+        "Jika kamu seorang ketua pelajar": "Jawab dari sudut seorang ketua pelajar. Pertimbangkan bidang yang boleh dipengaruhi melalui peranan itu.",
+        "perubahan-perubahan": "Cadangkan beberapa perubahan yang jelas dan huraikan tujuan setiap cadangan.",
+        "di sekolah kamu": "Sesuaikan cadangan dengan keperluan dan keadaan sekolah sendiri."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Pembaharuan dalam kehidupan sekolah",
+          "guiding": [
+            "Apakah keadaan di sekolah yang boleh diperbaik?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Perubahan yang ingin dilaksanakan",
+          "guiding": [
+            "Apakah yang membuatkan setiap perubahan yang dicadangkan benar-benar berbeza?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Peranan ketua pelajar di sekolah sendiri",
+          "guiding": [
+            "Apakah perubahan yang boleh kamu usahakan melalui peranan ketua pelajar?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Cadangan dengan tujuan yang jelas",
+          "guiding": [
+            "Bagaimanakah kamu akan menjelaskan tujuan setiap perubahan dan kaitannya dengan keperluan sekolah?"
+          ]
+        }
+      ]
     }
   },
   {
@@ -4849,19 +5460,43 @@
       ]
     ],
     "fahami": {
-      "guiding": [
-        [
-          "Apakah makna “masyarakat penyayang” apabila digunakan untuk menilai masyarakat Singapura?"
-        ],
-        [
-          "Apakah pendirian kamu terhadap gambaran itu, dan apakah yang mesti ditunjukkan oleh alasan kamu tentang masyarakat Singapura?"
-        ]
-      ],
+      "kind": "pendirian",
+      "version": 1,
       "keywords": {
-        "Masyarakat Singapura": "Nilai sifat penyayang dalam konteks masyarakat setempat di Singapura.",
-        "masyarakat penyayang": "Fikirkan apakah yang menunjukkan keprihatinan antara anggota masyarakat.",
-        "Bersetujukah": "Pilih satu pendirian tentang sama ada sifat penyayang mencirikan masyarakat Singapura dan jelaskan sebabnya."
-      }
+        "Masyarakat Singapura": "Tumpukan amalan dan hubungan antara anggota masyarakat di Singapura.",
+        "masyarakat penyayang": "Fikirkan tindakan yang memperlihatkan keprihatinan terhadap orang lain.",
+        "Bersetujukah kamu? Mengapa?": "Pilih pendirian tentang sejauh mana sifat penyayang mencirikan masyarakat Singapura."
+      },
+      "requirements": [
+        {
+          "category": "topik",
+          "text": "Sikap penyayang dalam masyarakat",
+          "guiding": [
+            "Apakah tingkah laku yang memperlihatkan keprihatinan terhadap orang lain?"
+          ]
+        },
+        {
+          "category": "fokus",
+          "text": "Dakwaan bahawa sikap penyayang mencirikan masyarakat",
+          "guiding": [
+            "Bagaimanakah kamu menilai sama ada sesuatu tindakan menggambarkan sikap masyarakat secara lebih meluas?"
+          ]
+        },
+        {
+          "category": "skop",
+          "text": "Hubungan dalam masyarakat Singapura",
+          "guiding": [
+            "Apakah konteks setempat yang relevan untuk menilai dakwaan itu?"
+          ]
+        },
+        {
+          "category": "kehendak",
+          "text": "Pendirian tentang masyarakat penyayang",
+          "guiding": [
+            "Apakah pendirian kamu tentang sejauh mana keprihatinan mencirikan masyarakat Singapura?"
+          ]
+        }
+      ]
     }
   },
   {
